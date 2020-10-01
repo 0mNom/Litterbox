@@ -1024,3 +1024,69 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.01-09.06.57:583][276]LogSlate: Window 'MotionControllerPawnCourtney' being destroyed
 [2020.10.01-09.06.57:599][276]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
 [2020.10.01-09.06.57:599][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-09.10.47:128][728]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.11.40:966][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.10.01-09.11.40:969][ 52]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.036
+[2020.10.01-09.11.40:970][ 52]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Courtney/Blueprints/BP_Climbable] ([1] browsable assets)...
+[2020.10.01-09.11.40:970][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/BP_Climbable]
+[2020.10.01-09.11.40:981][ 52]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable_Auto4525BFEEB426DD1C5DBF432AFD074AEB3.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/BP_Climbable_Auto4.uasset'
+[2020.10.01-09.11.40:984][ 52]LogFileHelpers: Auto-saving content packages took 0.015
+[2020.10.01-09.14.32:196][248]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable72DCD7E74FEF2A0F0C433894EABA2346.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.14.32:209][248]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.14.32:209][248]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.14.37:145][634]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-09.14.37:191][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.10.01-09.14.38:498][769]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable2B63894B4BC352C20898399E7D0C85B9.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.14.38:508][769]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.14.38:508][769]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.14.58:407][804]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.01-09.15.06:330][701]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-09.15.06:371][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.10.01-09.15.07:346][800]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableD20F77DE49E12A66D3109985F6812766.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.15.07:358][800]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.15.07:358][800]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.21.58:665][778]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-09.21.58:716][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.10.01-09.21.59:603][867]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableB63ABD894A63EF7FAD7CA08E4E080987.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.21.59:615][867]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.21.59:615][867]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.23.49:979][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.01-09.23.50:002][ 83]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_Auto5BA9A35B2429C30D30F0220B2F8CCFD8B.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Courtney_Auto5.umap'
+[2020.10.01-09.23.50:004][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.048
+[2020.10.01-09.23.50:004][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.048
+[2020.10.01-09.23.50:004][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Courtney/Blueprints/BP_Climbable] ([1] browsable assets)...
+[2020.10.01-09.23.50:011][ 83]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable]
+[2020.10.01-09.23.50:011][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/BP_Climbable]
+[2020.10.01-09.23.50:029][ 83]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable_Auto599B9EFDE4AA68B4139688D9ECE6654A6.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/BP_Climbable_Auto5.uasset'
+[2020.10.01-09.23.50:030][ 83]LogFileHelpers: Auto-saving content packages took 0.027
+[2020.10.01-09.44.18:615][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.10.01-09.44.18:617][870]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.020
+[2020.10.01-09.44.18:617][870]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Courtney/Blueprints/BP_Climbable] ([1] browsable assets)...
+[2020.10.01-09.44.18:625][870]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable]
+[2020.10.01-09.44.18:625][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/BP_Climbable]
+[2020.10.01-09.44.18:646][870]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable_Auto63766FA9A4D9AFA6ADEDBC3812DFF8822.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/BP_Climbable_Auto6.uasset'
+[2020.10.01-09.44.18:647][870]LogFileHelpers: Auto-saving content packages took 0.031
+[2020.10.01-09.51.02:268][692]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-09.51.02:318][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.10.01-09.51.02:870][742]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable06D0D95F40AA9704AD131791B624612F.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.51.02:882][742]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.51.02:882][742]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.56.12:651][619]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-09.56.12:702][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.10.01-09.56.14:041][748]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableC5C621E84FB3E4FBD3913D90E6BB46C1.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.56.14:055][748]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.56.14:055][748]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.56.18:147][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.10.01-09.56.18:172][854]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_Auto76EE515B14BD5C5D50301AAB5007C4EFB.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Courtney_Auto7.umap'
+[2020.10.01-09.56.18:175][854]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.057
+[2020.10.01-09.56.18:175][854]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.057
+[2020.10.01-09.58.41:066][142]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-09.58.41:114][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.10.01-09.58.42:242][238]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable30FE3D114249FD33BA49EAAECBF48464.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.58.42:254][238]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.58.42:254][238]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-10.00.17:858][ 23]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-10.00.17:910][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.10.01-10.00.18:624][ 72]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable92D7C57748B25A3FCBFFEABD28D36888.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-10.00.18:636][ 72]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-10.00.18:636][ 72]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
