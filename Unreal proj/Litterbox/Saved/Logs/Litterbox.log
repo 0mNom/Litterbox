@@ -1090,3 +1090,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.01-10.00.18:624][ 72]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable92D7C57748B25A3FCBFFEABD28D36888.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
 [2020.10.01-10.00.18:636][ 72]AssetCheck: New page: Asset Save: BP_Climbable
 [2020.10.01-10.00.18:636][ 72]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-10.04.33:257][686]LogSlate: Window 'BP_Climbable' being destroyed
+[2020.10.01-10.04.33:266][686]LogSlate: Window 'BP_Climbable' being destroyed
+[2020.10.01-10.04.33:267][686]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-10.04.33:267][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-10.04.34:587][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.10.01-10.04.34:610][822]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney4AC4D7E746AEBF4BDED715AC3CE5AF68.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.01-10.04.34:666][822]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData941379194BFFCFEDCD46178279935F04.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.01-10.04.34:681][822]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.01-10.04.34:681][822]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.01-10.04.34:681][822]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
