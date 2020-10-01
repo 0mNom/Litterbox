@@ -851,3 +851,134 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.01-08.03.37:259][655]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.01-08.03.37:259][655]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
 [2020.10.01-08.03.37:259][655]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.01-08.12.08:571][454]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-08.16.29:153][846]LogSlate: Window 'BP_Climbable' being destroyed
+[2020.10.01-08.16.29:158][846]LogSlate: Window 'BP_Climbable' being destroyed
+[2020.10.01-08.16.29:159][846]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-08.16.29:159][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-08.22.21:768][703]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.01-08.22.26:747][233]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.01-08.22.30:085][597]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.01-08.24.22:492][907]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.10.01-08.24.22:495][907]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.10.01-08.24.27:575][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.10.01-08.24.27:604][490]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney868D02A34805D3EECA6CB39F92FB539E.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.01-08.24.27:662][490]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltDataB08CBDBA40103D145DABE6889F863EB5.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.01-08.24.27:676][490]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.01-08.24.27:676][490]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.01-08.24.27:676][490]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.01-08.24.30:352][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.10.01-08.24.30:371][804]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney68B1BA7F49F855A0CBCD809015EBDBAA.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.01-08.24.30:426][804]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData78391C5B4B749D2163924591634DF2B7.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.01-08.24.30:440][804]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.01-08.24.30:440][804]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.01-08.24.30:440][804]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.01-08.25.15:418][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:BndEvt__ControllerMesh_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:RumbleController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:BndEvt__Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:GetActorNearHand' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:ReleaseActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:GrabActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:ActivateTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:DisableTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:TraceTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:ClearArc' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:UpdateArcSpline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:UpdateArcEndpoint' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:SetupRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:UpdateRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:GetTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:GetActorNearHand' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:ReleaseActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:GrabActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:ActivateTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:DisableTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:TraceTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:ClearArc' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:UpdateArcSpline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:UpdateArcEndpoint' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:SetupRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:UpdateRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:GetTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:RumbleController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:926][775]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtney64F6C7DD45A63D199F859BB5BBEBA4DE.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_MotionControllerCourtney.uasset'
+[2020.10.01-08.25.20:087][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.10.01-08.25.20:116][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.10.01-08.25.20:131][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.10.01-08.25.20:160][775]AssetCheck: New page: Asset Save: BP_MotionControllerCourtney
+[2020.10.01-08.25.20:161][775]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.25.23:420][157]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.26.19:649][577]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.01-08.27.10:815][515]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtney25F654C14F76F642547264B137B6DBA9.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_MotionControllerCourtney.uasset'
+[2020.10.01-08.27.10:827][515]AssetCheck: New page: Asset Save: BP_MotionControllerCourtney
+[2020.10.01-08.27.10:827][515]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.27.13:942][865]BlueprintLog: New page: Compile BP_MotionControllerCourtney
+[2020.10.01-08.27.14:004][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.10.01-08.27.15:244][981]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtneyB2BB3D0F47B2ACE77F62B99F53766F2D.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_MotionControllerCourtney.uasset'
+[2020.10.01-08.27.15:257][981]AssetCheck: New page: Asset Save: BP_MotionControllerCourtney
+[2020.10.01-08.27.15:257][981]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.36.21:777][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.10.01-08.36.21:779][ 60]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.023
+[2020.10.01-08.36.21:782][ 60]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Courtney/Blueprints/BP_MotionControllerCourtney] ([1] browsable assets)...
+[2020.10.01-08.36.21:790][ 60]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney]
+[2020.10.01-08.36.21:790][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/BP_MotionControllerCourtney]
+[2020.10.01-08.36.21:881][ 60]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtney_AutoBDAF01F94AE9ACDE83B37A8E819D21C3.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/BP_MotionControllerCourtney_Auto2.uasset'
+[2020.10.01-08.36.21:882][ 60]LogFileHelpers: Auto-saving content packages took 0.104
+[2020.10.01-08.36.25:405][ 71]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.01-08.37.33:330][611]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtney1150CB78470B50AA78AC1B9CAB4758DE.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_MotionControllerCourtney.uasset'
+[2020.10.01-08.37.33:342][611]AssetCheck: New page: Asset Save: BP_MotionControllerCourtney
+[2020.10.01-08.37.33:343][611]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.37.33:942][678]BlueprintLog: New page: Compile BP_MotionControllerCourtney
+[2020.10.01-08.37.34:005][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.10.01-08.41.55:818][512]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtney616D222B4C389EB647A1C8A47BAAA09C.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_MotionControllerCourtney.uasset'
+[2020.10.01-08.41.55:830][512]AssetCheck: New page: Asset Save: BP_MotionControllerCourtney
+[2020.10.01-08.41.55:830][512]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.41.56:934][623]BlueprintLog: New page: Compile BP_MotionControllerCourtney
+[2020.10.01-08.41.56:999][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.10.01-08.41.58:127][718]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtney36E1B91448968E420D6EB19B42874A2B.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_MotionControllerCourtney.uasset'
+[2020.10.01-08.41.58:138][718]AssetCheck: New page: Asset Save: BP_MotionControllerCourtney
+[2020.10.01-08.41.58:138][718]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.42.03:142][216]LogSlate: Window 'BP_MotionControllerCourtney' being destroyed
+[2020.10.01-08.42.03:147][216]LogSlate: Window 'BP_MotionControllerCourtney' being destroyed
+[2020.10.01-08.42.03:164][216]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-08.42.03:164][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-08.42.27:277][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.10.01-08.42.36:602][865]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawncourtneyC3460A8543B93A81962EE0A9B05B4E6B.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.uasset'
+[2020.10.01-08.42.36:803][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.10.01-08.42.36:831][865]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.42.36:831][865]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.MotionControllerPawnCourtney
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.SKEL_MotionControllerPawnCourtney_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.SKEL_MotionControllerPawnCourtney_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.SKEL_MotionControllerPawnCourtney_C:ExecuteTeleportation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.SKEL_MotionControllerPawnCourtney_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.SKEL_MotionControllerPawnCourtney_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.SKEL_MotionControllerPawnCourtney_C:GetRotationFromInput' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney_C:GetRotationFromInput' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:477][762]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney4BAE86FE44BC94DAF9B66784823D40E2.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-08.42.44:595][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.10.01-08.42.44:619][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.10.01-08.42.44:633][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.10.01-08.42.44:660][762]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.42.44:660][762]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-08.42.49:416][322]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-08.42.54:923][715]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney649AACA84E9A5F4093CEDB9099F5F3BB.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-08.42.54:933][715]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.42.54:933][715]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-08.42.57:114][890]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-08.42.57:158][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.10.01-08.42.57:256][890]LogSlate: Took 0.004636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.01-08.42.58:104][950]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney96BB3D2B42102E2B1AA04FBA22764E53.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-08.42.58:113][950]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.42.58:113][950]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
