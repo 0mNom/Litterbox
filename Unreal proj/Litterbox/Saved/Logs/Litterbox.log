@@ -982,3 +982,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.01-08.42.58:104][950]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney96BB3D2B42102E2B1AA04FBA22764E53.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
 [2020.10.01-08.42.58:113][950]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
 [2020.10.01-08.42.58:113][950]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-08.46.57:267][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.10.01-08.46.57:268][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.024
+[2020.10.01-08.46.57:269][675]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Courtney/Blueprints/MotionControllerPawnCourtney] ([1] browsable assets)...
+[2020.10.01-08.46.57:269][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/MotionControllerPawnCourtney]
+[2020.10.01-08.46.57:316][675]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney_Aut68CE5DB743C3F3B4B01605AD190B3F8D.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/MotionControllerPawnCourtney_Auto3.uasset'
+[2020.10.01-08.46.57:317][675]LogFileHelpers: Auto-saving content packages took 0.049
+[2020.10.01-08.47.55:885][796]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-08.47.55:928][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.10.01-08.47.56:725][866]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney740A5CF1469E1E6A26173789C175DDB3.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-08.47.56:738][866]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.47.56:738][866]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-08.48.39:019][ 61]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-08.48.39:062][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.10.01-08.48.59:642][821]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-08.48.59:685][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.10.01-08.49.00:690][913]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtneyBDA8A9B345FAE30E82FF2A966A26D358.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-08.49.00:701][913]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.49.00:701][913]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-08.55.25:190][862]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-08.55.25:237][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.10.01-08.55.27:076][ 18]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney4ACBE40C444ECC0086B91CAEE4CC6DA3.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-08.55.27:088][ 18]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.55.27:088][ 18]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-09.04.39:789][529]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-09.04.39:837][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.10.01-09.04.40:531][576]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney73E89D4A4A5E17423F7C5999C8078361.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-09.04.40:545][576]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-09.04.40:545][576]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-09.05.49:209][841]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-09.05.49:259][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.10.01-09.05.49:796][877]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney2CF676954F323198DD7CD6BA88819CE0.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-09.05.49:810][877]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-09.05.49:810][877]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-09.06.55:389][110]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-09.06.55:436][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.10.01-09.06.56:278][168]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney75FF4905497DF7859EFB18ABCAE11EAB.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-09.06.56:291][168]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-09.06.56:291][168]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-09.06.57:578][276]LogSlate: Window 'MotionControllerPawnCourtney' being destroyed
+[2020.10.01-09.06.57:583][276]LogSlate: Window 'MotionControllerPawnCourtney' being destroyed
+[2020.10.01-09.06.57:599][276]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-09.06.57:599][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
