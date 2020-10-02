@@ -1100,3 +1100,43 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.01-10.04.34:681][822]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.01-10.04.34:681][822]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
 [2020.10.01-10.04.34:681][822]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.02-06.13.44:762][756]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.10.02-06.13.50:933][772]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.10.02-06.13.55:260][783]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.10.02-06.14.00:287][797]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.10.02-09.24.03:998][816]LogHttp: Warning: 0000020E61C90F00: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5A18A8A2-474E-9329-22F9-9493AB278835%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=ea7ab85940210079434648b70b42b674%7Cb444d354bc8946a1af9bd635ce9c79cf%7C7b17a615-b773-4933-a1c0-e51a155104bb&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 502, content length: 122, actual payload size: 122, elapsed: 0.38s
+[2020.10.02-09.24.03:999][816]LogHttp: Warning: 0000020E61C90F00 Response Header Server: awselb/2.0
+[2020.10.02-09.24.03:999][816]LogHttp: Warning: 0000020E61C90F00 Response Header Date: Fri, 02 Oct 2020 09:24:03 GMT
+[2020.10.02-09.24.03:999][816]LogHttp: Warning: 0000020E61C90F00 Response Header Content-Type: text/html
+[2020.10.02-09.24.03:999][816]LogHttp: Warning: 0000020E61C90F00 Response Header Content-Length: 122
+[2020.10.02-09.24.03:999][816]LogHttp: Warning: 0000020E61C90F00 Response Header Connection: keep-alive
+[2020.10.02-13.05.11:210][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.10.02-13.05.11:255][719]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney3DECB21F43D64022D577089198FA75E8.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.02-13.05.11:315][719]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData09F74EB14F4709213025358799C8216B.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.02-13.05.11:332][719]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-13.05.11:332][719]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.02-13.05.11:332][719]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.02-13.05.12:134][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.10.02-13.05.12:154][811]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney891101AD4FE3EB9FE208F0AAF985C6CB.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.02-13.05.12:211][811]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData2C112103401934A3D3F868BABB5613B9.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.02-13.05.12:226][811]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-13.05.12:226][811]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.02-13.05.12:226][811]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.02-13.05.12:432][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.02-13.05.12:451][832]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney5F07D21F4066D8F2EB41EDA90A5E3B90.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.02-13.05.12:507][832]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData6BFA9A734AD92F266B38A5B847AF9634.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.02-13.05.12:523][832]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-13.05.12:523][832]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.02-13.05.12:523][832]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.02-13.05.12:784][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.10.02-13.05.12:803][859]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney0AB19CF945B76E6DED7C3FA8C8536B74.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.02-13.05.12:859][859]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltDataC7061B824CDDE8EB49A5A587EEF5274A.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.02-13.05.12:874][859]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-13.05.12:874][859]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.02-13.05.12:874][859]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.02-13.05.13:132][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.10.02-13.05.13:151][885]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney42E5CC5D4BC2AC3C99EA21A18DB607D4.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.02-13.05.13:207][885]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData0243D07740628A5FAC6E69A7324873A4.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.02-13.05.13:222][885]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-13.05.13:223][885]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.02-13.05.13:223][885]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
