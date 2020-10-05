@@ -2155,3 +2155,15 @@ Make sure 'Courtney_C' has been compiled for  Get MotioncontrollerPawn
 [2020.10.05-14.59.03:669][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/MotionControllerPawnCourtney]
 [2020.10.05-14.59.03:743][211]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney_Aut253F793A4997ACA23E0DD889C551BDF9.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/MotionControllerPawnCourtney_Auto3.uasset'
 [2020.10.05-14.59.03:744][211]LogFileHelpers: Auto-saving content packages took 0.075
+[2020.10.05-15.09.04:002][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.10.05-15.09.04:005][123]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.061
+[2020.10.05-15.09.04:006][123]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Courtney/Blueprints/MotionControllerPawnCourtney] ([1] browsable assets)...
+[2020.10.05-15.09.04:006][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/MotionControllerPawnCourtney]
+[2020.10.05-15.09.04:073][123]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney_Aut0639213149874A627E6DC580479C049D.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/MotionControllerPawnCourtney_Auto4.uasset'
+[2020.10.05-15.09.04:074][123]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Courtney/Blueprints/VR_movement_Enum_2] ([1] browsable assets)...
+[2020.10.05-15.09.04:074][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/VR_movement_Enum_2]
+[2020.10.05-15.09.04:080][123]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/VR_movement_Enum_2_Auto407DEEDBC41D7DBF130BB0FA18769E164.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/VR_movement_Enum_2_Auto4.uasset'
+[2020.10.05-15.09.04:081][123]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Courtney/Blueprints/VR_movement_Enum_3] ([1] browsable assets)...
+[2020.10.05-15.09.04:081][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/VR_movement_Enum_3]
+[2020.10.05-15.09.04:085][123]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/VR_movement_Enum_3_Auto4B72FA15441FDDA85F37C569CDD840D22.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/VR_movement_Enum_3_Auto4.uasset'
+[2020.10.05-15.09.04:086][123]LogFileHelpers: Auto-saving content packages took 0.080
