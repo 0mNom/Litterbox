@@ -76,3 +76,4 @@ DerivedDataCache/*
 *.log
 *.log
 Unreal proj/Litterbox/Saved/Logs/Litterbox.log
+Unreal proj/Litterbox/Saved/Config/CrashReportClient/UE4CC-Windows-22E78EFE4B77D6D981EC86AD50DA02A9/CrashReportClient.ini
