@@ -673,6 +673,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.05-14.07.10:183][211]LogRenderer: Reallocating scene render targets to support 908x580 Format 26 NumSamples 1 (Frame:12420).
 [2020.10.05-14.07.10:234][211]LogRenderer: Reallocating scene render targets to support 912x584 Format 26 NumSamples 1 (Frame:12421).
 [2020.10.05-14.07.10:383][211]LogRenderer: Reallocating scene render targets to support 912x588 Format 26 NumSamples 1 (Frame:12424).
+<<<<<<< Updated upstream
 [2020.10.05-14.08.45:190][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
 [2020.10.05-14.08.45:266][797]LogSlate: Window 'Litterbox - Unreal Editor' being destroyed
 [2020.10.05-14.08.45:267][797]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
@@ -1093,3 +1094,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.05-14.08.47:133][798]LogD3D11RHI: CleanupD3DDevice
 [2020.10.05-14.08.47:142][798]LogExit: Exiting.
 [2020.10.05-14.08.47:196][798]Log file closed, 10/05/20 16:08:47
+=======
+>>>>>>> Stashed changes
