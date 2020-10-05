@@ -1840,3 +1840,853 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.05-15.51.21:796][ 31]LogSavePackage: Moving '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Théo0E9C17C649A08FCE24D0D1A319F3F210.tmp' to '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
 [2020.10.05-15.51.21:862][ 31]AssetCheck: New page: Asset Save: Théo
 [2020.10.05-15.51.21:862][ 31]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
+[2020.10.05-15.51.50:652][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.10.05-15.51.50:688][788]LogSavePackage: Moving '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/ThéoD227FF5F41036CCE03942B8E9A3C176B.tmp' to '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
+[2020.10.05-15.51.50:754][788]AssetCheck: New page: Asset Save: Théo
+[2020.10.05-15.51.50:754][788]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
+[2020.10.05-15.51.56:206][377]LogActorFactory: Actor Factory created SM_Bed04
+[2020.10.05-15.51.59:172][703]LogActorFactory: Actor Factory created SM_Bed04
+[2020.10.05-15.51.59:777][774]LogActorFactory: Actor Factory created SM_Bed04
+[2020.10.05-15.52.03:386][191]Cmd: TRANSACTION UNDO
+[2020.10.05-15.52.03:386][191]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.52.05:466][369]LogActorFactory: Actor Factory created SM_Basket01
+[2020.10.05-15.52.06:148][444]LogActorFactory: Actor Factory created SM_Basket01
+[2020.10.05-15.52.16:317][599]LogActorFactory: Actor Factory created SM_Basket02
+[2020.10.05-15.52.17:176][700]LogActorFactory: Actor Factory created SM_Basket02
+[2020.10.05-15.52.28:266][916]LogActorFactory: Actor Factory created SM_Book01
+[2020.10.05-15.52.29:275][ 36]LogActorFactory: Actor Factory created SM_Book01
+[2020.10.05-15.52.43:622][748]Cmd: EDIT COPY
+[2020.10.05-15.52.43:924][783]Cmd: EDIT PASTE
+[2020.10.05-15.52.46:412][ 76]Cmd: EDIT COPY
+[2020.10.05-15.52.46:683][108]Cmd: EDIT PASTE
+[2020.10.05-15.52.48:721][348]Cmd: EDIT COPY
+[2020.10.05-15.52.48:981][379]Cmd: EDIT PASTE
+[2020.10.05-15.53.00:372][704]LogActorFactory: Actor Factory created SM_Clock02
+[2020.10.05-15.53.05:430][254]LogActorFactory: Actor Factory created SM_Box01
+[2020.10.05-15.53.06:258][348]LogActorFactory: Actor Factory created SM_Box01
+[2020.10.05-15.53.10:448][832]LogActorFactory: Actor Factory created SM_Box02
+[2020.10.05-15.53.11:000][897]LogActorFactory: Actor Factory created SM_Box02
+[2020.10.05-15.53.11:914][982]LogActorFactory: Actor Factory created SM_Calendar01
+[2020.10.05-15.53.13:419][161]LogActorFactory: Actor Factory created SM_Calendar01
+[2020.10.05-15.53.13:859][210]Cmd: TRANSACTION UNDO
+[2020.10.05-15.53.13:859][210]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.53.17:005][491]LogActorFactory: Actor Factory created SM_Carpet07
+[2020.10.05-15.53.18:389][654]LogActorFactory: Actor Factory created SM_Carpet07
+[2020.10.05-15.53.22:419][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Box01)
+[2020.10.05-15.53.24:144][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Carpet07)
+[2020.10.05-15.53.26:225][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Box01)
+[2020.10.05-15.53.32:567][283]LogActorFactory: Actor Factory created SM_Carpet06
+[2020.10.05-15.53.33:381][379]LogActorFactory: Actor Factory created SM_Carpet06
+[2020.10.05-15.53.33:794][425]Cmd: TRANSACTION UNDO
+[2020.10.05-15.53.33:794][425]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.53.45:337][707]LogActorFactory: Actor Factory created SM_Chair01
+[2020.10.05-15.53.46:919][895]LogActorFactory: Actor Factory created SM_Chair01
+[2020.10.05-15.53.58:381][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa01)
+[2020.10.05-15.54.00:368][464]Cmd: EDIT COPY
+[2020.10.05-15.54.00:714][505]Cmd: EDIT PASTE
+[2020.10.05-15.54.17:915][529]Cmd: EDIT COPY
+[2020.10.05-15.54.18:215][556]Cmd: EDIT PASTE
+[2020.10.05-15.54.25:763][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa3)
+[2020.10.05-15.54.44:484][651]Cmd: DELETE
+[2020.10.05-15.54.44:484][651]Cmd: ACTOR DELETE
+[2020.10.05-15.54.44:486][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.05-15.54.44:503][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.10.05-15.54.44:512][651]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.10.05-15.54.47:071][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa2)
+[2020.10.05-15.55.07:297][355]LogActorFactory: Actor Factory created SM_Chair03
+[2020.10.05-15.55.09:434][610]LogActorFactory: Actor Factory created SM_Chair03
+[2020.10.05-15.55.10:408][723]Cmd: DELETE
+[2020.10.05-15.55.10:408][723]Cmd: ACTOR DELETE
+[2020.10.05-15.55.10:410][723]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.05-15.55.10:425][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.10.05-15.55.10:430][723]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.10.05-15.55.13:404][ 51]LogActorFactory: Actor Factory created SM_Cosmetics01
+[2020.10.05-15.55.14:133][138]LogActorFactory: Actor Factory created SM_Cosmetics01
+[2020.10.05-15.55.16:036][361]Cmd: TRANSACTION UNDO
+[2020.10.05-15.55.16:036][361]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.55.17:580][475]LogActorFactory: Actor Factory created SM_Cosmetics03
+[2020.10.05-15.55.18:044][528]LogActorFactory: Actor Factory created SM_Cosmetics03
+[2020.10.05-15.55.18:677][600]Cmd: TRANSACTION UNDO
+[2020.10.05-15.55.18:677][600]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.55.25:975][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Box01)
+[2020.10.05-15.55.29:615][748]LogActorFactory: Actor Factory created SM_CurtainClip01
+[2020.10.05-15.55.30:145][810]LogActorFactory: Actor Factory created SM_CurtainClip01
+[2020.10.05-15.55.30:544][854]Cmd: TRANSACTION UNDO
+[2020.10.05-15.55.30:544][854]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.55.32:022][952]LogActorFactory: Actor Factory created SM_CurtainPole02
+[2020.10.05-15.55.33:382][106]LogActorFactory: Actor Factory created SM_CurtainPole02
+[2020.10.05-15.55.33:640][133]Cmd: TRANSACTION UNDO
+[2020.10.05-15.55.33:640][133]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.55.35:006][209]LogActorFactory: Actor Factory created SM_Desktop01
+[2020.10.05-15.55.36:165][345]LogActorFactory: Actor Factory created SM_Desktop01
+[2020.10.05-15.55.36:674][395]Cmd: TRANSACTION UNDO
+[2020.10.05-15.55.36:674][395]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.55.37:302][415]LogActorFactory: Actor Factory created SM_Desk02
+[2020.10.05-15.55.38:482][551]LogActorFactory: Actor Factory created SM_Desk02
+[2020.10.05-15.55.39:633][656]LogActorFactory: Actor Factory created SM_Desk01
+[2020.10.05-15.55.40:776][788]LogActorFactory: Actor Factory created SM_Desk01
+[2020.10.05-15.55.42:898][ 30]Cmd: TRANSACTION UNDO
+[2020.10.05-15.55.42:898][ 30]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.55.43:270][ 40]Cmd: TRANSACTION UNDO
+[2020.10.05-15.55.43:270][ 40]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.55.44:831][175]LogActorFactory: Actor Factory created SM_Drawer01
+[2020.10.05-15.55.46:324][345]LogActorFactory: Actor Factory created SM_Drawer01
+[2020.10.05-15.56.03:929][421]Cmd: EDIT COPY
+[2020.10.05-15.56.04:671][499]Cmd: EDIT PASTE
+[2020.10.05-15.56.12:229][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Drawer01)
+[2020.10.05-15.56.15:811][777]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Drawer02)
+[2020.10.05-15.56.16:099][803]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Monitor02)
+[2020.10.05-15.56.17:975][  1]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_SetupBox01)
+[2020.10.05-15.56.37:678][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Basket01)
+[2020.10.05-15.56.44:165][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Basket02)
+[2020.10.05-15.56.51:655][945]LogActorFactory: Actor Factory created SM_Drawer02
+[2020.10.05-15.56.52:380][ 29]LogActorFactory: Actor Factory created SM_Drawer02
+[2020.10.05-15.56.53:361][116]LogActorFactory: Actor Factory created SM_Drawer01Door
+[2020.10.05-15.56.54:267][222]LogActorFactory: Actor Factory created SM_Drawer01Door
+[2020.10.05-15.56.55:326][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Drawer3)
+[2020.10.05-15.56.56:055][430]Cmd: DELETE
+[2020.10.05-15.56.56:055][430]Cmd: ACTOR DELETE
+[2020.10.05-15.56.56:057][430]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.05-15.56.56:074][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.10.05-15.56.56:082][430]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.10.05-15.56.56:522][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Drawer01Door)
+[2020.10.05-15.57.13:131][396]LogActorFactory: Actor Factory created SM_Drawer03
+[2020.10.05-15.57.14:741][587]LogActorFactory: Actor Factory created SM_Drawer03
+[2020.10.05-15.57.16:040][717]LogActorFactory: Actor Factory created SM_Drawer04Door
+[2020.10.05-15.57.17:377][876]LogActorFactory: Actor Factory created SM_Drawer04Door
+[2020.10.05-15.57.18:456][972]LogActorFactory: Actor Factory created SM_Drawer04
+[2020.10.05-15.57.19:223][ 63]LogActorFactory: Actor Factory created SM_Drawer04
+[2020.10.05-15.57.20:148][142]LogActorFactory: Actor Factory created SM_Drawer05
+[2020.10.05-15.57.20:836][223]LogActorFactory: Actor Factory created SM_Drawer05
+[2020.10.05-15.57.21:765][303]LogActorFactory: Actor Factory created SM_Drawer06Door
+[2020.10.05-15.57.23:335][490]LogActorFactory: Actor Factory created SM_Drawer06Door
+[2020.10.05-15.57.29:049][126]Cmd: TRANSACTION UNDO
+[2020.10.05-15.57.29:049][126]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.57.29:252][131]Cmd: TRANSACTION UNDO
+[2020.10.05-15.57.29:252][131]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.57.29:404][134]Cmd: TRANSACTION UNDO
+[2020.10.05-15.57.29:404][134]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.57.29:587][138]Cmd: TRANSACTION UNDO
+[2020.10.05-15.57.29:587][138]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.57.29:742][152]Cmd: TRANSACTION UNDO
+[2020.10.05-15.57.29:742][152]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.57.30:333][219]Cmd: TRANSACTION UNDO
+[2020.10.05-15.57.30:334][219]LogEditorTransaction: Undo Move Actors
+[2020.10.05-15.58.23:604][482]Cmd: EDIT COPY
+[2020.10.05-15.58.23:936][521]Cmd: EDIT PASTE
+[2020.10.05-15.58.39:600][394]Cmd: EDIT COPY
+[2020.10.05-15.58.40:100][453]Cmd: EDIT PASTE
+[2020.10.05-15.58.49:816][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Drawer01Door)
+[2020.10.05-15.58.50:402][655]Cmd: EDIT COPY
+[2020.10.05-15.58.50:747][696]Cmd: EDIT PASTE
+[2020.10.05-15.59.09:993][914]LogActorFactory: Actor Factory created SM_Drawer06Door
+[2020.10.05-15.59.11:079][ 42]LogActorFactory: Actor Factory created SM_Drawer06Door
+[2020.10.05-15.59.14:024][276]LogActorFactory: Actor Factory created SM_Drawer02
+[2020.10.05-15.59.15:044][392]LogActorFactory: Actor Factory created SM_Drawer02
+[2020.10.05-15.59.16:101][485]LogActorFactory: Actor Factory created SM_Drawer01Door
+[2020.10.05-15.59.17:293][626]LogActorFactory: Actor Factory created SM_Drawer01Door
+[2020.10.05-15.59.19:599][855]LogActorFactory: Actor Factory created SM_Drawer04Door
+[2020.10.05-15.59.20:680][976]LogActorFactory: Actor Factory created SM_Drawer04Door
+[2020.10.05-15.59.21:186][ 33]Cmd: TRANSACTION UNDO
+[2020.10.05-15.59.21:186][ 33]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.59.21:401][ 38]Cmd: TRANSACTION UNDO
+[2020.10.05-15.59.21:401][ 38]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.59.21:587][ 42]Cmd: TRANSACTION UNDO
+[2020.10.05-15.59.21:587][ 42]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.59.21:820][ 58]Cmd: TRANSACTION UNDO
+[2020.10.05-15.59.21:820][ 58]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.59.23:308][196]LogActorFactory: Actor Factory created SM_Drawer05
+[2020.10.05-15.59.24:384][322]LogActorFactory: Actor Factory created SM_Drawer05
+[2020.10.05-15.59.24:746][362]Cmd: TRANSACTION UNDO
+[2020.10.05-15.59.24:746][362]LogEditorTransaction: Undo Create Actors
+[2020.10.05-15.59.25:617][427]LogActorFactory: Actor Factory created SM_Drawer04Door
+[2020.10.05-15.59.26:929][581]LogActorFactory: Actor Factory created SM_Drawer04Door
+[2020.10.05-15.59.40:154][152]LogEditorViewport: Clicking Background
+[2020.10.05-15.59.47:596][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Drawer04Door)
+[2020.10.05-15.59.57:377][195]Cmd: DELETE
+[2020.10.05-15.59.57:377][195]Cmd: ACTOR DELETE
+[2020.10.05-15.59.57:380][195]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.05-15.59.57:396][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.10.05-15.59.57:404][195]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.10.05-16.00.01:357][612]LogActorFactory: Actor Factory created SM_Drawer08Door
+[2020.10.05-16.00.02:541][748]LogActorFactory: Actor Factory created SM_Drawer08Door
+[2020.10.05-16.00.02:865][783]Cmd: TRANSACTION UNDO
+[2020.10.05-16.00.02:865][783]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.00.05:040][974]LogActorFactory: Actor Factory created SM_Drawer07
+[2020.10.05-16.00.05:703][ 53]LogActorFactory: Actor Factory created SM_Drawer07
+[2020.10.05-16.00.17:807][476]Cmd: EDIT COPY
+[2020.10.05-16.00.18:124][513]Cmd: EDIT PASTE
+[2020.10.05-16.00.20:231][761]Cmd: EDIT COPY
+[2020.10.05-16.00.20:508][794]Cmd: EDIT PASTE
+[2020.10.05-16.00.23:957][154]LogActorFactory: Actor Factory created SM_Drawer09Door
+[2020.10.05-16.00.25:538][342]LogActorFactory: Actor Factory created SM_Drawer09Door
+[2020.10.05-16.00.54:694][809]Cmd: EDIT COPY
+[2020.10.05-16.00.54:974][840]Cmd: EDIT PASTE
+[2020.10.05-16.01.00:413][485]Cmd: EDIT COPY
+[2020.10.05-16.01.00:665][512]Cmd: EDIT PASTE
+[2020.10.05-16.01.20:450][793]LogActorFactory: Actor Factory created SM_Heater01
+[2020.10.05-16.01.21:249][888]LogActorFactory: Actor Factory created SM_Heater01
+[2020.10.05-16.01.42:092][328]Cmd: DELETE
+[2020.10.05-16.01.42:092][328]Cmd: ACTOR DELETE
+[2020.10.05-16.01.42:095][328]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.05-16.01.42:111][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.10.05-16.01.42:120][328]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.10.05-16.01.43:563][484]LogActorFactory: Actor Factory created SM_Keyboard01
+[2020.10.05-16.01.44:017][538]LogActorFactory: Actor Factory created SM_Keyboard01
+[2020.10.05-16.01.44:708][617]Cmd: TRANSACTION UNDO
+[2020.10.05-16.01.44:708][617]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.01.57:047][888]LogActorFactory: Actor Factory created SM_Sink01Door02
+[2020.10.05-16.01.58:194][ 25]LogActorFactory: Actor Factory created SM_Sink01Door02
+[2020.10.05-16.01.59:164][137]Cmd: TRANSACTION UNDO
+[2020.10.05-16.01.59:164][137]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.02.00:530][229]LogActorFactory: Actor Factory created SM_Table01Door02
+[2020.10.05-16.02.01:028][288]LogActorFactory: Actor Factory created SM_Table01Door02
+[2020.10.05-16.02.06:691][963]Cmd: TRANSACTION UNDO
+[2020.10.05-16.02.06:691][963]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.02.26:282][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table04)
+[2020.10.05-16.02.37:368][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GarbageBasket01)
+[2020.10.05-16.02.58:217][818]LogActorFactory: Actor Factory created SM_Shelf01
+[2020.10.05-16.02.59:366][950]LogActorFactory: Actor Factory created SM_Shelf01
+[2020.10.05-16.03.00:448][ 45]LogActorFactory: Actor Factory created SM_SetupBox01
+[2020.10.05-16.03.01:536][172]LogActorFactory: Actor Factory created SM_SetupBox01
+[2020.10.05-16.03.01:911][213]Cmd: TRANSACTION UNDO
+[2020.10.05-16.03.01:911][213]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.03.07:834][799]LogActorFactory: Actor Factory created SM_Refrigerator01Door01
+[2020.10.05-16.03.09:098][948]LogActorFactory: Actor Factory created SM_Refrigerator01Door01
+[2020.10.05-16.03.23:625][680]Cmd: TRANSACTION UNDO
+[2020.10.05-16.03.23:625][680]LogEditorTransaction: Undo Move Actors
+[2020.10.05-16.03.24:371][721]Cmd: TRANSACTION UNDO
+[2020.10.05-16.03.24:371][721]LogEditorTransaction: Undo Rotate Actors
+[2020.10.05-16.03.25:246][822]Cmd: TRANSACTION UNDO
+[2020.10.05-16.03.25:246][822]LogEditorTransaction: Undo Scale Actors
+[2020.10.05-16.03.56:326][499]LogActorFactory: Actor Factory created SM_Refrigerator01Door02
+[2020.10.05-16.03.57:824][671]LogActorFactory: Actor Factory created SM_Refrigerator01Door02
+[2020.10.05-16.04.14:493][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Refrigerator01Door01)
+[2020.10.05-16.04.22:459][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Refrigerator01Door02)
+[2020.10.05-16.05.12:757][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.10.05-16.05.12:809][517]LogSavePackage: Moving '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Théo885DA0064783475949E3E39194CFFB76.tmp' to '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
+[2020.10.05-16.05.12:883][517]AssetCheck: New page: Asset Save: Théo
+[2020.10.05-16.05.12:883][517]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
+[2020.10.05-16.11.50:999][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair01)
+[2020.10.05-16.11.51:909][292]Cmd: DELETE
+[2020.10.05-16.11.51:909][292]Cmd: ACTOR DELETE
+[2020.10.05-16.11.51:912][292]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.05-16.11.51:928][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.10.05-16.11.51:937][292]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.10.05-16.11.55:411][693]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Chair04)
+[2020.10.05-16.11.55:819][729]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Chair5)
+[2020.10.05-16.11.56:380][791]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Chair6)
+[2020.10.05-16.11.56:904][849]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Chair7)
+[2020.10.05-16.12.00:637][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair7)
+[2020.10.05-16.12.05:130][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair6)
+[2020.10.05-16.12.07:109][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair5)
+[2020.10.05-16.12.08:914][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair04)
+[2020.10.05-16.12.20:852][548]LogActorFactory: Actor Factory created SM_Table05
+[2020.10.05-16.12.21:607][637]LogActorFactory: Actor Factory created SM_Table05
+[2020.10.05-16.12.21:925][671]Cmd: TRANSACTION UNDO
+[2020.10.05-16.12.21:926][671]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.12.22:701][708]LogActorFactory: Actor Factory created SM_Table03
+[2020.10.05-16.12.24:288][896]LogActorFactory: Actor Factory created SM_Table03
+[2020.10.05-16.12.25:197][  1]Cmd: TRANSACTION UNDO
+[2020.10.05-16.12.25:197][  1]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.12.27:468][186]LogActorFactory: Actor Factory created SM_Vase02
+[2020.10.05-16.12.28:095][258]LogActorFactory: Actor Factory created SM_Vase02
+[2020.10.05-16.12.29:043][344]LogActorFactory: Actor Factory created SM_Vase01
+[2020.10.05-16.12.29:673][417]LogActorFactory: Actor Factory created SM_Vase01
+[2020.10.05-16.12.30:576][496]LogActorFactory: Actor Factory created SM_Vase03
+[2020.10.05-16.12.31:444][597]LogActorFactory: Actor Factory created SM_Vase03
+[2020.10.05-16.12.32:493][687]LogActorFactory: Actor Factory created SM_Vase04
+[2020.10.05-16.12.33:592][814]LogActorFactory: Actor Factory created SM_Vase04
+[2020.10.05-16.12.44:860][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Vase02)
+[2020.10.05-16.12.47:645][459]Cmd: TRANSACTION UNDO
+[2020.10.05-16.12.47:645][459]LogEditorTransaction: Undo Scale Actors
+[2020.10.05-16.12.50:947][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Vase01)
+[2020.10.05-16.12.55:295][292]Cmd: TRANSACTION UNDO
+[2020.10.05-16.12.55:296][292]LogEditorTransaction: Undo Scale Actors
+[2020.10.05-16.13.00:066][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Vase03)
+[2020.10.05-16.13.07:269][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Vase01)
+[2020.10.05-16.13.34:951][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Range02)
+[2020.10.05-16.13.35:775][ 17]Cmd: EDIT COPY
+[2020.10.05-16.13.36:209][ 68]Cmd: EDIT PASTE
+[2020.10.05-16.13.38:378][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Range02)
+[2020.10.05-16.13.40:648][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Range3)
+[2020.10.05-16.13.47:963][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Range02)
+[2020.10.05-16.13.52:852][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Range3)
+[2020.10.05-16.13.58:770][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Range02)
+[2020.10.05-16.13.59:680][819]Cmd: DELETE
+[2020.10.05-16.13.59:680][819]Cmd: ACTOR DELETE
+[2020.10.05-16.13.59:683][819]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.05-16.13.59:700][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.10.05-16.13.59:708][819]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.10.05-16.14.00:753][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Range3)
+[2020.10.05-16.14.17:178][755]LogActorFactory: Actor Factory created SM_Plate01
+[2020.10.05-16.14.18:058][859]LogActorFactory: Actor Factory created SM_Plate01
+[2020.10.05-16.14.18:918][933]LogActorFactory: Actor Factory created SM_Pillow01
+[2020.10.05-16.14.19:679][ 23]LogActorFactory: Actor Factory created SM_Pillow01
+[2020.10.05-16.14.19:936][ 50]Cmd: TRANSACTION UNDO
+[2020.10.05-16.14.19:936][ 50]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.14.21:110][118]LogActorFactory: Actor Factory created SM_Plate01
+[2020.10.05-16.14.22:184][241]LogActorFactory: Actor Factory created SM_Plate01
+[2020.10.05-16.14.23:067][320]LogActorFactory: Actor Factory created SM_Plate01
+[2020.10.05-16.14.24:107][443]LogActorFactory: Actor Factory created SM_Plate01
+[2020.10.05-16.14.25:010][523]LogActorFactory: Actor Factory created SM_Plate01
+[2020.10.05-16.14.25:787][615]LogActorFactory: Actor Factory created SM_Plate01
+[2020.10.05-16.14.36:844][677]LogActorFactory: Actor Factory created SM_Lamp01
+[2020.10.05-16.14.37:483][748]LogActorFactory: Actor Factory created SM_Lamp01
+[2020.10.05-16.14.37:689][769]Cmd: TRANSACTION UNDO
+[2020.10.05-16.14.37:689][769]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.14.38:511][812]LogActorFactory: Actor Factory created SM_Lamp06
+[2020.10.05-16.14.39:070][874]LogActorFactory: Actor Factory created SM_Lamp06
+[2020.10.05-16.14.39:256][893]Cmd: TRANSACTION UNDO
+[2020.10.05-16.14.39:256][893]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.14.43:645][357]LogActorFactory: Actor Factory created SM_Lamp04
+[2020.10.05-16.14.45:238][546]LogActorFactory: Actor Factory created SM_Lamp04
+[2020.10.05-16.14.45:960][629]Cmd: TRANSACTION UNDO
+[2020.10.05-16.14.45:960][629]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.14.48:493][860]LogActorFactory: Actor Factory created SM_Lamp06
+[2020.10.05-16.14.49:440][969]LogActorFactory: Actor Factory created SM_Lamp06
+[2020.10.05-16.14.49:924][ 26]LogActorFactory: Actor Factory created SM_Lamp06
+[2020.10.05-16.15.16:860][205]LogActorFactory: Actor Factory created SM_Lamp02
+[2020.10.05-16.15.17:816][316]LogActorFactory: Actor Factory created SM_Lamp02
+[2020.10.05-16.15.23:404][955]LogActorFactory: Actor Factory created SM_Lamp01
+[2020.10.05-16.15.24:013][ 26]LogActorFactory: Actor Factory created SM_Lamp01
+[2020.10.05-16.15.34:951][203]LogActorFactory: Actor Factory created SM_Mirror01
+[2020.10.05-16.15.36:390][374]LogActorFactory: Actor Factory created SM_Mirror01
+[2020.10.05-16.15.37:851][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table04)
+[2020.10.05-16.15.38:736][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Mirror01)
+[2020.10.05-16.15.39:661][752]Cmd: DELETE
+[2020.10.05-16.15.39:661][752]Cmd: ACTOR DELETE
+[2020.10.05-16.15.39:664][752]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.05-16.15.39:681][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.10.05-16.15.39:690][752]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.10.05-16.15.46:086][418]LogActorFactory: Actor Factory created SM_Frame01
+[2020.10.05-16.15.46:741][496]LogActorFactory: Actor Factory created SM_Frame01
+[2020.10.05-16.15.52:546][177]LogEditorViewport: Clicking Background
+[2020.10.05-16.15.54:560][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Frame01)
+[2020.10.05-16.15.58:845][925]LogEditorViewport: Clicking Background
+[2020.10.05-16.16.02:976][389]LogActorFactory: Actor Factory created SM_Frame02
+[2020.10.05-16.16.03:509][448]LogActorFactory: Actor Factory created SM_Frame02
+[2020.10.05-16.16.10:161][192]LogActorFactory: Actor Factory created SM_Drawer07Door
+[2020.10.05-16.16.13:212][554]LogActorFactory: Actor Factory created SM_Drawer07Door
+[2020.10.05-16.16.35:841][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.10.05-16.16.35:895][144]LogSavePackage: Moving '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/ThéoE7181F1C4C1E1F8A0297AF9781FB5C48.tmp' to '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
+[2020.10.05-16.16.35:962][144]AssetCheck: New page: Asset Save: Théo
+[2020.10.05-16.16.35:962][144]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
+[2020.10.05-16.16.41:233][774]Cmd: EDIT COPY
+[2020.10.05-16.16.41:625][820]Cmd: EDIT PASTE
+[2020.10.05-16.16.45:979][296]LogActorFactory: Actor Factory created SM_Drawer08Door
+[2020.10.05-16.16.47:011][413]LogActorFactory: Actor Factory created SM_Drawer08Door
+[2020.10.05-16.17.03:292][316]Cmd: TRANSACTION UNDO
+[2020.10.05-16.17.03:292][316]LogEditorTransaction: Undo Move Actors
+[2020.10.05-16.17.03:824][332]Cmd: TRANSACTION UNDO
+[2020.10.05-16.17.03:824][332]LogEditorTransaction: Undo Scale Actors
+[2020.10.05-16.17.04:352][394]Cmd: TRANSACTION UNDO
+[2020.10.05-16.17.04:352][394]LogEditorTransaction: Undo Move Actors
+[2020.10.05-16.17.04:800][446]Cmd: TRANSACTION UNDO
+[2020.10.05-16.17.04:800][446]LogEditorTransaction: Undo Rotate Actors
+[2020.10.05-16.17.05:257][496]Cmd: TRANSACTION UNDO
+[2020.10.05-16.17.05:257][496]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.17.05:724][547]Cmd: TRANSACTION UNDO
+[2020.10.05-16.17.05:724][547]LogEditorTransaction: Undo Move Actors
+[2020.10.05-16.17.30:194][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa2)
+[2020.10.05-16.18.01:660][124]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Sofa2)
+[2020.10.05-16.18.03:480][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa2)
+[2020.10.05-16.18.27:643][174]LogActorFactory: Actor Factory created SM_Keyboard01
+[2020.10.05-16.18.28:680][297]LogActorFactory: Actor Factory created SM_Keyboard01
+[2020.10.05-16.19.03:646][442]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Table02)
+[2020.10.05-16.19.04:445][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Keyboard01)
+[2020.10.05-16.19.06:590][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Keyboard01)
+[2020.10.05-16.19.08:594][999]Cmd: TRANSACTION UNDO
+[2020.10.05-16.19.08:594][999]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.05-16.19.08:990][  9]Cmd: TRANSACTION UNDO
+[2020.10.05-16.19.08:990][  9]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.10.05-16.19.09:392][ 44]Cmd: TRANSACTION UNDO
+[2020.10.05-16.19.09:392][ 44]LogEditorTransaction: Undo Rotate Actors
+[2020.10.05-16.19.09:870][100]Cmd: TRANSACTION UNDO
+[2020.10.05-16.19.09:870][100]LogEditorTransaction: Undo Rotate Actors
+[2020.10.05-16.19.11:979][352]Cmd: DELETE
+[2020.10.05-16.19.11:980][352]Cmd: ACTOR DELETE
+[2020.10.05-16.19.11:983][352]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.05-16.19.11:999][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.10.05-16.19.12:008][352]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.10.05-16.19.22:393][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Refrigerator01Door01)
+[2020.10.05-16.19.31:377][637]LogActorFactory: Actor Factory created SM_ETC01
+[2020.10.05-16.19.32:214][733]LogActorFactory: Actor Factory created SM_ETC01
+[2020.10.05-16.19.36:352][192]LogActorFactory: Actor Factory created SM_ETC02
+[2020.10.05-16.19.36:950][263]LogActorFactory: Actor Factory created SM_ETC02
+[2020.10.05-16.19.40:108][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ETC01)
+[2020.10.05-16.20.12:955][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.10.05-16.20.13:010][464]LogSavePackage: Moving '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Théo6F0F818F486528149FBFAAAA33A8B313.tmp' to '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
+[2020.10.05-16.20.13:078][464]AssetCheck: New page: Asset Save: Théo
+[2020.10.05-16.20.13:078][464]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
+[2020.10.05-16.20.18:344][ 61]LogActorFactory: Actor Factory created SM_BookShelf01
+[2020.10.05-16.20.19:317][175]LogActorFactory: Actor Factory created SM_BookShelf01
+[2020.10.05-16.21.05:161][428]LogActorFactory: Actor Factory created SM_Desk02
+[2020.10.05-16.21.06:426][576]LogActorFactory: Actor Factory created SM_Desk02
+[2020.10.05-16.21.12:210][244]Cmd: TRANSACTION UNDO
+[2020.10.05-16.21.12:210][244]LogEditorTransaction: Undo Move Actors
+[2020.10.05-16.21.12:528][253]Cmd: TRANSACTION UNDO
+[2020.10.05-16.21.12:528][253]LogEditorTransaction: Undo Create Actors
+[2020.10.05-16.21.15:386][480]LogActorFactory: Actor Factory created SM_Drawer07Door
+[2020.10.05-16.21.16:959][667]LogActorFactory: Actor Factory created SM_Drawer07Door
+[2020.10.05-16.21.25:418][635]LogActorFactory: Actor Factory created SM_Drawer07
+[2020.10.05-16.21.26:212][729]LogActorFactory: Actor Factory created SM_Drawer07
+[2020.10.05-16.21.38:077][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Drawer07Door3)
+[2020.10.05-16.21.39:017][239]Cmd: DELETE
+[2020.10.05-16.21.39:017][239]Cmd: ACTOR DELETE
+[2020.10.05-16.21.39:020][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.05-16.21.39:037][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.10.05-16.21.39:046][239]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.10.05-16.21.39:760][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Drawer11)
+[2020.10.05-16.21.43:346][747]Cmd: EDIT COPY
+[2020.10.05-16.21.43:627][780]Cmd: EDIT PASTE
+[2020.10.05-16.21.51:534][698]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Drawer12)
+[2020.10.05-16.21.51:950][744]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Drawer11)
+[2020.10.05-16.21.52:825][844]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_BookShelf2)
+[2020.10.05-16.21.53:505][922]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Drawer09Door)
+[2020.10.05-16.21.54:035][982]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Drawer09Door2)
+[2020.10.05-16.21.54:664][ 54]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Drawer09Door3)
+[2020.10.05-16.21.55:288][125]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Drawer07)
+[2020.10.05-16.21.56:438][259]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Drawer8)
+[2020.10.05-16.21.57:181][344]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Drawer9)
+[2020.10.05-16.22.02:804][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Drawer10)
+[2020.10.05-16.22.04:128][149]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight)
+[2020.10.05-16.24.52:842][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.10.05-16.24.52:894][533]LogSavePackage: Moving '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/ThéoD2C6FAB341CAA5D3D6FC5AA2F24A51DE.tmp' to '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
+[2020.10.05-16.24.52:959][533]AssetCheck: New page: Asset Save: Théo
+[2020.10.05-16.24.52:959][533]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
+[2020.10.05-16.26.29:783][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Box02)
+[2020.10.05-16.26.44:739][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Box02)
+[2020.10.05-16.26.47:300][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Box01)
+[2020.10.05-16.26.57:434][385]Cmd: EDIT COPY
+[2020.10.05-16.26.57:781][426]Cmd: EDIT PASTE
+[2020.10.05-16.27.11:290][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Box02)
+[2020.10.05-16.30.27:845][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.10.05-16.30.27:897][552]LogSavePackage: Moving '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Théo48D271E14E50754B1620D59C651A9758.tmp' to '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
+[2020.10.05-16.30.27:967][552]AssetCheck: New page: Asset Save: Théo
+[2020.10.05-16.30.27:967][552]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
+[2020.10.05-16.31.22:690][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.10.05-16.31.22:738][110]LogSavePackage: Moving '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Théo781359714AE6E3AB457CF9806699FEF4.tmp' to '../../../../../../Users/arnaud.theo/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
+[2020.10.05-16.31.22:804][110]AssetCheck: New page: Asset Save: Théo
+[2020.10.05-16.31.22:804][110]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
+[2020.10.05-16.31.25:879][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.10.05-16.31.25:950][467]LogSlate: Window 'Litterbox - Unreal Editor' being destroyed
+[2020.10.05-16.31.26:060][468]Cmd: QUIT_EDITOR
+[2020.10.05-16.31.26:060][468]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.10.05-16.31.26:068][468]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.10.05-16.31.26:092][468]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.05-16.31.26:102][468]LogExit: Preparing to exit.
+[2020.10.05-16.31.26:730][468]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-16.31.26:734][468]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-16.31.26:738][468]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-16.31.26:770][468]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.10.05-16.31.26:776][468]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-16.31.26:776][468]LogExit: Editor shut down
+[2020.10.05-16.31.26:777][468]LogExit: Transaction tracking system shut down
+[2020.10.05-16.31.26:947][468]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000025E3068D380), frame # 486468
+[2020.10.05-16.31.26:947][468]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025E305BEAC0), frame # 486468
+[2020.10.05-16.31.26:947][468]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025E305CB600), frame # 486468
+[2020.10.05-16.31.26:963][468]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025E88630900), frame # 486468
+[2020.10.05-16.31.26:963][468]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025E87D64600), frame # 486468
+[2020.10.05-16.31.27:035][468]LogExit: Object subsystem successfully closed.
+[2020.10.05-16.31.27:051][468]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module BlueprintGraph (792)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.10.05-16.31.27:074][468]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.10.05-16.31.27:075][468]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.10.05-16.31.27:076][468]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.10.05-16.31.27:076][468]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.10.05-16.31.27:076][468]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.10.05-16.31.27:076][468]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.10.05-16.31.27:076][468]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.10.05-16.31.28:837][468]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.10.05-16.31.28:869][468]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.10.05-16.31.28:869][468]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.10.05-16.31.28:869][468]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.10.05-16.31.28:869][468]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.10.05-16.31.28:869][468]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.10.05-16.31.28:869][468]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.10.05-16.31.28:869][468]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.10.05-16.31.28:869][468]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.10.05-16.31.28:869][468]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.10.05-16.31.28:869][468]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.10.05-16.31.28:869][468]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.10.05-16.31.28:873][468]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.10.05-16.31.28:873][468]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.10.05-16.31.28:874][468]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.10.05-16.31.28:874][468]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.10.05-16.31.28:874][468]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.10.05-16.31.28:874][468]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.10.05-16.31.28:874][468]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.10.05-16.31.28:874][468]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.10.05-16.31.28:874][468]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.10.05-16.31.28:874][468]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.10.05-16.31.28:874][468]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.10.05-16.31.28:874][468]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.10.05-16.31.28:874][468]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.10.05-16.31.28:874][468]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.10.05-16.31.28:875][468]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.10.05-16.31.28:875][468]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.10.05-16.31.28:875][468]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.10.05-16.31.28:875][468]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.10.05-16.31.28:875][468]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.10.05-16.31.28:875][468]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.10.05-16.31.28:875][468]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.10.05-16.31.28:875][468]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.10.05-16.31.28:875][468]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.10.05-16.31.28:875][468]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.10.05-16.31.28:875][468]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.10.05-16.31.28:875][468]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.10.05-16.31.29:009][468]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.10.05-16.31.29:010][468]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.10.05-16.31.29:111][468]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.10.05-16.31.29:212][468]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.10.05-16.31.29:212][468]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.10.05-16.31.29:212][468]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.10.05-16.31.29:213][468]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.10.05-16.31.29:213][468]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.10.05-16.31.29:213][468]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.10.05-16.31.29:213][468]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.10.05-16.31.29:213][468]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.10.05-16.31.29:213][468]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.10.05-16.31.29:213][468]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.10.05-16.31.29:213][468]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.10.05-16.31.29:213][468]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.10.05-16.31.29:213][468]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.10.05-16.31.29:213][468]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.10.05-16.31.29:214][468]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.10.05-16.31.29:215][468]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.10.05-16.31.29:216][468]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.10.05-16.31.29:216][468]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.10.05-16.31.29:216][468]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.10.05-16.31.29:216][468]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.10.05-16.31.29:216][468]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.10.05-16.31.29:216][468]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.10.05-16.31.29:216][468]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.10.05-16.31.29:216][468]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.10.05-16.31.29:217][468]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.10.05-16.31.29:218][468]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.10.05-16.31.29:218][468]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.10.05-16.31.29:218][468]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.10.05-16.31.29:218][468]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.10.05-16.31.29:218][468]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.10.05-16.31.29:218][468]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.10.05-16.31.29:218][468]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.10.05-16.31.29:218][468]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.10.05-16.31.29:218][468]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.10.05-16.31.29:218][468]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.10.05-16.31.29:219][468]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.10.05-16.31.29:221][468]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.10.05-16.31.29:221][468]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.10.05-16.31.29:221][468]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.10.05-16.31.29:221][468]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.10.05-16.31.29:222][468]LogHMD: Freeing OpenVRDLLHandle.
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.10.05-16.31.29:222][468]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.10.05-16.31.29:223][468]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.10.05-16.31.29:223][468]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.10.05-16.31.29:244][468]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.10.05-16.31.29:244][468]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.10.05-16.31.29:244][468]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2CDE3196-465E-AC03-C14C-E7899999B5E5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=8cbe69494d801cc61fd8eca076d1591a%7Cac7ab55a00404bcc9f5e2deb64d5645c%7C7f31636a-5786-4d2d-b3cb-357a9dbad400&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.10.05-16.31.29:267][468]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.10.05-16.31.29:267][468]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.10.05-16.31.29:268][468]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.10.05-16.31.29:269][468]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.10.05-16.31.29:270][468]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.10.05-16.31.29:270][468]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.10.05-16.31.29:270][468]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.10.05-16.31.29:270][468]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.10.05-16.31.29:270][468]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.10.05-16.31.29:271][468]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.10.05-16.31.29:271][468]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.10.05-16.31.29:271][468]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.10.05-16.31.29:271][468]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.10.05-16.31.29:271][468]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.10.05-16.31.29:271][468]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.10.05-16.31.29:271][468]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.10.05-16.31.29:271][468]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.10.05-16.31.29:271][468]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.10.05-16.31.29:271][468]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.10.05-16.31.29:271][468]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.10.05-16.31.29:271][468]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.10.05-16.31.29:275][468]LogD3D11RHI: Shutdown
+[2020.10.05-16.31.29:275][468]LogD3D11RHI: CleanupD3DDevice
+[2020.10.05-16.31.29:284][468]LogExit: Exiting.
+[2020.10.05-16.31.29:307][468]Log file closed, 10/05/20 18:31:29
