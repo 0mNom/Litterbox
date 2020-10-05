@@ -1281,3 +1281,28 @@ Make sure 'Courtney_C' has been compiled for  Get MotioncontrollerPawn
 [2020.10.05-13.55.46:449][969]LogFileHelpers: Saving map 'Courtney' took 0.102
 [2020.10.05-13.55.46:462][969]AssetCheck: New page: Asset Save: Courtney
 [2020.10.05-13.55.46:462][969]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.05-14.03.34:687][916]AssetReimport: New page: Outstanding source content changes 18:03:34
+[2020.10.05-14.03.34:695][916]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Théo/StartupMap.FBX)
+[2020.10.05-14.03.34:734][916]LogFbx: Loading FBX Scene from C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Théo/StartupMap.FBX
+[2020.10.05-14.03.34:786][916]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.05-14.03.40:845][916]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.05-14.03.40:971][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.10.05-14.03.41:011][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.10.05-14.03.44:034][239]AssetReimport: Importing new asset /Game/Théo/StartupMap.
+[2020.10.05-14.03.44:034][239]AssetReimport: Failed to import file C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Théo/StartupMap.FBX.
+[2020.10.05-14.05.48:086][843]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.05-14.07.11:793][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.10.05-14.07.11:795][903]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.033
+[2020.10.05-14.07.11:796][903]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Courtney/Blueprints/MotionControllerPawnCourtney] ([1] browsable assets)...
+[2020.10.05-14.07.11:796][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/MotionControllerPawnCourtney]
+[2020.10.05-14.07.11:857][903]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney_AutD07B24EF486412EC9467B59AFA44CDB4.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/MotionControllerPawnCourtney_Auto9.uasset'
+[2020.10.05-14.07.11:858][903]LogFileHelpers: Auto-saving content packages took 0.062
+[2020.10.05-14.10.59:619][820]BlueprintLog: New page: Compile Courtney
+[2020.10.05-14.10.59:672][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.10.05-14.11.00:253][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.10.05-14.11.00:275][877]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/CourtneyB98E58684677C113537B579132EAAFBE.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.05-14.11.00:316][877]LogFileHelpers: Saving map 'Courtney' took 0.096
+[2020.10.05-14.11.00:329][877]AssetCheck: New page: Asset Save: Courtney
+[2020.10.05-14.11.00:329][877]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.05-14.11.01:212][968]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-14.11.01:212][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
