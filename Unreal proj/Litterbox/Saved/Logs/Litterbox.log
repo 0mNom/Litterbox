@@ -194,6 +194,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2020.10.05-13.30.28:404][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.10.05-13.30.28:404][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.10.05-13.30.28:404][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Projets avec GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
@@ -1483,3 +1484,1101 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.05-14.08.25:158][120]LogD3D11RHI: CleanupD3DDevice
 [2020.10.05-14.08.25:183][120]LogExit: Exiting.
 [2020.10.05-14.08.25:220][120]Log file closed, 10/05/20 16:08:25
+=======
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.01-07.32.55:166][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.01-07.32.55:166][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.01-07.32.55:166][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.01-07.32.55:171][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.01-07.32.55:171][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.01-07.32.55:172][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.01-07.32.55:172][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.01-07.32.55:172][  0]LogHAL: Display: Platform has ~ 32 GB [34275508224 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.01-07.32.55:172][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.01-07.32.55:172][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.01-07.32.55:172][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.01-07.32.55:173][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.01-07.32.55:176][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.01-07.32.55:176][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.01-07.32.55:176][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.01-07.32.55:176][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.01-07.32.55:176][  0]LogInit: Computer: D33-13-T
+[2020.10.01-07.32.55:176][  0]LogInit: User: ferreiracourtney
+[2020.10.01-07.32.55:176][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.01-07.32.55:176][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.01-07.32.55:176][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.10.01-07.32.55:176][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.01-07.32.55:176][  0]LogMemory: Process Physical Memory: 114.66 MB used, 114.67 MB peak
+[2020.10.01-07.32.55:176][  0]LogMemory: Process Virtual Memory: 96.12 MB used, 96.12 MB peak
+[2020.10.01-07.32.55:176][  0]LogMemory: Physical Memory: 13793.84 MB used,  18893.84 MB free, 32687.67 MB total
+[2020.10.01-07.32.55:176][  0]LogMemory: Virtual Memory: 5144.84 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.10.01-07.32.55:181][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.01-07.32.55:210][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.01-07.32.55:211][  0]LogInit: Using OS detected language (fr-FR).
+[2020.10.01-07.32.55:211][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.10.01-07.32.55:214][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.10.01-07.32.55:214][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.10.01-07.32.55:214][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.10.01-07.32.55:214][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.10.01-07.32.55:215][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.10.01-07.32.55:215][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.10.01-07.32.55:215][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.10.01-07.32.55:215][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.10.01-07.32.55:222][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.01-07.32.55:269][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.01-07.32.55:269][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.01-07.32.56:744][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.01-07.32.56:744][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.01-07.32.56:744][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.01-07.32.56:745][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.01-07.32.56:830][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.10.01-07.32.56:830][  0]LogD3D11RHI:       6052/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.10.01-07.32.56:832][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.01-07.32.56:832][  0]LogD3D11RHI:       0/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.01-07.32.56:832][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.01-07.32.56:840][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.01-07.32.56:840][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.01-07.32.56:840][  0]LogWindows: EnumDisplayDevices:
+[2020.10.01-07.32.56:841][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.10.01-07.32.56:841][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.10.01-07.32.56:841][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.10.01-07.32.56:842][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.10.01-07.32.56:842][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.10.01-07.32.56:842][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.10.01-07.32.56:842][  0]LogD3D11RHI:   Driver Version: 452.06 (internal:27.21.14.5206, unified:452.06)
+[2020.10.01-07.32.56:842][  0]LogD3D11RHI:      Driver Date: 8-12-2020
+[2020.10.01-07.32.56:842][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.10.01-07.32.56:907][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.01-07.32.56:909][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.10.01-07.32.56:909][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.01-07.32.56:909][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.01-07.32.56:925][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.01-07.32.57:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.01-07.32.57:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.01-07.32.57:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.01-07.32.57:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.01-07.32.57:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.01-07.32.57:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.01-07.32.57:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.01-07.32.57:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.01-07.32.57:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.01-07.32.57:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.01-07.32.57:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.01-07.32.57:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.01-07.32.57:254][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.01-07.32.57:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.01-07.32.57:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.01-07.32.57:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.01-07.32.57:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.01-07.32.57:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.01-07.32.57:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.01-07.32.57:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.01-07.32.57:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.01-07.32.57:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.01-07.32.57:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.01-07.32.57:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.01-07.32.57:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.01-07.32.57:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.01-07.32.57:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.01-07.32.57:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.01-07.32.57:392][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.01-07.32.57:399][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.01-07.32.57:455][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Intermediate/Shaders/WorkingDirectory/32192/).
+[2020.10.01-07.32.57:455][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ferreira.courtney/AppData/Local/Temp/UnrealShaderWorkingDir/CB7A7F2846556D51AA05C38ED361E789/'.
+[2020.10.01-07.32.57:455][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.01-07.32.57:456][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.01-07.32.57:456][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.01-07.32.59:210][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.01-07.32.59:270][  0]LogDerivedDataCache: Loaded boot cache 0.06s 95MB C:/Users/ferreira.courtney/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.01-07.32.59:270][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ferreira.courtney/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.01-07.32.59:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.01-07.32.59:270][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.01-07.32.59:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.01-07.32.59:270][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.01-07.32.59:280][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.01-07.32.59:280][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.01-07.32.59:280][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.01-07.32.59:282][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ferreira.courtney/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.01-07.32.59:282][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.01-07.32.59:282][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.01-07.32.59:330][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.01-07.32.59:336][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.01-07.32.59:381][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.10.01-07.32.59:604][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.01-07.32.59:736][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.01-07.32.59:737][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.01-07.32.59:737][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.01-07.32.59:737][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.01-07.32.59:737][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.01-07.32.59:763][  0]LogNetVersion: Litterbox 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4287034506)
+[2020.10.01-07.33.00:622][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000020DE334D800), frame # 0
+[2020.10.01-07.33.00:622][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020DE32A1E40), frame # 0
+[2020.10.01-07.33.00:623][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020DE32AB000), frame # 0
+[2020.10.01-07.33.00:701][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.066763 seconds
+[2020.10.01-07.33.00:706][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.01-07.33.00:706][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.01-07.33.00:706][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.01-07.33.01:111][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.01-07.33.01:115][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.01-07.33.01:189][  0]SourceControl: Source control is disabled
+[2020.10.01-07.33.01:189][  0]SourceControl: Source control is disabled
+[2020.10.01-07.33.01:192][  0]SourceControl: Source control is disabled
+[2020.10.01-07.33.01:195][  0]SourceControl: Source control is disabled
+[2020.10.01-07.33.01:201][  0]SourceControl: Source control is disabled
+[2020.10.01-07.33.01:428][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.01-07.33.01:445][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.01-07.33.01:445][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.01-07.33.01:498][  0]LogOcInput: OculusInput pre-init called
+[2020.10.01-07.33.01:508][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.01-07.33.01:509][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.01-07.33.01:567][  0]LogEngine: Initializing Engine...
+[2020.10.01-07.33.01:569][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.01-07.33.01:569][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.01-07.33.01:570][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.01-07.33.01:755][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.01-07.33.01:762][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.01-07.33.01:762][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020DEAFAC600), frame # 0
+[2020.10.01-07.33.01:762][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020DEAF6FB00), frame # 0
+[2020.10.01-07.33.01:772][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.01-07.33.01:772][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.01-07.33.01:772][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.01-07.33.01:772][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.01-07.33.01:772][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.01-07.33.01:772][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.01-07.33.01:772][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.01-07.33.01:772][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.01-07.33.01:772][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.01-07.33.01:772][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.01-07.33.01:783][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.01-07.33.01:783][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.01-07.33.01:839][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2020.10.01-07.33.01:842][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.01-07.33.01:851][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.01-07.33.01:852][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.01-07.33.01:852][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.01-07.33.01:853][  0]LogInit: FAudioDevice initialized.
+[2020.10.01-07.33.01:853][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.01-07.33.01:954][  0]LogDerivedDataCache: Saved boot cache 0.10s 95MB C:/Users/ferreira.courtney/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.01-07.33.01:964][  0]LogInit: Texture streaming: Enabled
+[2020.10.01-07.33.01:986][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.01-07.33.01:986][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.01-07.33.01:987][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.01-07.33.02:044][  0]LogInit: Transaction tracking system initialized
+[2020.10.01-07.33.02:063][  0]BlueprintLog: New page: Editor Load
+[2020.10.01-07.33.02:125][  0]LocalizationService: Localization service is disabled
+[2020.10.01-07.33.02:423][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.01-07.33.02:423][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.01-07.33.02:559][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/' took 0.01s
+[2020.10.01-07.33.02:761][  0]SourceControl: Source control is disabled
+[2020.10.01-07.33.02:761][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.820
+[2020.10.01-07.33.02:761][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.01-07.33.02:763][  0]LightingResults: New page: Lighting Build
+[2020.10.01-07.33.02:763][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-07.33.02:763][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-07.33.02:764][  0]MapCheck: New page: Map Check
+[2020.10.01-07.33.02:764][  0]LightingResults: New page: Lighting Build
+[2020.10.01-07.33.02:771][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020DEAFAC600), frame # 0
+[2020.10.01-07.33.02:771][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020DEAF6FB00), frame # 0
+[2020.10.01-07.33.02:772][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.01-07.33.02:896][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.10.01-07.33.02:896][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020DEB465E00), frame # 0
+[2020.10.01-07.33.02:896][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020DEB4C9D00), frame # 0
+[2020.10.01-07.33.02:904][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.01-07.33.02:913][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.10.01-07.33.02:913][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.01-07.33.02:913][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,174ms to complete.
+[2020.10.01-07.33.02:913][  0]LogFileHelpers: Loading map 'StartupMap' took 0.152
+[2020.10.01-07.33.02:914][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.973
+[2020.10.01-07.33.03:083][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.01-07.33.03:090][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.01-07.33.03:096][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.01-07.33.03:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.01-07.33.03:109][  0]LogCollectionManager: Loaded 0 collections in 0.001618 seconds
+[2020.10.01-07.33.03:122][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Collections/' took 0.00s
+[2020.10.01-07.33.03:122][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Developers/ferreiracourtney/Collections/' took 0.00s
+[2020.10.01-07.33.03:122][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Collections/' took 0.00s
+[2020.10.01-07.33.03:122][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 3427 classes and 821 folders.
+[2020.10.01-07.33.03:124][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.01-07.33.03:246][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.01-07.33.03:247][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.10.01-07.33.03:295][  0]LogSlate: Took 0.005023 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.01-07.33.03:301][  0]LogSlate: Took 0.005075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.01-07.33.03:311][  0]LogSlate: Took 0.005851 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.01-07.33.03:400][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2020.10.01-07.33.03:476][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.01-07.33.03:476][  0]LogLoad: (Engine Initialization) Total time: 9.53 seconds
+[2020.10.01-07.33.03:476][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.01-07.33.03:513][  0]LogAssetRegistry: Asset discovery search completed in 4.1336 seconds
+[2020.10.01-07.33.03:516][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.10.01-07.33.03:517][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.01-07.33.03:570][  0]LogSlate: Took 0.005569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.01-07.33.05:756][259]LogSlate: Took 0.004912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.10.01-07.33.08:265][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.10.01-07.33.09:347][553]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.01-07.33.09:355][553]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.01-07.33.09:405][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.10.01-07.33.09:420][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.10.01-07.33.09:429][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.10.01-07.33.17:304][467]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Courtney/Courtney.Courtney
+[2020.10.01-07.33.17:312][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.01-07.33.17:313][467]Cmd: MAP LOAD FILE="../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.01-07.33.17:313][467]LightingResults: New page: Lighting Build
+[2020.10.01-07.33.17:313][467]LoadErrors: New page: Loading map: Courtney.umap
+[2020.10.01-07.33.17:314][467]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-07.33.17:314][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-07.33.17:314][467]MapCheck: New page: Map Check
+[2020.10.01-07.33.17:314][467]LightingResults: New page: Lighting Build
+[2020.10.01-07.33.17:322][467]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020DEB465E00), frame # 1467
+[2020.10.01-07.33.17:322][467]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020DEB4C9D00), frame # 1467
+[2020.10.01-07.33.17:323][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.10.01-07.33.17:326][467]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.01-07.33.17:326][467]LogAIModule: Creating AISystem for world Courtney
+[2020.10.01-07.33.17:326][467]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020DEB466400), frame # 1467
+[2020.10.01-07.33.17:326][467]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020DEB3B3380), frame # 1467
+[2020.10.01-07.33.17:335][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.10.01-07.33.17:356][467]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.01-07.33.17:356][467]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,112ms to complete.
+[2020.10.01-07.33.17:356][467]LogFileHelpers: Loading map 'Courtney' took 0.043
+[2020.10.01-07.37.59:731][556]LogSlate: Window 'New Level' being destroyed
+[2020.10.01-07.37.59:737][556]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/VR-Basic.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.01-07.37.59:763][556]LightingResults: New page: Lighting Build
+[2020.10.01-07.37.59:763][556]LoadErrors: New page: Loading map: VR-Basic.umap
+[2020.10.01-07.37.59:764][556]LogWorld: UWorld::CleanupWorld for Courtney, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-07.37.59:764][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-07.37.59:764][556]MapCheck: New page: Map Check
+[2020.10.01-07.37.59:764][556]LightingResults: New page: Lighting Build
+[2020.10.01-07.37.59:772][556]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020DEB3B3380), frame # 3556
+[2020.10.01-07.37.59:772][556]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020DEB466400), frame # 3556
+[2020.10.01-07.37.59:773][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.10.01-07.37.59:782][556]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.01-07.37.59:782][556]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020DFEA5E200), frame # 3556
+[2020.10.01-07.37.59:782][556]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020DEB395E40), frame # 3556
+[2020.10.01-07.37.59:785][556]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.01-07.37.59:793][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.10.01-07.37.59:803][556]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.01-07.37.59:803][556]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,172ms to complete.
+[2020.10.01-07.37.59:803][556]LogFileHelpers: Loading map 'VR-Basic' took 0.067
+[2020.10.01-07.38.03:015][928]LogUObjectGlobals: Warning: Guid referenced by ArrowComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Light.ArrowComponent0 is already used by ArrowComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Light.ArrowComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:015][928]LogUObjectGlobals: Warning: Guid referenced by ArrowComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.PlayerStart_1.Arrow is already used by ArrowComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.PlayerStart_1.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:015][928]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.PlayerStart_1.Sprite is already used by BillboardComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.PlayerStart_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:015][928]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.PlayerStart_1.Sprite2 is already used by BillboardComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.PlayerStart_1.Sprite2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:015][928]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.SkyLight_1.Sprite is already used by BillboardComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.SkyLight_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:015][928]LogUObjectGlobals: Warning: Guid referenced by BrushComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.LightmassImportanceVolume_1.BrushComponent0 is already used by BrushComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.LightmassImportanceVolume_1.BrushComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:015][928]LogUObjectGlobals: Warning: Guid referenced by BrushComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.PostProcess.BrushComponent0 is already used by BrushComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.PostProcess.BrushComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:015][928]LogUObjectGlobals: Warning: Guid referenced by CapsuleComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.PlayerStart_1.CollisionCapsule is already used by CapsuleComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.PlayerStart_1.CollisionCapsule, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:015][928]LogUObjectGlobals: Warning: Guid referenced by DirectionalLightComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Light.LightComponent0 is already used by DirectionalLightComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Light.LightComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by SkyLightComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.SkyLight_1.SkyLightComponent0 is already used by SkyLightComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.SkyLight_1.SkyLightComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Ball.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Ball.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube_0.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube_0.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube_1.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube_1.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube_10.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube_10.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube_11.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube_11.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube_2.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube_2.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube_3.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube_3.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube_4.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube_4.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube_5.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube_5.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube_6.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube_6.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube_7.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube_7.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube_8.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube_8.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Cube_9.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Cube_9.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.frozen_Room_0.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.frozen_Room_0.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:016][928]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Courtney/Courtney.Courtney:PersistentLevel.Pyramid.StaticMeshComponent0 is already used by StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.Pyramid.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2020.10.01-07.38.03:019][928]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Courtney/Courtney.Courtney
+[2020.10.01-07.38.03:026][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.10.01-07.38.03:027][928]Cmd: MAP LOAD FILE="../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.01-07.38.03:027][928]LightingResults: New page: Lighting Build
+[2020.10.01-07.38.03:027][928]LoadErrors: New page: Loading map: Courtney.umap
+[2020.10.01-07.38.03:058][928]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-07.38.03:058][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-07.38.03:058][928]MapCheck: New page: Map Check
+[2020.10.01-07.38.03:058][928]LightingResults: New page: Lighting Build
+[2020.10.01-07.38.03:065][928]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020DEB395E40), frame # 3928
+[2020.10.01-07.38.03:065][928]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020DFEA5E200), frame # 3928
+[2020.10.01-07.38.03:066][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.10.01-07.38.03:068][928]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.01-07.38.03:068][928]LogAIModule: Creating AISystem for world Courtney
+[2020.10.01-07.38.03:068][928]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020DFEA5E600), frame # 3928
+[2020.10.01-07.38.03:068][928]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020D861C3740), frame # 3928
+[2020.10.01-07.38.03:077][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.10.01-07.38.03:098][928]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.01-07.38.03:098][928]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,114ms to complete.
+[2020.10.01-07.38.03:098][928]LogFileHelpers: Loading map 'Courtney' took 0.072
+[2020.10.01-07.46.48:936][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.01-07.46.48:938][573]LogMetaData: Removing '/Game/Courtney/Blueprints/ClimbAvtorInterface.SKEL_ClimbAvtorInterface_C' ref from Metadata '/Game/Courtney/Blueprints/Climbing.PackageMetaData'
+[2020.10.01-07.46.48:938][573]LogMetaData: Removing '/Game/Courtney/Blueprints/ClimbAvtorInterface.ClimbAvtorInterface_C' ref from Metadata '/Game/Courtney/Blueprints/Climbing.PackageMetaData'
+[2020.10.01-07.46.48:966][573]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/ClimbAvtorInterface3535A9384471B224E036A29A9D8CCF5E.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/ClimbAvtorInterface.uasset'
+[2020.10.01-07.46.49:049][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.10.01-07.46.49:062][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.10.01-07.46.49:070][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.10.01-07.46.49:092][573]AssetCheck: New page: Asset Save: ClimbAvtorInterface
+[2020.10.01-07.46.49:092][573]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/ClimbAvtorInterface.ClimbAvtorInterface
+[2020.10.01-07.46.59:792][934]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/ClimbAvtorInterface.ClimbAvtorInterface
+[2020.10.01-07.47.00:000][934]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2020.10.01-07.47.00:448][934]LogSlate: Took 0.005510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.01-07.47.25:919][556]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/ClimbAvtorInterface56392AFF47524B8310C4A2B0E28767C3.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/ClimbAvtorInterface.uasset'
+[2020.10.01-07.47.25:931][556]AssetCheck: New page: Asset Save: ClimbAvtorInterface
+[2020.10.01-07.47.25:931][556]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/ClimbAvtorInterface.ClimbAvtorInterface
+[2020.10.01-07.48.03:294][133]LogSlate: Took 0.008583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.01-07.48.54:238][379]BlueprintLog: New page: Compile ClimbAvtorInterface
+[2020.10.01-07.48.54:253][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.10.01-07.49.33:714][737]BlueprintLog: New page: Compile ClimbAvtorInterface
+[2020.10.01-07.49.33:729][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.10.01-07.49.35:083][890]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/ClimbAvtorInterfaceDA3E34C841583283EA4D66A603CF43F1.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/ClimbAvtorInterface.uasset'
+[2020.10.01-07.49.35:095][890]AssetCheck: New page: Asset Save: ClimbAvtorInterface
+[2020.10.01-07.49.35:095][890]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/ClimbAvtorInterface.ClimbAvtorInterface
+[2020.10.01-07.49.39:149][376]LogSlate: Window 'ClimbAvtorInterface' being destroyed
+[2020.10.01-07.49.39:155][376]LogSlate: Window 'ClimbAvtorInterface' being destroyed
+[2020.10.01-07.49.39:168][376]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-07.49.39:168][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-07.49.57:073][999]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.10.01-07.49.57:074][999]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.01-07.49.57:074][999]LogMaterial: Display: 	Only transparent or postprocess materials can read from scene depth.
+[2020.10.01-07.50.30:147][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Courtney/MI_Climbable" FILE="../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/MI_Climbable.uasset" SILENT=true
+[2020.10.01-07.50.30:155][680]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MI_Climbable73212A3A4777D12F7DAF4390BDAD7355.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/MI_Climbable.uasset'
+[2020.10.01-07.50.30:274][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.10.01-07.50.30:295][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.10.01-07.50.30:308][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.10.01-07.50.30:329][680]AssetCheck: New page: Asset Save: MI_Climbable
+[2020.10.01-07.50.30:329][680]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Courtney/MI_Climbable.MI_Climbable
+[2020.10.01-07.50.46:596][252]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Courtney/MI_Climbable.MI_Climbable
+[2020.10.01-07.50.46:788][252]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2020.10.01-07.50.46:814][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.10.01-07.50.46:814][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.10.01-07.50.47:010][252]LogRenderer: Reallocating scene render targets to support 1336x920 Format 26 NumSamples 1 (Frame:1).
+[2020.10.01-07.51.01:415][941]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.01-07.51.08:501][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Courtney/MI_Climbable" FILE="../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/MI_Climbable.uasset" SILENT=true
+[2020.10.01-07.51.08:517][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.10.01-07.51.08:522][ 83]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.01-07.51.08:866][ 83]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.10.01-07.51.08:866][ 83]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.10.01-07.51.08:867][ 83]TextureStreamingBuild: Display: Compiling optional shaders took 0.349 seconds.
+[2020.10.01-07.51.08:880][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.10.01-07.51.08:889][ 83]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MI_ClimbableFB30676E42484F1F3E039483C6BE2FA2.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/MI_Climbable.uasset'
+[2020.10.01-07.51.08:899][ 83]AssetCheck: New page: Asset Save: MI_Climbable
+[2020.10.01-07.51.08:899][ 83]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Courtney/MI_Climbable.MI_Climbable
+[2020.10.01-07.51.11:681][409]LogSlate: Window 'MI_Climbable' being destroyed
+[2020.10.01-07.51.11:687][409]LogSlate: Window 'MI_Climbable' being destroyed
+[2020.10.01-07.51.11:715][409]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-07.51.11:715][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-07.51.29:279][ 41]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.01-07.51.44:029][797]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-07.51.48:713][276]LogSlate: Took 0.004823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.01-07.52.00:364][293]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.10.01-07.52.00:462][293]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2020.10.01-07.52.00:462][293]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 58
+[2020.10.01-07.52.00:462][293]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2020.10.01-07.52.00:462][293]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.10.01-07.52.05:356][583]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.10.01-07.52.05:531][592]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.10.01-07.52.05:647][599]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.10.01-07.52.05:664][600]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.10.01-07.52.07:276][688]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.10.01-07.52.08:173][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.10.01-07.52.08:462][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.01-07.52.08:803][762]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.10.01-07.52.09:103][777]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.10.01-07.52.19:869][683]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-07.52.19:900][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.10.01-07.52.20:626][756]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableA6CB423D4515D83FF375D69D581A1B13.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-07.52.20:638][756]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-07.52.20:638][756]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-07.52.46:202][587]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableE4634BD04A72B8CA5CF4DCB7D61AF262.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-07.52.46:214][587]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-07.52.46:214][587]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-07.54.07:303][308]LogSlate: Window 'BP_Climbable' being destroyed
+[2020.10.01-07.54.07:308][308]LogSlate: Window 'BP_Climbable' being destroyed
+[2020.10.01-07.54.07:323][308]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-07.54.07:323][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-07.54.30:956][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room)
+[2020.10.01-07.55.51:385][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.10.01-07.55.51:417][266]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_Auto1655F78D74373F263617EB0B5D39401C7.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Courtney_Auto1.umap'
+[2020.10.01-07.55.51:419][266]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.059
+[2020.10.01-07.55.51:419][266]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.059
+[2020.10.01-08.03.37:187][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.10.01-08.03.37:209][655]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney0563FB8B48058B5C5965288DAB4FA12E.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.01-08.03.37:243][655]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltDataF9C3B75B4FD5243DF8CA7D8CB2848D38.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.01-08.03.37:259][655]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.01-08.03.37:259][655]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.01-08.03.37:259][655]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.01-08.12.08:571][454]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-08.16.29:153][846]LogSlate: Window 'BP_Climbable' being destroyed
+[2020.10.01-08.16.29:158][846]LogSlate: Window 'BP_Climbable' being destroyed
+[2020.10.01-08.16.29:159][846]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-08.16.29:159][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-08.22.21:768][703]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.01-08.22.26:747][233]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.01-08.22.30:085][597]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.01-08.24.22:492][907]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.10.01-08.24.22:495][907]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.10.01-08.24.27:575][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.10.01-08.24.27:604][490]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney868D02A34805D3EECA6CB39F92FB539E.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.01-08.24.27:662][490]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltDataB08CBDBA40103D145DABE6889F863EB5.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.01-08.24.27:676][490]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.01-08.24.27:676][490]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.01-08.24.27:676][490]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.01-08.24.30:352][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.10.01-08.24.30:371][804]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney68B1BA7F49F855A0CBCD809015EBDBAA.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.01-08.24.30:426][804]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData78391C5B4B749D2163924591634DF2B7.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.01-08.24.30:440][804]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.01-08.24.30:440][804]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.01-08.24.30:440][804]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.01-08.25.15:418][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:BndEvt__ControllerMesh_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:RumbleController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:BndEvt__Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:GetActorNearHand' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:ReleaseActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:GrabActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:786][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:ActivateTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:DisableTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:TraceTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:ClearArc' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:UpdateArcSpline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:UpdateArcEndpoint' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:SetupRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:UpdateRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.SKEL_BP_MotionControllerCourtney_C:GetTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:GetActorNearHand' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:ReleaseActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:GrabActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:ActivateTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:DisableTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:TraceTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:ClearArc' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:UpdateArcSpline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:UpdateArcEndpoint' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:SetupRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:UpdateRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:GetTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:787][775]LogMetaData: Removing '/Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney_C:RumbleController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionControllerCourtney.PackageMetaData'
+[2020.10.01-08.25.19:926][775]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtney64F6C7DD45A63D199F859BB5BBEBA4DE.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_MotionControllerCourtney.uasset'
+[2020.10.01-08.25.20:087][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.10.01-08.25.20:116][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.10.01-08.25.20:131][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.10.01-08.25.20:160][775]AssetCheck: New page: Asset Save: BP_MotionControllerCourtney
+[2020.10.01-08.25.20:161][775]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.25.23:420][157]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.26.19:649][577]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.01-08.27.10:815][515]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtney25F654C14F76F642547264B137B6DBA9.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_MotionControllerCourtney.uasset'
+[2020.10.01-08.27.10:827][515]AssetCheck: New page: Asset Save: BP_MotionControllerCourtney
+[2020.10.01-08.27.10:827][515]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.27.13:942][865]BlueprintLog: New page: Compile BP_MotionControllerCourtney
+[2020.10.01-08.27.14:004][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.10.01-08.27.15:244][981]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtneyB2BB3D0F47B2ACE77F62B99F53766F2D.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_MotionControllerCourtney.uasset'
+[2020.10.01-08.27.15:257][981]AssetCheck: New page: Asset Save: BP_MotionControllerCourtney
+[2020.10.01-08.27.15:257][981]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.36.21:777][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.10.01-08.36.21:779][ 60]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.023
+[2020.10.01-08.36.21:782][ 60]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Courtney/Blueprints/BP_MotionControllerCourtney] ([1] browsable assets)...
+[2020.10.01-08.36.21:790][ 60]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney]
+[2020.10.01-08.36.21:790][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/BP_MotionControllerCourtney]
+[2020.10.01-08.36.21:881][ 60]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtney_AutoBDAF01F94AE9ACDE83B37A8E819D21C3.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/BP_MotionControllerCourtney_Auto2.uasset'
+[2020.10.01-08.36.21:882][ 60]LogFileHelpers: Auto-saving content packages took 0.104
+[2020.10.01-08.36.25:405][ 71]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.01-08.37.33:330][611]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtney1150CB78470B50AA78AC1B9CAB4758DE.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_MotionControllerCourtney.uasset'
+[2020.10.01-08.37.33:342][611]AssetCheck: New page: Asset Save: BP_MotionControllerCourtney
+[2020.10.01-08.37.33:343][611]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.37.33:942][678]BlueprintLog: New page: Compile BP_MotionControllerCourtney
+[2020.10.01-08.37.34:005][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.10.01-08.41.55:818][512]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtney616D222B4C389EB647A1C8A47BAAA09C.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_MotionControllerCourtney.uasset'
+[2020.10.01-08.41.55:830][512]AssetCheck: New page: Asset Save: BP_MotionControllerCourtney
+[2020.10.01-08.41.55:830][512]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.41.56:934][623]BlueprintLog: New page: Compile BP_MotionControllerCourtney
+[2020.10.01-08.41.56:999][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.10.01-08.41.58:127][718]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerCourtney36E1B91448968E420D6EB19B42874A2B.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_MotionControllerCourtney.uasset'
+[2020.10.01-08.41.58:138][718]AssetCheck: New page: Asset Save: BP_MotionControllerCourtney
+[2020.10.01-08.41.58:138][718]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_MotionControllerCourtney.BP_MotionControllerCourtney
+[2020.10.01-08.42.03:142][216]LogSlate: Window 'BP_MotionControllerCourtney' being destroyed
+[2020.10.01-08.42.03:147][216]LogSlate: Window 'BP_MotionControllerCourtney' being destroyed
+[2020.10.01-08.42.03:164][216]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-08.42.03:164][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-08.42.27:277][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.10.01-08.42.36:602][865]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawncourtneyC3460A8543B93A81962EE0A9B05B4E6B.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.uasset'
+[2020.10.01-08.42.36:803][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.10.01-08.42.36:831][865]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.42.36:831][865]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.MotionControllerPawnCourtney
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.SKEL_MotionControllerPawnCourtney_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.SKEL_MotionControllerPawnCourtney_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.SKEL_MotionControllerPawnCourtney_C:ExecuteTeleportation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.SKEL_MotionControllerPawnCourtney_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.SKEL_MotionControllerPawnCourtney_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.SKEL_MotionControllerPawnCourtney_C:GetRotationFromInput' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:416][762]LogMetaData: Removing '/Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney_C:GetRotationFromInput' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawncourtney.PackageMetaData'
+[2020.10.01-08.42.44:477][762]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney4BAE86FE44BC94DAF9B66784823D40E2.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-08.42.44:595][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.10.01-08.42.44:619][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.10.01-08.42.44:633][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.10.01-08.42.44:660][762]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.42.44:660][762]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-08.42.49:416][322]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-08.42.54:923][715]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney649AACA84E9A5F4093CEDB9099F5F3BB.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-08.42.54:933][715]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.42.54:933][715]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-08.42.57:114][890]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-08.42.57:158][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.10.01-08.42.57:256][890]LogSlate: Took 0.004636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.01-08.42.58:104][950]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney96BB3D2B42102E2B1AA04FBA22764E53.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-08.42.58:113][950]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.42.58:113][950]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-08.46.57:267][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.10.01-08.46.57:268][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.024
+[2020.10.01-08.46.57:269][675]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Courtney/Blueprints/MotionControllerPawnCourtney] ([1] browsable assets)...
+[2020.10.01-08.46.57:269][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/MotionControllerPawnCourtney]
+[2020.10.01-08.46.57:316][675]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney_Aut68CE5DB743C3F3B4B01605AD190B3F8D.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/MotionControllerPawnCourtney_Auto3.uasset'
+[2020.10.01-08.46.57:317][675]LogFileHelpers: Auto-saving content packages took 0.049
+[2020.10.01-08.47.55:885][796]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-08.47.55:928][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.10.01-08.47.56:725][866]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney740A5CF1469E1E6A26173789C175DDB3.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-08.47.56:738][866]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.47.56:738][866]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-08.48.39:019][ 61]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-08.48.39:062][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.10.01-08.48.59:642][821]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-08.48.59:685][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.10.01-08.49.00:690][913]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtneyBDA8A9B345FAE30E82FF2A966A26D358.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-08.49.00:701][913]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.49.00:701][913]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-08.55.25:190][862]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-08.55.25:237][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.10.01-08.55.27:076][ 18]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney4ACBE40C444ECC0086B91CAEE4CC6DA3.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-08.55.27:088][ 18]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-08.55.27:088][ 18]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-09.04.39:789][529]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-09.04.39:837][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.10.01-09.04.40:531][576]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney73E89D4A4A5E17423F7C5999C8078361.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-09.04.40:545][576]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-09.04.40:545][576]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-09.05.49:209][841]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-09.05.49:259][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.10.01-09.05.49:796][877]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney2CF676954F323198DD7CD6BA88819CE0.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-09.05.49:810][877]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-09.05.49:810][877]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-09.06.55:389][110]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.01-09.06.55:436][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.10.01-09.06.56:278][168]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney75FF4905497DF7859EFB18ABCAE11EAB.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.01-09.06.56:291][168]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.01-09.06.56:291][168]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.01-09.06.57:578][276]LogSlate: Window 'MotionControllerPawnCourtney' being destroyed
+[2020.10.01-09.06.57:583][276]LogSlate: Window 'MotionControllerPawnCourtney' being destroyed
+[2020.10.01-09.06.57:599][276]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-09.06.57:599][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-09.10.47:128][728]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.11.40:966][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.10.01-09.11.40:969][ 52]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.036
+[2020.10.01-09.11.40:970][ 52]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Courtney/Blueprints/BP_Climbable] ([1] browsable assets)...
+[2020.10.01-09.11.40:970][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/BP_Climbable]
+[2020.10.01-09.11.40:981][ 52]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable_Auto4525BFEEB426DD1C5DBF432AFD074AEB3.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/BP_Climbable_Auto4.uasset'
+[2020.10.01-09.11.40:984][ 52]LogFileHelpers: Auto-saving content packages took 0.015
+[2020.10.01-09.14.32:196][248]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable72DCD7E74FEF2A0F0C433894EABA2346.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.14.32:209][248]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.14.32:209][248]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.14.37:145][634]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-09.14.37:191][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.10.01-09.14.38:498][769]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable2B63894B4BC352C20898399E7D0C85B9.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.14.38:508][769]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.14.38:508][769]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.14.58:407][804]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.01-09.15.06:330][701]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-09.15.06:371][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.10.01-09.15.07:346][800]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableD20F77DE49E12A66D3109985F6812766.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.15.07:358][800]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.15.07:358][800]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.21.58:665][778]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-09.21.58:716][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.10.01-09.21.59:603][867]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableB63ABD894A63EF7FAD7CA08E4E080987.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.21.59:615][867]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.21.59:615][867]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.23.49:979][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.01-09.23.50:002][ 83]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_Auto5BA9A35B2429C30D30F0220B2F8CCFD8B.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Courtney_Auto5.umap'
+[2020.10.01-09.23.50:004][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.048
+[2020.10.01-09.23.50:004][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.048
+[2020.10.01-09.23.50:004][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Courtney/Blueprints/BP_Climbable] ([1] browsable assets)...
+[2020.10.01-09.23.50:011][ 83]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable]
+[2020.10.01-09.23.50:011][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/BP_Climbable]
+[2020.10.01-09.23.50:029][ 83]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable_Auto599B9EFDE4AA68B4139688D9ECE6654A6.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/BP_Climbable_Auto5.uasset'
+[2020.10.01-09.23.50:030][ 83]LogFileHelpers: Auto-saving content packages took 0.027
+[2020.10.01-09.44.18:615][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.10.01-09.44.18:617][870]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.020
+[2020.10.01-09.44.18:617][870]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Courtney/Blueprints/BP_Climbable] ([1] browsable assets)...
+[2020.10.01-09.44.18:625][870]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable]
+[2020.10.01-09.44.18:625][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/BP_Climbable]
+[2020.10.01-09.44.18:646][870]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable_Auto63766FA9A4D9AFA6ADEDBC3812DFF8822.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/BP_Climbable_Auto6.uasset'
+[2020.10.01-09.44.18:647][870]LogFileHelpers: Auto-saving content packages took 0.031
+[2020.10.01-09.51.02:268][692]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-09.51.02:318][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.10.01-09.51.02:870][742]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable06D0D95F40AA9704AD131791B624612F.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.51.02:882][742]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.51.02:882][742]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.56.12:651][619]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-09.56.12:702][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.10.01-09.56.14:041][748]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableC5C621E84FB3E4FBD3913D90E6BB46C1.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.56.14:055][748]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.56.14:055][748]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-09.56.18:147][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.10.01-09.56.18:172][854]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_Auto76EE515B14BD5C5D50301AAB5007C4EFB.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Courtney_Auto7.umap'
+[2020.10.01-09.56.18:175][854]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.057
+[2020.10.01-09.56.18:175][854]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.057
+[2020.10.01-09.58.41:066][142]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-09.58.41:114][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.10.01-09.58.42:242][238]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable30FE3D114249FD33BA49EAAECBF48464.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-09.58.42:254][238]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-09.58.42:254][238]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-10.00.17:858][ 23]BlueprintLog: New page: Compile BP_Climbable
+[2020.10.01-10.00.17:910][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.10.01-10.00.18:624][ 72]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable92D7C57748B25A3FCBFFEABD28D36888.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.01-10.00.18:636][ 72]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.01-10.00.18:636][ 72]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.01-10.04.33:257][686]LogSlate: Window 'BP_Climbable' being destroyed
+[2020.10.01-10.04.33:266][686]LogSlate: Window 'BP_Climbable' being destroyed
+[2020.10.01-10.04.33:267][686]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.10.01-10.04.33:267][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.01-10.04.34:587][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.10.01-10.04.34:610][822]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney4AC4D7E746AEBF4BDED715AC3CE5AF68.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.01-10.04.34:666][822]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData941379194BFFCFEDCD46178279935F04.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.01-10.04.34:681][822]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.01-10.04.34:681][822]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.01-10.04.34:681][822]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.02-06.13.44:762][756]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.10.02-06.13.50:933][772]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.10.02-06.13.55:260][783]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.10.02-06.14.00:287][797]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.10.02-09.24.03:998][816]LogHttp: Warning: 0000020E61C90F00: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5A18A8A2-474E-9329-22F9-9493AB278835%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=ea7ab85940210079434648b70b42b674%7Cb444d354bc8946a1af9bd635ce9c79cf%7C7b17a615-b773-4933-a1c0-e51a155104bb&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 502, content length: 122, actual payload size: 122, elapsed: 0.38s
+[2020.10.02-09.24.03:999][816]LogHttp: Warning: 0000020E61C90F00 Response Header Server: awselb/2.0
+[2020.10.02-09.24.03:999][816]LogHttp: Warning: 0000020E61C90F00 Response Header Date: Fri, 02 Oct 2020 09:24:03 GMT
+[2020.10.02-09.24.03:999][816]LogHttp: Warning: 0000020E61C90F00 Response Header Content-Type: text/html
+[2020.10.02-09.24.03:999][816]LogHttp: Warning: 0000020E61C90F00 Response Header Content-Length: 122
+[2020.10.02-09.24.03:999][816]LogHttp: Warning: 0000020E61C90F00 Response Header Connection: keep-alive
+[2020.10.02-13.05.11:210][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.10.02-13.05.11:255][719]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney3DECB21F43D64022D577089198FA75E8.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.02-13.05.11:315][719]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData09F74EB14F4709213025358799C8216B.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.02-13.05.11:332][719]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-13.05.11:332][719]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.02-13.05.11:332][719]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.02-13.05.12:134][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.10.02-13.05.12:154][811]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney891101AD4FE3EB9FE208F0AAF985C6CB.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.02-13.05.12:211][811]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData2C112103401934A3D3F868BABB5613B9.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.02-13.05.12:226][811]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-13.05.12:226][811]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.02-13.05.12:226][811]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.02-13.05.12:432][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.02-13.05.12:451][832]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney5F07D21F4066D8F2EB41EDA90A5E3B90.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.02-13.05.12:507][832]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData6BFA9A734AD92F266B38A5B847AF9634.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.02-13.05.12:523][832]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-13.05.12:523][832]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.02-13.05.12:523][832]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.02-13.05.12:784][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.10.02-13.05.12:803][859]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney0AB19CF945B76E6DED7C3FA8C8536B74.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.02-13.05.12:859][859]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltDataC7061B824CDDE8EB49A5A587EEF5274A.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.02-13.05.12:874][859]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-13.05.12:874][859]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.02-13.05.12:874][859]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.02-13.05.13:132][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.10.02-13.05.13:151][885]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney42E5CC5D4BC2AC3C99EA21A18DB607D4.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.02-13.05.13:207][885]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData0243D07740628A5FAC6E69A7324873A4.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.02-13.05.13:222][885]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-13.05.13:223][885]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.02-13.05.13:223][885]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.03-14.26.24:421][239]LogHttp: Warning: 0000020E0FC05600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5A18A8A2-474E-9329-22F9-9493AB278835%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=ea7ab85940210079434648b70b42b674%7Cb444d354bc8946a1af9bd635ce9c79cf%7C7b17a615-b773-4933-a1c0-e51a155104bb&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.03-14.26.24:422][239]LogHttp: Warning: 0000020E0FC05600: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.10.03-14.26.24:422][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 0 (Connection 1191 seems to be dead!)
+[2020.10.03-14.26.24:422][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 1 (Closing connection 1191)
+[2020.10.03-14.26.24:422][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.10.03-14.26.24:422][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 3 (  Trying 54.197.224.61...)
+[2020.10.03-14.26.24:422][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.10.03-14.26.24:422][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 5 (connect to 54.197.224.61 port 443 failed: Timed out)
+[2020.10.03-14.26.24:422][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 6 (  Trying 54.164.89.227...)
+[2020.10.03-14.26.24:422][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 7 (TCP_NODELAY set)
+[2020.10.03-14.26.24:422][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 8 (connect to 54.164.89.227 port 443 failed: Host unreachable)
+[2020.10.03-14.26.24:422][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 9 (  Trying 52.22.210.148...)
+[2020.10.03-14.26.24:422][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 10 (TCP_NODELAY set)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 11 (connect to 52.22.210.148 port 443 failed: Host unreachable)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 12 (  Trying 3.226.130.160...)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 13 (TCP_NODELAY set)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 14 (connect to 3.226.130.160 port 443 failed: Host unreachable)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 15 (  Trying 52.71.23.32...)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 16 (TCP_NODELAY set)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 17 (connect to 52.71.23.32 port 443 failed: Host unreachable)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 18 (  Trying 34.196.255.64...)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 19 (TCP_NODELAY set)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 20 (connect to 34.196.255.64 port 443 failed: Host unreachable)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 21 (  Trying 52.203.158.123...)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 22 (TCP_NODELAY set)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 23 (connect to 52.203.158.123 port 443 failed: Host unreachable)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 24 (  Trying 52.71.213.9...)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 25 (TCP_NODELAY set)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 26 (connect to 52.71.213.9 port 443 failed: Host unreachable)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 27 (Failed to connect to datarouter.ol.epicgames.com port 443: Host unreachable)
+[2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 28 (Closing connection 1192)
+[2020.10.03-14.26.24:763][240]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5A18A8A2-474E-9329-22F9-9493AB278835%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=ea7ab85940210079434648b70b42b674%7Cb444d354bc8946a1af9bd635ce9c79cf%7C7b17a615-b773-4933-a1c0-e51a155104bb&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.05-13.34.11:421][919]LogUObjectHash: Compacting FUObjectHashTables data took   7.97ms
+[2020.10.05-13.34.11:625][919]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney35F492EE45E3C674FCED288986761F31.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.05-13.34.11:695][919]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData75E3C39A4668A1745B0780A52A73D9F9.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.05-13.34.11:713][919]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.05-13.34.11:713][919]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.05-13.34.11:713][919]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.05-13.42.14:273][287]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/ClimbAvtorInterface.ClimbAvtorInterface
+[2020.10.05-13.42.21:130][  2]LogSlate: Window 'ClimbAvtorInterface' being destroyed
+[2020.10.05-13.42.21:136][  2]LogSlate: Window 'ClimbAvtorInterface' being destroyed
+[2020.10.05-13.42.21:136][  2]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-13.42.21:137][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-13.42.24:072][337]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.05-13.43.01:027][444]LogSlate: Window 'MotionControllerPawnCourtney' being destroyed
+[2020.10.05-13.43.01:033][444]LogSlate: Window 'MotionControllerPawnCourtney' being destroyed
+[2020.10.05-13.43.01:034][444]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-13.43.01:034][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-13.43.02:723][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.05-13.45.49:343][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/WalkingInterface.WalkingInterface
+[2020.10.05-13.46.19:589][182]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Courtney/Courtney.Courtney:PersistentLevel.Courtney
+[2020.10.05-13.47.57:810][244]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/ClimbAvtorInterface.ClimbAvtorInterface
+[2020.10.05-13.48.15:874][325]BlueprintLog: New page: Compile WalkingInterface
+[2020.10.05-13.48.15:903][325]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.10.05-13.48.17:918][554]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/WalkingInterface6E6D49114B150C03454B0BBA7E0709DC.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/WalkingInterface.uasset'
+[2020.10.05-13.48.17:934][554]AssetCheck: New page: Asset Save: WalkingInterface
+[2020.10.05-13.48.17:934][554]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/WalkingInterface.WalkingInterface
+[2020.10.05-13.48.24:757][348]BlueprintLog: New page: Compile Courtney
+[2020.10.05-13.48.24:780][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.10.05-13.50.02:717][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.10.05-13.50.06:476][678]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/walk.walk
+[2020.10.05-13.51.22:037][133]BlueprintLog: New page: Compile walk
+[2020.10.05-13.51.22:083][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.10.05-13.51.23:367][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Courtney/Blueprints/walk" FILE="../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/walk.uasset" SILENT=true
+[2020.10.05-13.51.23:397][245]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/walk432D924C4ED2AA0DD671D891A435DF4F.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/walk.uasset'
+[2020.10.05-13.51.23:412][245]AssetCheck: New page: Asset Save: walk
+[2020.10.05-13.51.23:412][245]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/walk.walk
+[2020.10.05-13.53.39:424][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.05-13.53.39:467][116]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_Auto880BF420E4BB0F553185580BF8336DBF1.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Courtney_Auto8.umap'
+[2020.10.05-13.53.39:470][116]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.071
+[2020.10.05-13.53.39:470][116]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2020.10.05-13.54.52:889][877]BlueprintLog: New page: Compile WalkingInterface
+[2020.10.05-13.54.52:915][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.10.05-13.54.53:742][965]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/WalkingInterfaceB3B7D27B45B9592F89BE7A929C74186F.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/WalkingInterface.uasset'
+[2020.10.05-13.54.53:758][965]AssetCheck: New page: Asset Save: WalkingInterface
+[2020.10.05-13.54.53:758][965]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/WalkingInterface.WalkingInterface
+[2020.10.05-13.55.17:638][704]BlueprintLog: New page: Compile WalkingInterface
+[2020.10.05-13.55.17:661][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.10.05-13.55.18:205][764]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/WalkingInterface98D2A2D94BDE2E123F8285962E7F7D1A.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/WalkingInterface.uasset'
+[2020.10.05-13.55.18:222][764]AssetCheck: New page: Asset Save: WalkingInterface
+[2020.10.05-13.55.18:222][764]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/WalkingInterface.WalkingInterface
+[2020.10.05-13.55.21:189][ 91]BlueprintLog: New page: Compile Courtney
+[2020.10.05-13.55.21:191][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "MotioncontrollerPawn" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Set MotioncontrollerPawn
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "SecondMotioncontroller" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get SecondMotioncontroller
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "FirstMotionController" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get FirstMotionController
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "SecondMotioncontroller" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get SecondMotioncontroller
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "PivotPoint" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Set PivotPoint
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "FirstMotionController" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Set FirstMotionController
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "SecondMotioncontroller" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Set SecondMotioncontroller
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "FirstMotionController" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get FirstMotionController
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "MotioncontrollerPawn" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get MotioncontrollerPawn
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "PivotPoint" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get PivotPoint
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "SecondMotioncontroller" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get SecondMotioncontroller
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "SecondMotioncontroller" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get SecondMotioncontroller
+[2020.10.05-13.55.21:193][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "FirstMotionController" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get FirstMotionController
+[2020.10.05-13.55.21:193][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "PivotPoint" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get PivotPoint
+[2020.10.05-13.55.21:193][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "MotioncontrollerPawn" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get MotioncontrollerPawn
+[2020.10.05-13.55.21:193][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "FirstMotionController" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get FirstMotionController
+[2020.10.05-13.55.21:193][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "MotioncontrollerPawn" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get MotioncontrollerPawn
+[2020.10.05-13.55.21:193][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] This blueprint (self) is not a MotionControllerPawnCourtney_C, therefore ' Target ' must have a connection.
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Motioncontroller Pawn  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  First Motion Controller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Motioncontroller Pawn  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Pivot Point  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  First Motion Controller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Second Motioncontroller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Second Motioncontroller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Pivot Point  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Motioncontroller Pawn  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  First Motion Controller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Second Motioncontroller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  First Motion Controller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Second Motioncontroller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  First Motion Controller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Second Motioncontroller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Motioncontroller Pawn  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Pivot Point  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] Variable node  Get ClimbingHands  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.10.05-13.55.21:241][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.10.05-13.55.46:375][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.10.05-13.55.46:406][969]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/CourtneyB8FFBDE744249CC4117712B0A476449C.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.05-13.55.46:449][969]LogFileHelpers: Saving map 'Courtney' took 0.102
+[2020.10.05-13.55.46:462][969]AssetCheck: New page: Asset Save: Courtney
+[2020.10.05-13.55.46:462][969]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.05-14.03.34:687][916]AssetReimport: New page: Outstanding source content changes 18:03:34
+[2020.10.05-14.03.34:695][916]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Théo/StartupMap.FBX)
+[2020.10.05-14.03.34:734][916]LogFbx: Loading FBX Scene from C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Théo/StartupMap.FBX
+[2020.10.05-14.03.34:786][916]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.05-14.03.40:845][916]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.05-14.03.40:971][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.10.05-14.03.41:011][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.10.05-14.03.44:034][239]AssetReimport: Importing new asset /Game/Théo/StartupMap.
+[2020.10.05-14.03.44:034][239]AssetReimport: Failed to import file C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Théo/StartupMap.FBX.
+>>>>>>> 1fb14c765d930925991d155b57bcb52793959fb1
