@@ -1281,3 +1281,12 @@ Make sure 'Courtney_C' has been compiled for  Get MotioncontrollerPawn
 [2020.10.05-13.55.46:449][969]LogFileHelpers: Saving map 'Courtney' took 0.102
 [2020.10.05-13.55.46:462][969]AssetCheck: New page: Asset Save: Courtney
 [2020.10.05-13.55.46:462][969]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.05-14.03.34:687][916]AssetReimport: New page: Outstanding source content changes 18:03:34
+[2020.10.05-14.03.34:695][916]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Théo/StartupMap.FBX)
+[2020.10.05-14.03.34:734][916]LogFbx: Loading FBX Scene from C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Théo/StartupMap.FBX
+[2020.10.05-14.03.34:786][916]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.05-14.03.40:845][916]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.05-14.03.40:971][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.10.05-14.03.41:011][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.10.05-14.03.44:034][239]AssetReimport: Importing new asset /Game/Théo/StartupMap.
+[2020.10.05-14.03.44:034][239]AssetReimport: Failed to import file C:/Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Théo/StartupMap.FBX.
