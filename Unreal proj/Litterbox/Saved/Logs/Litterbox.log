@@ -1306,3 +1306,9 @@ Make sure 'Courtney_C' has been compiled for  Get MotioncontrollerPawn
 [2020.10.05-14.11.00:329][877]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
 [2020.10.05-14.11.01:212][968]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
 [2020.10.05-14.11.01:212][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-14.21.00:494][420]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.10.05-14.21.00:498][420]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.052
+[2020.10.05-14.21.00:499][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Courtney/Blueprints/MotionControllerPawnCourtney] ([1] browsable assets)...
+[2020.10.05-14.21.00:499][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Courtney/Blueprints/MotionControllerPawnCourtney]
+[2020.10.05-14.21.00:577][420]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney_Aut248744D34C8270204562AE82F14F6D33.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Blueprints/MotionControllerPawnCourtney_Auto0.uasset'
+[2020.10.05-14.21.00:578][420]LogFileHelpers: Auto-saving content packages took 0.080
