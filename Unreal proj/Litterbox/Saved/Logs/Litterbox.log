@@ -1172,3 +1172,112 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 27 (Failed to connect to datarouter.ol.epicgames.com port 443: Host unreachable)
 [2020.10.03-14.26.24:423][239]LogHttp: Warning: 0000020E0FC05600: libcurl info message cache 28 (Closing connection 1192)
 [2020.10.03-14.26.24:763][240]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5A18A8A2-474E-9329-22F9-9493AB278835%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=ea7ab85940210079434648b70b42b674%7Cb444d354bc8946a1af9bd635ce9c79cf%7C7b17a615-b773-4933-a1c0-e51a155104bb&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.05-13.34.11:421][919]LogUObjectHash: Compacting FUObjectHashTables data took   7.97ms
+[2020.10.05-13.34.11:625][919]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney35F492EE45E3C674FCED288986761F31.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.05-13.34.11:695][919]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_BuiltData75E3C39A4668A1745B0780A52A73D9F9.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney_BuiltData.uasset'
+[2020.10.05-13.34.11:713][919]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.05-13.34.11:713][919]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.05-13.34.11:713][919]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Courtney_BuiltData.Courtney_BuiltData
+[2020.10.05-13.42.14:273][287]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/ClimbAvtorInterface.ClimbAvtorInterface
+[2020.10.05-13.42.21:130][  2]LogSlate: Window 'ClimbAvtorInterface' being destroyed
+[2020.10.05-13.42.21:136][  2]LogSlate: Window 'ClimbAvtorInterface' being destroyed
+[2020.10.05-13.42.21:136][  2]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-13.42.21:137][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-13.42.24:072][337]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.05-13.43.01:027][444]LogSlate: Window 'MotionControllerPawnCourtney' being destroyed
+[2020.10.05-13.43.01:033][444]LogSlate: Window 'MotionControllerPawnCourtney' being destroyed
+[2020.10.05-13.43.01:034][444]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-13.43.01:034][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-13.43.02:723][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.05-13.45.49:343][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/WalkingInterface.WalkingInterface
+[2020.10.05-13.46.19:589][182]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Courtney/Courtney.Courtney:PersistentLevel.Courtney
+[2020.10.05-13.47.57:810][244]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/ClimbAvtorInterface.ClimbAvtorInterface
+[2020.10.05-13.48.15:874][325]BlueprintLog: New page: Compile WalkingInterface
+[2020.10.05-13.48.15:903][325]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.10.05-13.48.17:918][554]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/WalkingInterface6E6D49114B150C03454B0BBA7E0709DC.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/WalkingInterface.uasset'
+[2020.10.05-13.48.17:934][554]AssetCheck: New page: Asset Save: WalkingInterface
+[2020.10.05-13.48.17:934][554]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/WalkingInterface.WalkingInterface
+[2020.10.05-13.48.24:757][348]BlueprintLog: New page: Compile Courtney
+[2020.10.05-13.48.24:780][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.10.05-13.50.02:717][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.10.05-13.50.06:476][678]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/walk.walk
+[2020.10.05-13.51.22:037][133]BlueprintLog: New page: Compile walk
+[2020.10.05-13.51.22:083][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.10.05-13.51.23:367][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Courtney/Blueprints/walk" FILE="../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/walk.uasset" SILENT=true
+[2020.10.05-13.51.23:397][245]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/walk432D924C4ED2AA0DD671D891A435DF4F.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/walk.uasset'
+[2020.10.05-13.51.23:412][245]AssetCheck: New page: Asset Save: walk
+[2020.10.05-13.51.23:412][245]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/walk.walk
+[2020.10.05-13.53.39:424][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.05-13.53.39:467][116]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Courtney_Auto880BF420E4BB0F553185580BF8336DBF1.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Courtney_Auto8.umap'
+[2020.10.05-13.53.39:470][116]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Courtney' took 0.071
+[2020.10.05-13.53.39:470][116]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2020.10.05-13.54.52:889][877]BlueprintLog: New page: Compile WalkingInterface
+[2020.10.05-13.54.52:915][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.10.05-13.54.53:742][965]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/WalkingInterfaceB3B7D27B45B9592F89BE7A929C74186F.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/WalkingInterface.uasset'
+[2020.10.05-13.54.53:758][965]AssetCheck: New page: Asset Save: WalkingInterface
+[2020.10.05-13.54.53:758][965]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/WalkingInterface.WalkingInterface
+[2020.10.05-13.55.17:638][704]BlueprintLog: New page: Compile WalkingInterface
+[2020.10.05-13.55.17:661][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.10.05-13.55.18:205][764]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/WalkingInterface98D2A2D94BDE2E123F8285962E7F7D1A.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/WalkingInterface.uasset'
+[2020.10.05-13.55.18:222][764]AssetCheck: New page: Asset Save: WalkingInterface
+[2020.10.05-13.55.18:222][764]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/WalkingInterface.WalkingInterface
+[2020.10.05-13.55.21:189][ 91]BlueprintLog: New page: Compile Courtney
+[2020.10.05-13.55.21:191][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "MotioncontrollerPawn" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Set MotioncontrollerPawn
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "SecondMotioncontroller" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get SecondMotioncontroller
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "FirstMotionController" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get FirstMotionController
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "SecondMotioncontroller" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get SecondMotioncontroller
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "PivotPoint" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Set PivotPoint
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "FirstMotionController" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Set FirstMotionController
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "SecondMotioncontroller" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Set SecondMotioncontroller
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "FirstMotionController" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get FirstMotionController
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "MotioncontrollerPawn" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get MotioncontrollerPawn
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "PivotPoint" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get PivotPoint
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "SecondMotioncontroller" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get SecondMotioncontroller
+[2020.10.05-13.55.21:192][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "SecondMotioncontroller" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get SecondMotioncontroller
+[2020.10.05-13.55.21:193][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "FirstMotionController" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get FirstMotionController
+[2020.10.05-13.55.21:193][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "PivotPoint" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get PivotPoint
+[2020.10.05-13.55.21:193][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "MotioncontrollerPawn" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get MotioncontrollerPawn
+[2020.10.05-13.55.21:193][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "FirstMotionController" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get FirstMotionController
+[2020.10.05-13.55.21:193][ 91]LogBlueprint: Warning: [Compiler PersistentLevel.Courtney] Could not find a variable named "MotioncontrollerPawn" in 'Courtney_C'.
+Make sure 'Courtney_C' has been compiled for  Get MotioncontrollerPawn
+[2020.10.05-13.55.21:193][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] This blueprint (self) is not a MotionControllerPawnCourtney_C, therefore ' Target ' must have a connection.
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Motioncontroller Pawn  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  First Motion Controller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Motioncontroller Pawn  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Pivot Point  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  First Motion Controller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Second Motioncontroller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Second Motioncontroller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Pivot Point  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Motioncontroller Pawn  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  First Motion Controller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Second Motioncontroller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  First Motion Controller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Second Motioncontroller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  First Motion Controller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Second Motioncontroller  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Motioncontroller Pawn  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] The property associated with  Pivot Point  could not be found in '/Game/Courtney/Courtney.Courtney_C'
+[2020.10.05-13.55.21:194][ 91]LogBlueprint: Error: [Compiler PersistentLevel.Courtney] Variable node  Get ClimbingHands  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.10.05-13.55.21:241][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.10.05-13.55.46:375][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.10.05-13.55.46:406][969]LogSavePackage: Moving '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Saved/CourtneyB8FFBDE744249CC4117712B0A476449C.tmp' to '../../../../../../Users/ferreira.courtney/Documents/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.05-13.55.46:449][969]LogFileHelpers: Saving map 'Courtney' took 0.102
+[2020.10.05-13.55.46:462][969]AssetCheck: New page: Asset Save: Courtney
+[2020.10.05-13.55.46:462][969]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
