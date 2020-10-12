@@ -5566,3 +5566,232 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.12-14.52.01:489][977]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/walk2AAB5F1D44DEA0EA60F999AED6A109DF.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/walk.uasset'
 [2020.10.12-14.52.01:499][977]AssetCheck: New page: Asset Save: walk
 [2020.10.12-14.52.01:499][977]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/walk.walk
+[2020.10.12-14.54.21:816][310]BlueprintLog: New page: Compile walk
+[2020.10.12-14.54.21:853][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.10.12-14.54.22:221][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Courtney/Blueprints/walk" FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/walk.uasset" SILENT=true
+[2020.10.12-14.54.22:259][337]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/walkE7CD2C30454CE684884AC084D03A093B.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/walk.uasset'
+[2020.10.12-14.54.22:272][337]AssetCheck: New page: Asset Save: walk
+[2020.10.12-14.54.22:272][337]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/walk.walk
+[2020.10.12-14.54.23:492][454]LogSlate: Window 'MotionControllerPawnCourtney' being destroyed
+[2020.10.12-14.54.23:496][454]LogSlate: Window 'MotionControllerPawnCourtney' being destroyed
+[2020.10.12-14.54.23:504][454]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.12-14.54.23:504][454]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.12-14.54.23:504][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.12-14.54.23:546][454]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.12-14.54.23:546][454]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.12-14.54.23:547][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.12-14.54.28:705][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.10.12-14.54.28:737][608]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Courtney5AC183C440E039E10737969CF1E84CD9.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap'
+[2020.10.12-14.54.28:782][608]AssetCheck: New page: Asset Save: Courtney
+[2020.10.12-14.54.28:782][608]LogContentValidation: Display: Validating World /Game/Courtney/Courtney.Courtney
+[2020.10.12-14.55.29:051][937]LogHttp: Warning: 000001B7237DD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B00BF1533-4300-FBFC-278C-70B977BDA4E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=36227f6a4eec21db380370a2ee397ce9%7Cac7ab55a00404bcc9f5e2deb64d5645c%7C7c75be4e-bdb5-47e8-8d4f-e18a0d7bc9b7&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.12-14.55.29:051][937]LogHttp: Warning: 000001B7237DD600: request failed, libcurl error: 0 (No error)
+[2020.10.12-14.55.29:051][937]LogHttp: Warning: 000001B7237DD600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b6dd397f70 [can pipeline])
+[2020.10.12-14.55.29:051][937]LogHttp: Warning: 000001B7237DD600: libcurl info message cache 1 (Re-using existing connection! (#29) with host datarouter.ol.epicgames.com)
+[2020.10.12-14.55.29:051][937]LogHttp: Warning: 000001B7237DD600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.207.77.117) port 443 (#29))
+[2020.10.12-14.55.29:051][937]LogHttp: Warning: 000001B7237DD600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.10.12-14.55.29:051][937]LogHttp: Warning: 000001B7237DD600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.10.12-14.55.29:051][937]LogHttp: Warning: 000001B7237DD600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.10.12-14.55.29:051][937]LogHttp: Warning: 000001B7237DD600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.10.12-14.55.29:051][937]LogHttp: Warning: 000001B7237DD600: libcurl info message cache 7 (Closing connection 29)
+[2020.10.12-14.55.29:051][937]LogHttp: Warning: 000001B7237DD600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.10.12-14.55.29:392][938]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B00BF1533-4300-FBFC-278C-70B977BDA4E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=36227f6a4eec21db380370a2ee397ce9%7Cac7ab55a00404bcc9f5e2deb64d5645c%7C7c75be4e-bdb5-47e8-8d4f-e18a0d7bc9b7&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.12-14.57.04:239][919]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.12-15.00.08:605][606]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Théo/Théo.Théo
+[2020.10.12-15.00.08:624][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.10.12-15.00.10:440][606]LogSlate: Window 'Save Content' being destroyed
+[2020.10.12-15.00.10:552][606]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney053B0DEF4D6E88E03D5DDA83C6278A24.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.12-15.00.10:555][606]Cmd: MAP LOAD FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.12-15.00.10:555][606]LightingResults: New page: Lighting Build
+[2020.10.12-15.00.10:555][606]LoadErrors: New page: Loading map: Théo.umap
+[2020.10.12-15.00.10:582][606]LogWorld: UWorld::CleanupWorld for Courtney, bSessionEnded=true, bCleanupResources=true
+[2020.10.12-15.00.10:582][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.12-15.00.10:582][606]MapCheck: New page: Map Check
+[2020.10.12-15.00.10:582][606]LightingResults: New page: Lighting Build
+[2020.10.12-15.00.10:597][606]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B68D8F3D80), frame # 278606
+[2020.10.12-15.00.10:597][606]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B68DF2B000), frame # 278606
+[2020.10.12-15.00.10:599][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.10.12-15.00.10:604][606]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.12-15.00.10:604][606]LogAIModule: Creating AISystem for world Théo
+[2020.10.12-15.00.10:604][606]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B68DF29A00), frame # 278606
+[2020.10.12-15.00.10:604][606]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B717690F40), frame # 278606
+[2020.10.12-15.00.10:623][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.10.12-15.00.10:653][606]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.12-15.00.10:658][606]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5,086ms to complete.
+[2020.10.12-15.00.10:658][606]LogFileHelpers: Loading map 'Théo' took 0.103
+[2020.10.12-15.00.10:718][606]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.12-15.00.10:719][606]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.12-15.00.47:665][ 30]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Sofa01)
+[2020.10.12-15.00.49:221][206]LogEditorViewport: Clicking Background
+[2020.10.12-15.00.50:495][352]LogEditorViewport: Clicking Background
+[2020.10.12-15.00.59:513][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Vase02)
+[2020.10.12-15.01.05:712][934]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Courtney/Courtney.Courtney
+[2020.10.12-15.01.05:729][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.10.12-15.01.05:733][934]Cmd: MAP LOAD FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.12-15.01.05:733][934]LightingResults: New page: Lighting Build
+[2020.10.12-15.01.05:733][934]LoadErrors: New page: Loading map: Courtney.umap
+[2020.10.12-15.01.05:734][934]LogWorld: UWorld::CleanupWorld for Théo, bSessionEnded=true, bCleanupResources=true
+[2020.10.12-15.01.05:734][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.12-15.01.05:734][934]MapCheck: New page: Map Check
+[2020.10.12-15.01.05:734][934]LightingResults: New page: Lighting Build
+[2020.10.12-15.01.05:749][934]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B717690F40), frame # 284934
+[2020.10.12-15.01.05:749][934]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B68DF29A00), frame # 284934
+[2020.10.12-15.01.05:750][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.10.12-15.01.05:755][934]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.12-15.01.05:755][934]LogAIModule: Creating AISystem for world Courtney
+[2020.10.12-15.01.05:755][934]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B7239DEE00), frame # 284934
+[2020.10.12-15.01.05:755][934]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B6A083F600), frame # 284934
+[2020.10.12-15.01.05:773][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.10.12-15.01.05:803][934]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.12-15.01.05:803][934]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,149ms to complete.
+[2020.10.12-15.01.05:803][934]LogFileHelpers: Loading map 'Courtney' took 0.071
+[2020.10.12-15.01.07:216][ 97]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (frozen_Room)
+[2020.10.12-15.01.10:353][462]LogLinker: Warning: While loading 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/CourtneysLevel.umap' failed to load '/Game/Courtney/CourtneysLevel_BuiltData': Can't find file.
+[2020.10.12-15.01.10:353][462]LogLinker: Warning: While loading 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/CourtneysLevel.umap' failed to load '/Game/Courtney/CourtneysLevel_BuiltData': Can't find file.
+[2020.10.12-15.01.10:353][462]LogLinker: Warning: While loading 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/CourtneysLevel.umap' failed to load '/Game/Courtney/CourtneysLevel_BuiltData': Can't find file.
+[2020.10.12-15.01.10:353][462]LogLinker: Warning: While loading 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/CourtneysLevel.umap' failed to load '/Game/Courtney/CourtneysLevel_BuiltData': Can't find file.
+[2020.10.12-15.01.10:353][462]LogLinker: Warning: While loading 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/CourtneysLevel.umap' failed to load '/Game/Courtney/CourtneysLevel_BuiltData': Can't find file.
+[2020.10.12-15.01.10:353][462]LoadErrors: Failed to load /Game/Courtney/CourtneysLevel_BuiltData.CourtneysLevel_BuiltData Referenced by PersistentLevel
+[2020.10.12-15.01.10:354][462]LogLinker: Warning: While loading 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/CourtneysLevel.umap' failed to load '/Game/Courtney/CourtneysLevel_BuiltData': Can't find file.
+[2020.10.12-15.01.10:355][462]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Courtney/CourtneysLevel.CourtneysLevel
+[2020.10.12-15.01.10:372][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.10.12-15.01.10:374][462]Cmd: MAP LOAD FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/CourtneysLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.12-15.01.10:374][462]LightingResults: New page: Lighting Build
+[2020.10.12-15.01.10:374][462]LoadErrors: New page: Loading map: CourtneysLevel.umap
+[2020.10.12-15.01.10:421][462]LogWorld: UWorld::CleanupWorld for Courtney, bSessionEnded=true, bCleanupResources=true
+[2020.10.12-15.01.10:421][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.12-15.01.10:421][462]MapCheck: New page: Map Check
+[2020.10.12-15.01.10:421][462]LightingResults: New page: Lighting Build
+[2020.10.12-15.01.10:437][462]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B6A083F600), frame # 285462
+[2020.10.12-15.01.10:437][462]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B7239DEE00), frame # 285462
+[2020.10.12-15.01.10:438][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.10.12-15.01.10:443][462]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.12-15.01.10:443][462]LogAIModule: Creating AISystem for world CourtneysLevel
+[2020.10.12-15.01.10:443][462]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B7239DCA00), frame # 285462
+[2020.10.12-15.01.10:443][462]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B6A02A4F40), frame # 285462
+[2020.10.12-15.01.10:461][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.10.12-15.01.10:490][462]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.12-15.01.10:490][462]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,128ms to complete.
+[2020.10.12-15.01.10:490][462]LogFileHelpers: Loading map 'CourtneysLevel' took 0.117
+[2020.10.12-15.01.17:015][229]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Courtney/Courtney.Courtney
+[2020.10.12-15.01.17:031][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.10.12-15.01.17:033][229]Cmd: MAP LOAD FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.12-15.01.17:033][229]LightingResults: New page: Lighting Build
+[2020.10.12-15.01.17:033][229]LoadErrors: New page: Loading map: Courtney.umap
+[2020.10.12-15.01.17:070][229]LogWorld: UWorld::CleanupWorld for CourtneysLevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.12-15.01.17:070][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.12-15.01.17:070][229]MapCheck: New page: Map Check
+[2020.10.12-15.01.17:070][229]LightingResults: New page: Lighting Build
+[2020.10.12-15.01.17:085][229]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B6A02A4F40), frame # 286229
+[2020.10.12-15.01.17:085][229]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B7239DCA00), frame # 286229
+[2020.10.12-15.01.17:086][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.10.12-15.01.17:091][229]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.12-15.01.17:091][229]LogAIModule: Creating AISystem for world Courtney
+[2020.10.12-15.01.17:091][229]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B6FB05BC00), frame # 286229
+[2020.10.12-15.01.17:091][229]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B6A02E6340), frame # 286229
+[2020.10.12-15.01.17:109][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.10.12-15.01.17:139][229]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.12-15.01.17:139][229]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,125ms to complete.
+[2020.10.12-15.01.17:139][229]LogFileHelpers: Loading map 'Courtney' took 0.107
+[2020.10.12-15.02.03:603][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.10.12-15.09.24:966][385]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.10.12-15.34.30:747][935]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.10.12-15.34.30:747][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.12-15.35.53:761][577]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Théo/Théo.Théo
+[2020.10.12-15.35.53:781][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.10.12-15.35.53:785][577]Cmd: MAP LOAD FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.12-15.35.53:785][577]LightingResults: New page: Lighting Build
+[2020.10.12-15.35.53:785][577]LoadErrors: New page: Loading map: Théo.umap
+[2020.10.12-15.35.53:786][577]LogWorld: UWorld::CleanupWorld for Courtney, bSessionEnded=true, bCleanupResources=true
+[2020.10.12-15.35.53:786][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.12-15.35.53:786][577]MapCheck: New page: Map Check
+[2020.10.12-15.35.53:786][577]LightingResults: New page: Lighting Build
+[2020.10.12-15.35.53:802][577]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B6A02E6340), frame # 317577
+[2020.10.12-15.35.53:802][577]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B6FB05BC00), frame # 317577
+[2020.10.12-15.35.53:803][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.10.12-15.35.53:808][577]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.12-15.35.53:808][577]LogAIModule: Creating AISystem for world Théo
+[2020.10.12-15.35.53:808][577]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B6A5D05E00), frame # 317577
+[2020.10.12-15.35.53:808][577]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B6A05CBEC0), frame # 317577
+[2020.10.12-15.35.53:827][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.10.12-15.35.53:857][577]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.12-15.35.53:857][577]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,141ms to complete.
+[2020.10.12-15.35.53:857][577]LogFileHelpers: Loading map 'Théo' took 0.072
+[2020.10.12-15.36.13:774][953]LogActorFactory: Actor Factory created Cube
+[2020.10.12-15.36.13:776][953]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.10.12-15.36.13:803][953]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2020.10.12-15.36.13:803][953]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 58
+[2020.10.12-15.36.13:803][953]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2020.10.12-15.36.13:803][953]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.10.12-15.36.15:796][185]LogActorFactory: Actor Factory created Cube
+[2020.10.12-15.36.17:557][387]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.10.12-15.36.17:666][400]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.10.12-15.36.17:776][411]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.10.12-15.36.18:056][443]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.10.12-15.36.19:489][612]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.10.12-15.36.20:110][685]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.10.12-15.36.20:634][745]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.10.12-15.36.20:777][762]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.10.12-15.36.21:169][807]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.10.12-15.36.31:162][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.12-15.36.33:150][162]Cmd: EDIT COPY
+[2020.10.12-15.36.33:518][206]Cmd: EDIT PASTE
+[2020.10.12-15.36.35:112][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.12-15.36.37:946][724]LogActorFactory: Actor Factory created Cylinder
+[2020.10.12-15.36.39:226][866]LogActorFactory: Actor Factory created Cylinder
+[2020.10.12-15.36.50:624][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.12-15.37.07:443][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.12-15.37.36:492][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (jouet pour chat)
+[2020.10.12-15.37.39:013][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (carton chat)
+[2020.10.12-15.38.37:906][190]LogActorFactory: Actor Factory created Sphere
+[2020.10.12-15.38.38:564][261]LogActorFactory: Actor Factory created Sphere
+[2020.10.12-15.38.54:316][124]LogActorFactory: Actor Factory created Cone
+[2020.10.12-15.38.55:871][300]LogActorFactory: Actor Factory created Cone
+[2020.10.12-15.39.06:967][610]LogActorFactory: Actor Factory created Cone
+[2020.10.12-15.39.07:692][691]LogActorFactory: Actor Factory created Cone
+[2020.10.12-15.39.25:142][751]LogActorFactory: Actor Factory created Cone
+[2020.10.12-15.39.25:684][809]LogActorFactory: Actor Factory created Cone
+[2020.10.12-15.39.40:522][553]LogActorFactory: Actor Factory created Cone
+[2020.10.12-15.39.41:605][671]LogActorFactory: Actor Factory created Cone
+[2020.10.12-15.40.08:551][867]LogActorFactory: Actor Factory created Cone
+[2020.10.12-15.40.09:605][987]LogActorFactory: Actor Factory created Cone
+[2020.10.12-15.40.51:197][829]LogActorFactory: Actor Factory created Cone
+[2020.10.12-15.40.52:552][990]LogActorFactory: Actor Factory created Cone
+[2020.10.12-15.41.17:459][934]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.10.12-15.41.38:606][446]Cmd: EDIT COPY
+[2020.10.12-15.41.39:024][496]Cmd: EDIT PASTE
+[2020.10.12-15.41.58:755][827]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.10.12-15.42.02:276][244]Cmd: TRANSACTION UNDO
+[2020.10.12-15.42.02:276][244]LogEditorTransaction: Undo Move Actors
+[2020.10.12-15.42.02:887][268]Cmd: TRANSACTION UNDO
+[2020.10.12-15.42.02:887][268]LogEditorTransaction: Undo Brush Add
+[2020.10.12-15.42.05:284][540]LogActorFactory: Actor Factory created Cube
+[2020.10.12-15.42.07:000][745]LogActorFactory: Actor Factory created Cube
+[2020.10.12-15.42.30:673][541]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.10.12-15.42.37:786][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rebord fenètre)
+[2020.10.12-15.42.42:870][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Théo" FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.12-15.42.42:890][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.10.12-15.42.42:961][972]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Théo11E551714B6888AF34F72DAC59CDA539.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
+[2020.10.12-15.42.43:008][972]AssetCheck: New page: Asset Save: Théo
+[2020.10.12-15.42.43:008][972]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
+[2020.10.12-15.44.04:940][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Théo" FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.12-15.44.04:961][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.10.12-15.44.05:024][792]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/ThéoCAF18B084CDC7EE4E0BC4EB08FB83D08.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
+[2020.10.12-15.44.05:066][792]AssetCheck: New page: Asset Save: Théo
+[2020.10.12-15.44.05:066][792]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
+[2020.10.12-15.47.20:058][504]Cmd: DELETE
+[2020.10.12-15.47.20:058][504]Cmd: ACTOR DELETE
+[2020.10.12-15.47.20:061][504]LogEditorActor: Deleted Actor: TriggerBox
+[2020.10.12-15.47.20:079][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.10.12-15.47.20:083][504]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.10.12-15.47.21:368][652]LogActorFactory: Actor Factory created Cube
+[2020.10.12-15.47.22:497][781]LogActorFactory: Actor Factory created Cube
+[2020.10.12-15.54.05:087][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.10.12-15.54.05:155][477]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Théo_Auto2F9AA76274CB21A61800E09943B8A8973.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Théo/Théo_Auto2.umap'
+[2020.10.12-15.54.05:158][477]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Théo/Théo' took 0.088
+[2020.10.12-15.54.05:158][477]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.088
+[2020.10.12-15.59.25:317][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Théo" FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.12-15.59.25:337][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.10.12-15.59.25:403][423]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Théo9CF5C40448AB6DBA35114C94A24E8E21.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
+[2020.10.12-15.59.25:447][423]AssetCheck: New page: Asset Save: Théo
+[2020.10.12-15.59.25:447][423]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
