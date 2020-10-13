@@ -5657,3 +5657,72 @@ Make sure 'MotionControllerPawn_C' has been compiled for  Set Output Distance
 [2020.10.13-14.05.39:584][338]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawn099061834C63DB532282B5B71A0830F8.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
 [2020.10.13-14.05.39:605][338]AssetCheck: New page: Asset Save: MotionControllerPawn
 [2020.10.13-14.05.39:605][338]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.10.13-14.10.43:058][450]LogSlate: Window 'walk' being destroyed
+[2020.10.13-14.10.43:064][450]LogSlate: Window 'walk' being destroyed
+[2020.10.13-14.10.43:076][450]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-14.10.43:076][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-14.10.43:319][450]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.13-14.10.43:319][450]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-14.10.43:319][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-14.10.45:092][641]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.13-14.10.45:092][641]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-14.10.45:092][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-14.10.48:037][917]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnCourtney0E4AAD054CB6042009F8619EFA7FBAD0.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/MotionControllerPawnCourtney.uasset'
+[2020.10.13-14.10.48:056][917]AssetCheck: New page: Asset Save: MotionControllerPawnCourtney
+[2020.10.13-14.10.48:056][917]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/MotionControllerPawnCourtney.MotionControllerPawnCourtney
+[2020.10.13-14.10.48:475][960]BlueprintLog: New page: Compile MotionControllerPawnCourtney
+[2020.10.13-14.10.48:604][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.13-14.10.49:226][ 14]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.13-14.10.49:226][ 14]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-14.10.49:226][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.13-14.10.50:888][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.10.13-14.10.50:979][170]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/StartupMapEA221DC943160B6C0CD1278E77324BE8.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2020.10.13-14.10.51:038][170]AssetCheck: New page: Asset Save: StartupMap
+[2020.10.13-14.10.51:038][170]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2020.10.13-14.10.53:355][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.10.13-14.10.55:066][439]LogSlate: Window 'Save Content' being destroyed
+[2020.10.13-14.10.55:154][439]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_Climbable5F2B1669481ED3F4FA20909EF4937CFA.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/Courtney/Blueprints/BP_Climbable.uasset'
+[2020.10.13-14.10.55:246][439]LogSlate: Window 'Litterbox - Unreal Editor' being destroyed
+[2020.10.13-14.10.55:247][439]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-14.10.55:457][439]AssetCheck: New page: Asset Save: BP_Climbable
+[2020.10.13-14.10.55:457][439]LogContentValidation: Display: Validating Blueprint /Game/Courtney/Blueprints/BP_Climbable.BP_Climbable
+[2020.10.13-14.10.55:463][440]Cmd: QUIT_EDITOR
+[2020.10.13-14.10.55:463][440]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.10.13-14.10.55:493][440]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.10.13-14.10.55:758][440]LogExit: Preparing to exit.
+[2020.10.13-14.10.55:760][440]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/D65805B34DD66A0924D5B78CDA401DC1.json
+[2020.10.13-14.10.57:534][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:534][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:534][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:534][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:534][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:534][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:534][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:534][440]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-14.10.57:536][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:536][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:536][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:536][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:536][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:536][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:536][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:536][440]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-14.10.57:537][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:537][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:537][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:537][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:537][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:537][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:537][440]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.13-14.10.57:537][440]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-14.10.57:813][440]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.10.13-14.10.58:240][440]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-14.10.58:284][440]LogExit: Editor shut down
+[2020.10.13-14.10.58:312][440]LogExit: Transaction tracking system shut down
+[2020.10.13-14.10.59:750][440]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024C4B420800), frame # 307440
+[2020.10.13-14.10.59:750][440]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024C565EA700), frame # 307440
+[2020.10.13-14.11.00:506][440]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000024C50759BC0), frame # 307440
+[2020.10.13-14.11.00:506][440]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024C50C25440), frame # 307440
+[2020.10.13-14.11.00:523][440]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024C50727800), frame # 307440
+[2020.10.13-14.11.01:612][440]LogExit: Object subsystem successfully closed.
+[2020.10.13-14.11.01:990][440]LogShaderCompilers: Display: Shaders left to compile 0
