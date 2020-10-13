@@ -5654,3 +5654,6 @@ Make sure 'MotionControllerPawn_C' has been compiled for  Set Output Distance
 [2020.10.13-14.04.13:215][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
 [2020.10.13-14.04.13:345][510]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawn_Auto28A8F51D8414997394AB509BD66DEF3B5.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto2.uasset'
 [2020.10.13-14.04.13:350][510]LogFileHelpers: Auto-saving content packages took 0.251
+[2020.10.13-14.05.39:584][338]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawn099061834C63DB532282B5B71A0830F8.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.10.13-14.05.39:605][338]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.10.13-14.05.39:605][338]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
