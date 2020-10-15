@@ -1090,3 +1090,126 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.15-08.23.10:960][ 51]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.15-08.23.10:960][ 51]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
 [2020.10.15-08.23.10:960][ 51]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.MotionControllerMap_BuiltData
+[2020.10.15-08.33.10:374][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.10.15-08.33.10:379][318]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.069
+[2020.10.15-08.33.10:380][318]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2020.10.15-08.33.10:380][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2020.10.15-08.33.10:513][318]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawn_Auto5F6581A7B4EDEBF92A1255DBE64BE9FA8.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto5.uasset'
+[2020.10.15-08.33.10:517][318]LogFileHelpers: Auto-saving content packages took 0.138
+[2020.10.15-08.33.22:018][683]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.10.15-08.33.22:083][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.10.15-08.33.22:259][683]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnDEA53965465D67EAE40C268F74F7C773.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.10.15-08.33.22:283][683]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.10.15-08.33.22:283][683]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.10.15-08.40.45:605][851]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.10.15-08.40.45:674][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.10.15-08.40.45:866][851]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnF1FF38E64F29905452EE23AEC008102B.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.10.15-08.40.45:883][851]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.10.15-08.40.45:883][851]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.10.15-08.40.46:418][888]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawn250262434F20CDBA9862508FBDE822F8.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.10.15-08.40.46:440][888]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.10.15-08.40.46:440][888]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.10.15-08.41.59:521][389]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.10.15-08.41.59:589][389]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.10.15-08.41.59:776][389]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawn80102BBC4C4C7CC3D88D218D0BBA49A7.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.10.15-08.41.59:802][389]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.10.15-08.41.59:802][389]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.10.15-08.42.00:641][459]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawn49EB8DF04A7ED6A0644705B0CF0BCFDF.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.10.15-08.42.00:662][459]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.10.15-08.42.00:662][459]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.10.15-08.42.24:917][332]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.10.15-08.42.24:917][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.15-08.42.26:132][422]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-08.44.18:174][135]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.10.15-08.44.18:285][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.10.15-08.44.18:416][135]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCube09EA78FB4E7E871B7BA2B3ABD44544D0.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.10.15-08.44.18:433][135]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.10.15-08.44.18:433][135]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-08.44.19:049][183]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCubeC153058D43E754BD993F269C146C2CA8.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.10.15-08.44.19:066][183]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.10.15-08.44.19:066][183]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-08.44.37:961][ 77]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.15-08.44.49:992][310]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.10.15-08.44.50:090][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.10.15-08.44.50:203][310]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCube926887EC45583D7F1DDA12B7AB8A8528.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.10.15-08.44.50:221][310]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.10.15-08.44.50:221][310]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-08.44.50:741][350]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCubeEA93009341B3E14DF17EE8A71B57F86F.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.10.15-08.44.50:757][350]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.10.15-08.44.50:757][350]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-08.45.40:516][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.10.15-08.45.40:623][631]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerMap_Auto6A5603CC64A20685C74B7BB81E1AAA9BC.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto6.umap'
+[2020.10.15-08.45.40:628][631]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.135
+[2020.10.15-08.45.40:628][631]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.135
+[2020.10.15-08.45.40:629][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube] ([1] browsable assets)...
+[2020.10.15-08.45.40:648][631]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube]
+[2020.10.15-08.45.40:648][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube]
+[2020.10.15-08.45.40:704][631]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCube_Auto6A229A912477F2D06BC8923A74F9456B2.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube_Auto6.uasset'
+[2020.10.15-08.45.40:708][631]LogFileHelpers: Auto-saving content packages took 0.079
+[2020.10.15-08.52.05:057][115]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.10.15-08.52.05:162][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.10.15-08.52.05:294][115]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCube56106E724A205B7E9DD09FA346A41416.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.10.15-08.52.05:313][115]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.10.15-08.52.05:313][115]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-08.52.13:910][883]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCubeB294C666468FE140F71E69901C80E735.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.10.15-08.52.13:926][883]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.10.15-08.52.13:926][883]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-08.52.45:458][872]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.10.15-08.52.45:552][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.10.15-08.52.45:684][872]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCube851558F44A0F319AB5C0FF91EF874CF8.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.10.15-08.52.45:705][872]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.10.15-08.52.45:705][872]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-08.58.12:646][667]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.10.15-08.58.12:749][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.10.15-08.58.12:899][667]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCube8C0618EF430EFAA7948673973107C96B.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.10.15-08.58.12:915][667]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.10.15-08.58.12:915][667]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-08.58.14:298][777]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCube6E60B87A496C303770965695A12BE066.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.10.15-08.58.14:313][777]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.10.15-08.58.14:313][777]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-09.02.31:418][246]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.10.15-09.02.31:529][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.10.15-09.02.31:694][246]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCube77467E7249FC42B0382427BD822F81D1.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.10.15-09.02.31:711][246]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.10.15-09.02.31:711][246]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-09.02.32:821][332]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCube039FFFE1467E0C46DB8618BB9106718D.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.10.15-09.02.32:838][332]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.10.15-09.02.32:838][332]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-09.02.52:254][837]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/BP_ClimbableCube2F52B6F745A89E084F726DAE72A1DFF3.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.10.15-09.02.52:271][837]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.10.15-09.02.52:271][837]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.10.15-09.02.57:410][221]LogSlate: Window 'BP_ClimbableCube' being destroyed
+[2020.10.15-09.02.57:418][221]LogSlate: Window 'BP_ClimbableCube' being destroyed
+[2020.10.15-09.02.57:419][221]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.10.15-09.02.57:419][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.15-09.02.58:827][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.10.15-09.02.58:931][367]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerMap44EE5D0E4841D1DB7159F2938DD6138C.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2020.10.15-09.02.59:102][367]LogSavePackage: Moving 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerMap_BuiltDataD0F606CC48707BBDCEFFE49BA75FAD03.tmp' to 'C:/Users/roman/OneDrive/Bureau/Courtney/Github/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2020.10.15-09.02.59:119][367]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.15-09.02.59:119][367]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.10.15-09.02.59:119][367]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.MotionControllerMap_BuiltData
+[2020.10.15-09.03.03:722][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.10.15-09.03.03:868][908]LogSlate: Window 'Litterbox - Unreal Editor' being destroyed
+[2020.10.15-09.03.03:879][908]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.15-09.03.04:124][909]Cmd: QUIT_EDITOR
+[2020.10.15-09.03.04:124][909]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.10.15-09.03.04:182][909]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.10.15-09.03.04:619][909]LogExit: Preparing to exit.
+[2020.10.15-09.03.04:630][909]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/D65805B34DD66A0924D5B78CDA401DC1.json
+[2020.10.15-09.03.06:608][909]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.15-09.03.06:610][909]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.15-09.03.06:612][909]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.15-09.03.06:614][909]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.15-09.03.06:616][909]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.10.15-09.03.06:617][909]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.15-09.03.07:161][909]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.10.15-09.03.07:396][909]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.15-09.03.07:396][909]LogExit: Editor shut down
+[2020.10.15-09.03.07:398][909]LogExit: Transaction tracking system shut down
+[2020.10.15-09.03.09:625][909]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001FEC554B880), frame # 598909
+[2020.10.15-09.03.09:625][909]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FEC5578400), frame # 598909
+[2020.10.15-09.03.09:632][909]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FEC558E400), frame # 598909
+[2020.10.15-09.03.13:537][909]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FEDCE37380), frame # 598909
+[2020.10.15-09.03.13:537][909]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FEACC52E00), frame # 598909
+[2020.10.15-09.03.13:749][909]LogExit: Object subsystem successfully closed.
+[2020.10.15-09.03.14:111][909]LogShaderCompilers: Display: Shaders left to compile 0
