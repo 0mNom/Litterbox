@@ -100,4 +100,5 @@ Unreal proj/Litterbox/Intermediate/CachedAssetRegistry.bin
 Unreal proj/Litterbox/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini
 Unreal proj/Litterbox/Saved/Logs/Litterbox.log
-Unreal proj/Litterbox/Intermediate/CachedAssetRegistry.bin
+Unreal proj/Litterbox/Intermediate/
+Unreal proj/Litterbox/Saved/
