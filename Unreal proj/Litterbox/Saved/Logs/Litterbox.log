@@ -1110,3 +1110,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.19-09.25.20:159][503]LogSavePackage: Moving '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawn6217E1564176F41A1ADFCC9D723CA266.tmp' to '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
 [2020.10.19-09.25.20:170][503]AssetCheck: New page: Asset Save: MotionControllerPawn
 [2020.10.19-09.25.20:170][503]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.10.19-09.25.50:412][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.10.19-09.25.50:484][286]LogSavePackage: Moving '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Théo_Auto26AFEBF3745978EF1356BF988EE6EC0FA.tmp' to '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Théo/Théo_Auto2.umap'
+[2020.10.19-09.25.50:486][286]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Théo/Théo' took 0.092
+[2020.10.19-09.25.50:486][286]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.092
