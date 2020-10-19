@@ -1,8 +1,8 @@
-﻿Log file open, 10/19/20 15:58:16
+﻿Log file open, 10/19/20 16:55:35
 LogInit: Display: Running engine for game: Litterbox
 LogPlatformFile: Not using cached read wrapper
-LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.228225
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.161873
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -141,13 +141,13 @@ LogInit: Build: ++UE4+Release-4.25-CL-13942748
 LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
 LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
 LogInit: Net CL: 13144385
-LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2060 SUPER
 LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.25
 LogInit: Command Line: 
-LogInit: Base Directory: D:/Programs/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Base Directory: G:/Epic Game/UE_4.25/Engine/Binaries/Win64/
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 26
@@ -178,7 +178,7 @@ LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 3
 LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
 LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
-LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -196,1099 +196,524 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
-[2020.10.19-13.58.16:464][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2020.10.19-13.58.16:464][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2020.10.19-13.58.16:465][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
-[2020.10.19-13.58.16:465][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
-[2020.10.19-13.58.16:467][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.10.19-13.58.16:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
-[2020.10.19-13.58.16:468][  0]LogInit: Selected Device Profile: [Windows]
-[2020.10.19-13.58.16:468][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.10.19-13.58.16:468][  0]LogHAL: Display: Platform has ~ 32 GB [34197004288 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2020.10.19-13.58.16:468][  0]LogInit: Going up to parent DeviceProfile []
-[2020.10.19-13.58.16:468][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.10.19-13.58.16:468][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
-[2020.10.19-13.58.16:469][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2020.10.19-13.58.16:470][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2020.10.19-13.58.16:470][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2020.10.19-13.58.16:470][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2020.10.19-13.58.16:470][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
-[2020.10.19-13.58.16:470][  0]LogInit: Computer: DESKTOP-CTNJK45
-[2020.10.19-13.58.16:470][  0]LogInit: User: User
-[2020.10.19-13.58.16:470][  0]LogInit: CPU Page size=4096, Cores=6
-[2020.10.19-13.58.16:470][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.10.19-13.58.16:470][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
-[2020.10.19-13.58.16:470][  0]LogMemory: Platform Memory Stats for Windows
-[2020.10.19-13.58.16:470][  0]LogMemory: Process Physical Memory: 115.79 MB used, 115.80 MB peak
-[2020.10.19-13.58.16:470][  0]LogMemory: Process Virtual Memory: 105.49 MB used, 105.49 MB peak
-[2020.10.19-13.58.16:470][  0]LogMemory: Physical Memory: 14883.96 MB used,  17728.84 MB free, 32612.80 MB total
-[2020.10.19-13.58.16:470][  0]LogMemory: Virtual Memory: 5173.16 MB used,  134212552.00 MB free, 134217728.00 MB total
-[2020.10.19-13.58.16:477][  0]LogWindows: WindowsPlatformFeatures enabled
-[2020.10.19-13.58.16:507][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2020.10.19-13.58.16:507][  0]LogInit: Using OS detected language (en-GB).
-[2020.10.19-13.58.16:507][  0]LogInit: Using OS detected locale (en-GB).
-[2020.10.19-13.58.16:509][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
-[2020.10.19-13.58.16:681][  0]LogInit: Setting process to per monitor DPI aware
-[2020.10.19-13.58.16:707][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.10.19-13.58.16:707][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.10.19-13.58.16:937][  0]LogHMD: Failed to initialize OpenVR with code 108
-[2020.10.19-13.58.16:937][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2020.10.19-13.58.16:937][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2020.10.19-13.58.16:937][  0]LogD3D11RHI: D3D11 adapters:
-[2020.10.19-13.58.16:998][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
-[2020.10.19-13.58.16:998][  0]LogD3D11RHI:       6052/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2020.10.19-13.58.17:013][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
-[2020.10.19-13.58.17:013][  0]LogD3D11RHI:       128/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2020.10.19-13.58.17:015][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.10.19-13.58.17:015][  0]LogD3D11RHI:       0/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.10.19-13.58.17:015][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.10.19-13.58.17:022][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.10.19-13.58.17:022][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
-[2020.10.19-13.58.17:022][  0]LogWindows: EnumDisplayDevices:
-[2020.10.19-13.58.17:023][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
-[2020.10.19-13.58.17:023][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2020.10.19-13.58.17:023][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2020.10.19-13.58.17:023][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
-[2020.10.19-13.58.17:024][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
-[2020.10.19-13.58.17:024][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
-[2020.10.19-13.58.17:024][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
-[2020.10.19-13.58.17:025][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2020.10.19-13.58.17:025][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
-[2020.10.19-13.58.17:025][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
-[2020.10.19-13.58.17:025][  0]LogD3D11RHI:      Driver Date: 7-24-2019
-[2020.10.19-13.58.17:025][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
-[2020.10.19-13.58.17:060][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2020.10.19-13.58.17:062][  0]LogD3D11RHI: [Aftermath] Enabled and primed
-[2020.10.19-13.58.17:062][  0]LogD3D11RHI: Async texture creation enabled
-[2020.10.19-13.58.17:062][  0]LogD3D11RHI: Array index from any shader is supported
-[2020.10.19-13.58.17:079][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2020.10.19-13.58.17:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2020.10.19-13.58.17:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2020.10.19-13.58.17:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2020.10.19-13.58.17:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2020.10.19-13.58.17:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2020.10.19-13.58.17:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2020.10.19-13.58.17:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2020.10.19-13.58.17:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2020.10.19-13.58.17:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2020.10.19-13.58.17:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2020.10.19-13.58.17:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2020.10.19-13.58.17:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2020.10.19-13.58.17:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2020.10.19-13.58.17:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2020.10.19-13.58.17:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2020.10.19-13.58.17:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2020.10.19-13.58.17:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2020.10.19-13.58.17:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2020.10.19-13.58.17:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2020.10.19-13.58.17:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2020.10.19-13.58.17:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2020.10.19-13.58.17:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2020.10.19-13.58.17:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2020.10.19-13.58.17:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2020.10.19-13.58.17:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2020.10.19-13.58.17:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2020.10.19-13.58.17:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2020.10.19-13.58.17:527][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2020.10.19-13.58.17:527][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.10.19-13.58.17:535][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2020.10.19-13.58.17:591][  0]LogShaderCompilers: Guid format shader working directory is -82 characters bigger than the processId version (../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Intermediate/Shaders/WorkingDirectory/1580/).
-[2020.10.19-13.58.17:591][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/38BE786B4510B6D842F03DAF696A84F4/'.
-[2020.10.19-13.58.17:591][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2020.10.19-13.58.17:591][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2020.10.19-13.58.17:591][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.10.19-13.58.18:259][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.10.19-13.58.18:316][  0]LogDerivedDataCache: Loaded boot cache 0.06s 95MB C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
-[2020.10.19-13.58.18:316][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
-[2020.10.19-13.58.18:316][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.10.19-13.58.18:316][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.10.19-13.58.18:316][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.10.19-13.58.18:316][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.10.19-13.58.18:326][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.10.19-13.58.18:326][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.10.19-13.58.18:326][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2020.10.19-13.58.18:327][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.10.19-13.58.18:327][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2020.10.19-13.58.18:327][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2020.10.19-13.58.18:373][  0]LogSlate: Using FreeType 2.10.0
-[2020.10.19-13.58.18:373][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.10.19-13.58.18:397][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
-[2020.10.19-13.58.18:621][  0]LogInit: Selected Device Profile: [Windows]
-[2020.10.19-13.58.18:724][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.10.19-13.58.18:724][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2020.10.19-13.58.18:724][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2020.10.19-13.58.18:724][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2020.10.19-13.58.18:724][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2020.10.19-13.58.18:738][  0]LogNetVersion: Litterbox 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4287034506)
-[2020.10.19-13.58.19:117][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000021A73399BC0), frame # 0
-[2020.10.19-13.58.19:117][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021A732F1080), frame # 0
-[2020.10.19-13.58.19:118][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021A73349E00), frame # 0
-[2020.10.19-13.58.19:172][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.048252 seconds
-[2020.10.19-13.58.19:177][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
-[2020.10.19-13.58.19:177][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
-[2020.10.19-13.58.19:177][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.10.19-13.58.19:497][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.10.19-13.58.19:502][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.10.19-13.58.19:557][  0]LogLinker: Warning: Failed to load '/Game/FirstPerson/FPSBP/FirstPersonBP/FirstPersonOverview': Can't find file.
-[2020.10.19-13.58.19:557][  0]LogLinker: Warning: Failed to load '/Game/FirstPerson/FPSBP/FirstPersonBP/FirstPersonOverview': Can't find file.
-[2020.10.19-13.58.19:557][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPerson/FPSBP/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
-[2020.10.19-13.58.19:593][  0]SourceControl: Source control is disabled
-[2020.10.19-13.58.20:322][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2020.10.19-13.58.20:342][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2020.10.19-13.58.20:342][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2020.10.19-13.58.20:387][  0]LogOcInput: OculusInput pre-init called
-[2020.10.19-13.58.20:397][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2020.10.19-13.58.20:397][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2020.10.19-13.58.20:451][  0]LogEngine: Initializing Engine...
-[2020.10.19-13.58.20:503][  0]LogHMD: Failed to initialize OpenVR with code 108
-[2020.10.19-13.58.20:503][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2020.10.19-13.58.20:504][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2020.10.19-13.58.20:606][  0]LogInit: Initializing FReadOnlyCVARCache
-[2020.10.19-13.58.20:613][  0]LogAIModule: Creating AISystem for world Untitled
-[2020.10.19-13.58.20:613][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021A7969DC00), frame # 0
-[2020.10.19-13.58.20:613][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021A796F1940), frame # 0
-[2020.10.19-13.58.20:621][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2020.10.19-13.58.20:621][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2020.10.19-13.58.20:621][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2020.10.19-13.58.20:621][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2020.10.19-13.58.20:621][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2020.10.19-13.58.20:621][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2020.10.19-13.58.20:621][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2020.10.19-13.58.20:621][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2020.10.19-13.58.20:622][  0]LogAudio: Display: Using built-in audio occlusion.
-[2020.10.19-13.58.20:622][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2020.10.19-13.58.20:639][  0]LogAudioMixer: Display: 0: FrontLeft
-[2020.10.19-13.58.20:639][  0]LogAudioMixer: Display: 1: FrontRight
-[2020.10.19-13.58.20:680][  0]LogAudioMixer: Display: Using Audio Device Casque (High Definition Audio Device)
-[2020.10.19-13.58.20:682][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2020.10.19-13.58.20:684][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2020.10.19-13.58.20:684][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2020.10.19-13.58.20:685][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2020.10.19-13.58.20:686][  0]LogInit: FAudioDevice initialized.
-[2020.10.19-13.58.20:686][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2020.10.19-13.58.20:764][  0]LogDerivedDataCache: Saved boot cache 0.08s 95MB C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
-[2020.10.19-13.58.20:769][  0]LogInit: Texture streaming: Enabled
-[2020.10.19-13.58.20:785][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2020.10.19-13.58.20:785][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2020.10.19-13.58.20:787][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2020.10.19-13.58.20:845][  0]LogInit: Transaction tracking system initialized
-[2020.10.19-13.58.20:864][  0]BlueprintLog: New page: Editor Load
-[2020.10.19-13.58.20:928][  0]LocalizationService: Localization service is disabled
-[2020.10.19-13.58.21:071][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2020.10.19-13.58.21:071][  0]LogCook: Display: Mobile HDR setting 1
-[2020.10.19-13.58.21:197][  0]LogFileCache: Scanning file cache for directory 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/' took 0.01s
-[2020.10.19-13.58.21:392][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.759
-[2020.10.19-13.58.21:392][  0]LightingResults: New page: Lighting Build
-[2020.10.19-13.58.21:393][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-13.58.21:393][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-13.58.21:393][  0]MapCheck: New page: Map Check
-[2020.10.19-13.58.21:393][  0]LightingResults: New page: Lighting Build
-[2020.10.19-13.58.21:402][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021A7969DC00), frame # 0
-[2020.10.19-13.58.21:402][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021A796F1940), frame # 0
-[2020.10.19-13.58.21:403][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2020.10.19-13.58.21:420][  0]LogBlueprint: Warning: [Compiler PersistentLevel.StartupMap] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
-[2020.10.19-13.58.21:420][  0]LogBlueprint: Error: [Compiler PersistentLevel.StartupMap] Couldn't find object for bound event node  OnActorBeginOverlap (None)
-[2020.10.19-13.58.21:456][  0]LogAIModule: Creating AISystem for world StartupMap
-[2020.10.19-13.58.21:456][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021A0B7EFE00), frame # 0
-[2020.10.19-13.58.21:456][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021A0B93DE40), frame # 0
-[2020.10.19-13.58.21:460][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.10.19-13.58.21:470][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
-[2020.10.19-13.58.21:470][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.10.19-13.58.21:470][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
-[2020.10.19-13.58.21:470][  0]LogFileHelpers: Loading map 'StartupMap' took 0.079
-[2020.10.19-13.58.21:471][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.839
-[2020.10.19-13.58.21:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-13.58.21:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-13.58.21:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-13.58.21:642][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-13.58.21:648][  0]LogCollectionManager: Loaded 0 collections in 0.000918 seconds
-[2020.10.19-13.58.21:661][  0]LogFileCache: Scanning file cache for directory 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Collections/' took 0.00s
-[2020.10.19-13.58.21:661][  0]LogFileCache: Scanning file cache for directory 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Developers/User/Collections/' took 0.00s
-[2020.10.19-13.58.21:661][  0]LogFileCache: Scanning file cache for directory 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Collections/' took 0.00s
-[2020.10.19-13.58.21:661][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 3437 classes and 829 folders.
-[2020.10.19-13.58.21:663][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2020.10.19-13.58.21:747][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2020.10.19-13.58.21:747][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
-[2020.10.19-13.58.21:783][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2020.10.19-13.58.21:783][  0]LogLoad: (Engine Initialization) Total time: 7.15 seconds
-[2020.10.19-13.58.21:783][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2020.10.19-13.58.21:833][  0]LogAssetRegistry: Asset discovery search completed in 3.4359 seconds
-[2020.10.19-13.58.21:837][  0]LogAutoSizeComments: Loaded auto size comments cache: ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/D65805B34DD66A0924D5B78CDA401DC1.json
-[2020.10.19-13.58.21:837][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
-[2020.10.19-13.58.21:838][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2020.10.19-13.58.21:848][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2020.10.19-13.58.21:848][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2020.10.19-13.58.21:853][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2020.10.19-13.58.22:444][  0]LogRenderer: Reallocating scene render targets to support 548x560 Format 26 NumSamples 1 (Frame:1).
-[2020.10.19-13.58.22:444][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.10.19-13.58.22:461][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/' took 0.66s
-[2020.10.19-13.58.44:538][193]LogRenderer: Reallocating scene render targets to support 844x572 Format 26 NumSamples 1 (Frame:115).
-[2020.10.19-13.59.37:617][ 91]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.10.19-13.59.40:028][ 91]LogStaticMesh: Building static mesh SM_Sink01...
-[2020.10.19-13.59.40:116][ 91]LogStaticMesh: Built static mesh [0.09s] /Game/StylizedRoom/StaticMesh/SM_Sink01.SM_Sink01
-[2020.10.19-13.59.40:205][ 91]LogStaticMesh: Building static mesh SM_Refrigerator01...
-[2020.10.19-13.59.40:215][ 91]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedRoom/StaticMesh/SM_Refrigerator01.SM_Refrigerator01
-[2020.10.19-13.59.40:511][ 91]LogStaticMesh: Building static mesh SM_Drawer10...
-[2020.10.19-13.59.40:533][ 91]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedRoom/StaticMesh/SM_Drawer10.SM_Drawer10
-[2020.10.19-13.59.40:556][ 91]LogStaticMesh: Building static mesh SM_Drawer09...
-[2020.10.19-13.59.40:562][ 91]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedRoom/StaticMesh/SM_Drawer09.SM_Drawer09
-[2020.10.19-13.59.40:563][ 91]LogStaticMesh: Building static mesh SM_Drawer08...
-[2020.10.19-13.59.40:571][ 91]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedRoom/StaticMesh/SM_Drawer08.SM_Drawer08
-[2020.10.19-13.59.40:572][ 91]LogStaticMesh: Building static mesh SM_Drawer07Door...
-[2020.10.19-13.59.40:574][ 91]LogStaticMesh: Built static mesh [0.00s] /Game/StylizedRoom/StaticMesh/SM_Drawer07Door.SM_Drawer07Door
-[2020.10.19-13.59.40:603][ 91]LogStaticMesh: Building static mesh SM_Drawer02...
-[2020.10.19-13.59.40:606][ 91]LogStaticMesh: Built static mesh [0.00s] /Game/StylizedRoom/StaticMesh/SM_Drawer02.SM_Drawer02
-[2020.10.19-13.59.40:795][ 91]LogStaticMesh: Building static mesh SM_BookShelf01...
-[2020.10.19-13.59.40:801][ 91]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedRoom/StaticMesh/SM_BookShelf01.SM_BookShelf01
-[2020.10.19-13.59.40:938][ 91]LogStaticMesh: Building static mesh SM_Plate01...
-[2020.10.19-13.59.40:945][ 91]LogStaticMesh: Built static mesh [0.01s] /Game/Nafi/Meshes/SM_Plate01.SM_Plate01
-[2020.10.19-13.59.41:030][ 91]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Théo/Théo.Théo
-[2020.10.19-13.59.41:045][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
-[2020.10.19-13.59.41:046][ 91]LightingResults: New page: Lighting Build
-[2020.10.19-13.59.41:046][ 91]LoadErrors: New page: Loading map: Théo.umap
-[2020.10.19-13.59.41:049][ 91]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-13.59.41:049][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-13.59.41:050][ 91]MapCheck: New page: Map Check
-[2020.10.19-13.59.41:050][ 91]LightingResults: New page: Lighting Build
-[2020.10.19-13.59.41:062][ 91]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021A0B7EFE00), frame # 1091
-[2020.10.19-13.59.41:062][ 91]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021A0B93DE40), frame # 1091
-[2020.10.19-13.59.41:063][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
-[2020.10.19-13.59.41:097][ 91]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.10.19-13.59.41:097][ 91]LogAIModule: Creating AISystem for world Théo
-[2020.10.19-13.59.41:097][ 91]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021A0B886000), frame # 1091
-[2020.10.19-13.59.41:098][ 91]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021A13FA0400), frame # 1091
-[2020.10.19-13.59.41:136][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
-[2020.10.19-13.59.41:201][ 91]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.10.19-13.59.41:202][ 91]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
-[2020.10.19-13.59.41:202][ 91]LogFileHelpers: Loading map 'Théo' took 0.155
-[2020.10.19-14.00.15:019][985]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (CupDestTest_DM6)
-[2020.10.19-14.00.32:025][708]Cmd: EDCALLBACK SURFPROPS
-[2020.10.19-14.00.33:700][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plate6)
-[2020.10.19-14.00.39:107][491]Cmd: TRANSACTION UNDO
-[2020.10.19-14.00.39:107][491]LogEditorTransaction: Undo Edit Static Mesh
-[2020.10.19-14.01.57:161][922]LogStaticMesh: Building static mesh SM_Cup03...
-[2020.10.19-14.01.57:190][922]LogStaticMesh: Built static mesh [0.03s] /Game/Théo/DestructibleMesh/SM_Cup03.SM_Cup03
-[2020.10.19-14.01.57:224][922]LogStaticMesh: Building static mesh SM_Vase01...
-[2020.10.19-14.01.57:291][922]LogStaticMesh: Built static mesh [0.07s] /Game/Théo/DestructibleMesh/SM_Vase01.SM_Vase01
-[2020.10.19-14.01.57:339][922]LogStaticMesh: Building static mesh SM_Vase02...
-[2020.10.19-14.01.57:389][922]LogStaticMesh: Built static mesh [0.05s] /Game/Théo/DestructibleMesh/SM_Vase02.SM_Vase02
-[2020.10.19-14.01.57:428][922]LogStaticMesh: Building static mesh SM_Vase03...
-[2020.10.19-14.01.57:490][922]LogStaticMesh: Built static mesh [0.06s] /Game/Théo/DestructibleMesh/SM_Vase03.SM_Vase03
-[2020.10.19-14.01.57:523][922]LogStaticMesh: Building static mesh SM_Vase04...
-[2020.10.19-14.01.57:594][922]LogStaticMesh: Built static mesh [0.07s] /Game/Théo/DestructibleMesh/SM_Vase04.SM_Vase04
-[2020.10.19-14.01.57:799][922]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Cup0342D3439044FB40474BBA65B5F9A1834B.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Cup03.uasset'
-[2020.10.19-14.01.58:070][922]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase014142F9ED41496B3A71F39D9516F16F6F.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase01.uasset'
-[2020.10.19-14.01.58:360][922]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase02036D37204A1F75B0B5051FBB2641EFAF.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase02.uasset'
-[2020.10.19-14.01.58:633][922]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase03F3CA1C354181B930B191D7949DD5408E.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase03.uasset'
-[2020.10.19-14.01.58:899][922]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase047F0C599B4659B573861774A36963C38C.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase04.uasset'
-[2020.10.19-14.02.00:422][922]AssetCheck: New page: Asset Save: multiple assets
-[2020.10.19-14.02.00:422][922]LogContentValidation: Display: Validating StaticMesh /Game/Théo/DestructibleMesh/SM_Cup03.SM_Cup03
-[2020.10.19-14.02.00:422][922]LogContentValidation: Display: Validating StaticMesh /Game/Théo/DestructibleMesh/SM_Vase01.SM_Vase01
-[2020.10.19-14.02.00:422][922]LogContentValidation: Display: Validating StaticMesh /Game/Théo/DestructibleMesh/SM_Vase02.SM_Vase02
-[2020.10.19-14.02.00:422][922]LogContentValidation: Display: Validating StaticMesh /Game/Théo/DestructibleMesh/SM_Vase03.SM_Vase03
-[2020.10.19-14.02.00:422][922]LogContentValidation: Display: Validating StaticMesh /Game/Théo/DestructibleMesh/SM_Vase04.SM_Vase04
-[2020.10.19-14.02.05:149][417]LogDestructible: Warning: MainMesh Tris: 616
-[2020.10.19-14.02.05:219][417]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
-[2020.10.19-14.02.05:219][417]LogApexDestructibleAssetImport: Warning: Bones digested - 2  Depth of hierarchy - 2
-[2020.10.19-14.02.05:563][417]LogSkeletalMesh: Section 0: 482 vertices, 1 active bones
-[2020.10.19-14.02.05:567][417]LogSkeletalMesh: Section 0: Material=0, 616 triangles
-[2020.10.19-14.02.05:568][417]LogSkeletalMesh: Building Skeletal Mesh SM_Cup03_DM...
-[2020.10.19-14.02.05:568][417]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Théo/DestructibleMesh/SM_Cup03_DM.SM_Cup03_DM
-[2020.10.19-14.02.05:596][417]LogAssetEditorSubsystem: Opening Asset editor for DestructibleMesh /Game/Théo/DestructibleMesh/SM_Cup03_DM.SM_Cup03_DM
-[2020.10.19-14.02.18:397][633]LogAssetEditorSubsystem: Opening Asset editor for DestructibleMesh /Game/Nafi/Meshes/CupDestTest_DM.CupDestTest_DM
-[2020.10.19-14.03.47:530][650]LogDestructible: Warning: MainMesh Tris: 616
-[2020.10.19-14.03.48:027][650]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
-[2020.10.19-14.03.48:027][650]LogApexDestructibleAssetImport: Warning: Bones digested - 12  Depth of hierarchy - 2
-[2020.10.19-14.03.48:114][650]LogSkeletalMesh: Section 0: 2976 vertices, 11 active bones
-[2020.10.19-14.03.48:119][650]LogSkeletalMesh: Section 0: Material=0, 3033 triangles
-[2020.10.19-14.03.48:119][650]LogSkeletalMesh: Building Skeletal Mesh SM_Cup03_DM...
-[2020.10.19-14.03.48:124][650]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Théo/DestructibleMesh/SM_Cup03_DM.SM_Cup03_DM
-[2020.10.19-14.03.53:034][188]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Cup03_DM6CD05D2B469C34A0FABF46A304B84FCB.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Cup03_DM.uasset'
-[2020.10.19-14.03.53:350][188]AssetCheck: New page: Asset Save: SM_Cup03_DM
-[2020.10.19-14.03.53:350][188]LogContentValidation: Display: Validating DestructibleMesh /Game/Théo/DestructibleMesh/SM_Cup03_DM.SM_Cup03_DM
-[2020.10.19-14.03.55:275][383]LogSlate: Window 'SM_Cup03_DM' being destroyed
-[2020.10.19-14.03.55:279][383]LogSlate: Window 'SM_Cup03_DM' being destroyed
-[2020.10.19-14.03.55:298][383]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.03.55:299][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.04.02:718][139]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/CupDestTest_DM51E96CF84E9508B24BCC8DB903D621E7.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/CupDestTest_DM.uasset'
-[2020.10.19-14.04.02:728][139]AssetCheck: New page: Asset Save: CupDestTest_DM
-[2020.10.19-14.04.02:728][139]LogContentValidation: Display: Validating DestructibleMesh /Game/Nafi/Meshes/CupDestTest_DM.CupDestTest_DM
-[2020.10.19-14.04.11:104][972]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/CupDestTest_DM07AC44AD430839FA0ED7DE9F5F7FF89E.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/CupDestTest_DM.uasset'
-[2020.10.19-14.04.11:610][972]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/CupDestTest_DM6585EBD74B62E820B0563381B428743D.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/CupDestTest_DM.uasset'
-[2020.10.19-14.04.11:657][972]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Plate01_DM055CC6474A89A55D0C07FA986CC9CEE4.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Plate01_DM.uasset'
-[2020.10.19-14.04.12:075][972]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Plate01_DM7D55E9834C7289A248333199D7BF9CDD.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Plate01_DM.uasset'
-[2020.10.19-14.04.12:882][972]AssetCheck: New page: Asset Save: multiple assets
-[2020.10.19-14.04.12:882][972]LogContentValidation: Display: Validating DestructibleMesh /Game/Théo/DestructibleMesh/CupDestTest_DM.CupDestTest_DM
-[2020.10.19-14.04.12:882][972]LogContentValidation: Display: Validating ObjectRedirector /Game/Nafi/Meshes/CupDestTest_DM.CupDestTest_DM
-[2020.10.19-14.04.12:882][972]LogContentValidation: Display: Validating DestructibleMesh /Game/Théo/DestructibleMesh/SM_Plate01_DM.SM_Plate01_DM
-[2020.10.19-14.04.12:882][972]LogContentValidation: Display: Validating ObjectRedirector /Game/Nafi/Meshes/SM_Plate01_DM.SM_Plate01_DM
-[2020.10.19-14.04.30:885][704]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (CupDestTest_DM6)
-[2020.10.19-14.04.33:524][ 17]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Cup03_DM)
-[2020.10.19-14.04.54:972][570]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (CupDestTest_DM6)
-[2020.10.19-14.04.57:097][819]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Cup03_DM)
-[2020.10.19-14.05.01:698][347]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (CupDestTest_DM6)
-[2020.10.19-14.05.05:658][818]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Cup03_DM)
-[2020.10.19-14.05.07:684][ 57]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (CupDestTest_DM6)
-[2020.10.19-14.05.09:499][271]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Cup03_DM)
-[2020.10.19-14.05.12:839][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table04)
-[2020.10.19-14.05.15:655][985]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (CupDestTest_DM6)
-[2020.10.19-14.05.20:919][606]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Cup03_DM)
-[2020.10.19-14.05.35:694][360]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (CupDestTest_DM6)
-[2020.10.19-14.05.38:836][732]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_PlateDestTestDM)
-[2020.10.19-14.05.53:749][307]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Cup03_DM)
-[2020.10.19-14.06.59:233][209]LogDestructible: Warning: MainMesh Tris: 1888
-[2020.10.19-14.06.59:267][209]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
-[2020.10.19-14.06.59:267][209]LogApexDestructibleAssetImport: Warning: Bones digested - 2  Depth of hierarchy - 2
-[2020.10.19-14.06.59:366][209]LogSkeletalMesh: Section 0: 4052 vertices, 1 active bones
-[2020.10.19-14.06.59:372][209]LogSkeletalMesh: Section 0: Material=0, 1888 triangles
-[2020.10.19-14.06.59:373][209]LogSkeletalMesh: Building Skeletal Mesh SM_Vase02_DM...
-[2020.10.19-14.06.59:379][209]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Théo/DestructibleMesh/SM_Vase02_DM.SM_Vase02_DM
-[2020.10.19-14.06.59:413][209]LogAssetEditorSubsystem: Opening Asset editor for DestructibleMesh /Game/Théo/DestructibleMesh/SM_Vase02_DM.SM_Vase02_DM
-[2020.10.19-14.06.59:416][209]LogMaterial: Display: Material /Game/StylizedRoom/Materials/M_Material.M_Material needed to have new flag set bUsedWithSkeletalMesh !
-[2020.10.19-14.06.59:417][209]LogMaterial: Display: Missing cached shader map for material M_Material, compiling. 
-[2020.10.19-14.06.59:801][209]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 111
-[2020.10.19-14.06.59:801][209]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 101
-[2020.10.19-14.06.59:801][209]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 91
-[2020.10.19-14.06.59:801][209]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 81
-[2020.10.19-14.06.59:801][209]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 71
-[2020.10.19-14.06.59:801][209]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
-[2020.10.19-14.06.59:801][209]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
-[2020.10.19-14.06.59:801][209]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
-[2020.10.19-14.07.04:446][514]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
-[2020.10.19-14.07.04:503][518]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
-[2020.10.19-14.07.05:681][593]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
-[2020.10.19-14.07.05:816][602]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
-[2020.10.19-14.07.06:191][627]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
-[2020.10.19-14.07.06:298][634]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
-[2020.10.19-14.07.06:380][640]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
-[2020.10.19-14.07.06:490][645]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
-[2020.10.19-14.07.06:616][650]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
-[2020.10.19-14.07.06:781][660]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
-[2020.10.19-14.07.07:115][675]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
-[2020.10.19-14.07.07:260][681]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
-[2020.10.19-14.07.07:287][682]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
-[2020.10.19-14.07.07:318][683]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
-[2020.10.19-14.07.07:505][692]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
-[2020.10.19-14.08.20:372][987]LogDestructible: Warning: MainMesh Tris: 1888
-[2020.10.19-14.08.20:820][987]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
-[2020.10.19-14.08.20:820][987]LogApexDestructibleAssetImport: Warning: Bones digested - 12  Depth of hierarchy - 2
-[2020.10.19-14.08.21:024][987]LogSkeletalMesh: Section 0: 15173 vertices, 11 active bones
-[2020.10.19-14.08.21:032][987]LogSkeletalMesh: Section 0: Material=0, 5178 triangles
-[2020.10.19-14.08.21:032][987]LogSkeletalMesh: Building Skeletal Mesh SM_Vase02_DM...
-[2020.10.19-14.08.21:054][987]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Théo/DestructibleMesh/SM_Vase02_DM.SM_Vase02_DM
-[2020.10.19-14.08.29:483][911]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase02_DM9109EF974D7EF1AB2197A98742EB1C04.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase02_DM.uasset'
-[2020.10.19-14.08.29:913][911]AssetCheck: New page: Asset Save: SM_Vase02_DM
-[2020.10.19-14.08.29:913][911]LogContentValidation: Display: Validating DestructibleMesh /Game/Théo/DestructibleMesh/SM_Vase02_DM.SM_Vase02_DM
-[2020.10.19-14.08.32:277][181]LogSlate: Window 'SM_Vase02_DM' being destroyed
-[2020.10.19-14.08.32:282][181]LogSlate: Window 'SM_Vase02_DM' being destroyed
-[2020.10.19-14.08.32:299][181]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.08.32:299][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.08.34:071][379]LogSlate: Window 'CupDestTest_DM' being destroyed
-[2020.10.19-14.08.34:076][379]LogSlate: Window 'CupDestTest_DM' being destroyed
-[2020.10.19-14.08.34:094][379]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.08.34:094][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.09.22:553][475]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase0200966EAE4DC889C022F539976AACAFE5.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Vase02.uasset'
-[2020.10.19-14.09.22:867][475]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase029B489DEA4350402F79DA7E8BFCE9AB5B.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase02.uasset'
-[2020.10.19-14.09.22:891][475]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase01EEA3F82B4C7485B7C63F88856E7FF0F6.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Vase01.uasset'
-[2020.10.19-14.09.23:180][475]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase013E5A1EB4495105DEA504D4A79EB0D2BB.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase01.uasset'
-[2020.10.19-14.09.23:201][475]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Cup03A566629049729601E83EA6A993E14BE3.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Cup03.uasset'
-[2020.10.19-14.09.23:464][475]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Cup030C80E1CD4A08AB126C909E979A25CE32.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Cup03.uasset'
-[2020.10.19-14.09.23:487][475]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase046764E4BB4C7C5503D2456487C374537A.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Vase04.uasset'
-[2020.10.19-14.09.23:767][475]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase042027E1774194078C97E2BDAFB79959D1.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase04.uasset'
-[2020.10.19-14.09.23:790][475]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase031904310546AF9CF914773CBB7940CF79.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Vase03.uasset'
-[2020.10.19-14.09.24:046][475]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase0391686C5944AE550C7C44939D8D304913.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase03.uasset'
-[2020.10.19-14.09.25:826][475]AssetCheck: New page: Asset Save: multiple assets
-[2020.10.19-14.09.25:827][475]LogContentValidation: Display: Validating StaticMesh /Game/Nafi/Meshes/SM_Vase02.SM_Vase02
-[2020.10.19-14.09.25:827][475]LogContentValidation: Display: Validating ObjectRedirector /Game/Théo/DestructibleMesh/SM_Vase02.SM_Vase02
-[2020.10.19-14.09.25:827][475]LogContentValidation: Display: Validating StaticMesh /Game/Nafi/Meshes/SM_Vase01.SM_Vase01
-[2020.10.19-14.09.25:827][475]LogContentValidation: Display: Validating ObjectRedirector /Game/Théo/DestructibleMesh/SM_Vase01.SM_Vase01
-[2020.10.19-14.09.25:827][475]LogContentValidation: Display: Validating StaticMesh /Game/Nafi/Meshes/SM_Cup03.SM_Cup03
-[2020.10.19-14.09.25:827][475]LogContentValidation: Display: Validating ObjectRedirector /Game/Théo/DestructibleMesh/SM_Cup03.SM_Cup03
-[2020.10.19-14.09.25:827][475]LogContentValidation: Display: Validating StaticMesh /Game/Nafi/Meshes/SM_Vase04.SM_Vase04
-[2020.10.19-14.09.25:827][475]LogContentValidation: Display: Validating ObjectRedirector /Game/Théo/DestructibleMesh/SM_Vase04.SM_Vase04
-[2020.10.19-14.09.25:827][475]LogContentValidation: Display: Validating StaticMesh /Game/Nafi/Meshes/SM_Vase03.SM_Vase03
-[2020.10.19-14.09.25:827][475]LogContentValidation: Display: Validating ObjectRedirector /Game/Théo/DestructibleMesh/SM_Vase03.SM_Vase03
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:060][328]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.34:218][328]EditorErrors: Warning: No assets to check in!
-[2020.10.19-14.09.37:661][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
-[2020.10.19-14.09.38:058][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
-[2020.10.19-14.09.38:125][628]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Théo3B48AB2E43B9F5D8700F38A09FA0DE4C.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
-[2020.10.19-14.09.38:190][628]LogFileHelpers: Saving map 'Théo' took 0.326
-[2020.10.19-14.09.38:233][628]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/M_Material8A81EFF747EF4190065469B188C6E1F2.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/StylizedRoom/Materials/M_Material.uasset'
-[2020.10.19-14.09.38:387][628]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/MI_Vase02885902B745E5EB7DF83FBB898426DB40.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/StylizedRoom/Materials/MI_Vase02.uasset'
-[2020.10.19-14.09.38:398][628]AssetCheck: New page: Asset Save: multiple assets
-[2020.10.19-14.09.38:398][628]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
-[2020.10.19-14.09.38:398][628]LogContentValidation: Display: Validating Material /Game/StylizedRoom/Materials/M_Material.M_Material
-[2020.10.19-14.09.38:398][628]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/StylizedRoom/Materials/MI_Vase02.MI_Vase02
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:378][858]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.09.41:533][858]EditorErrors: Warning: No assets to check in!
-[2020.10.19-14.12.38:252][776]LogDestructible: Warning: MainMesh Tris: 2378
-[2020.10.19-14.12.38:297][776]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
-[2020.10.19-14.12.38:297][776]LogApexDestructibleAssetImport: Warning: Bones digested - 2  Depth of hierarchy - 2
-[2020.10.19-14.12.38:399][776]LogSkeletalMesh: Section 0: 7110 vertices, 1 active bones
-[2020.10.19-14.12.38:406][776]LogSkeletalMesh: Section 0: Material=0, 2378 triangles
-[2020.10.19-14.12.38:406][776]LogSkeletalMesh: Building Skeletal Mesh SM_Vase01_DM...
-[2020.10.19-14.12.38:415][776]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Nafi/Meshes/SM_Vase01_DM.SM_Vase01_DM
-[2020.10.19-14.12.38:445][776]LogAssetEditorSubsystem: Opening Asset editor for DestructibleMesh /Game/Nafi/Meshes/SM_Vase01_DM.SM_Vase01_DM
-[2020.10.19-14.12.48:152][681]LogDestructible: Warning: MainMesh Tris: 2226
-[2020.10.19-14.12.48:193][681]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
-[2020.10.19-14.12.48:193][681]LogApexDestructibleAssetImport: Warning: Bones digested - 2  Depth of hierarchy - 2
-[2020.10.19-14.12.48:298][681]LogSkeletalMesh: Section 0: 4980 vertices, 1 active bones
-[2020.10.19-14.12.48:303][681]LogSkeletalMesh: Section 0: Material=0, 2226 triangles
-[2020.10.19-14.12.48:304][681]LogSkeletalMesh: Building Skeletal Mesh SM_Vase03_DM...
-[2020.10.19-14.12.48:310][681]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Nafi/Meshes/SM_Vase03_DM.SM_Vase03_DM
-[2020.10.19-14.12.48:346][681]LogAssetEditorSubsystem: Opening Asset editor for DestructibleMesh /Game/Nafi/Meshes/SM_Vase03_DM.SM_Vase03_DM
-[2020.10.19-14.12.51:351][941]LogDestructible: Warning: MainMesh Tris: 2170
-[2020.10.19-14.12.51:388][941]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
-[2020.10.19-14.12.51:388][941]LogApexDestructibleAssetImport: Warning: Bones digested - 2  Depth of hierarchy - 2
-[2020.10.19-14.12.51:498][941]LogSkeletalMesh: Section 0: 6487 vertices, 1 active bones
-[2020.10.19-14.12.51:504][941]LogSkeletalMesh: Section 0: Material=0, 2170 triangles
-[2020.10.19-14.12.51:504][941]LogSkeletalMesh: Building Skeletal Mesh SM_Vase04_DM...
-[2020.10.19-14.12.51:512][941]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Nafi/Meshes/SM_Vase04_DM.SM_Vase04_DM
-[2020.10.19-14.12.51:546][941]LogAssetEditorSubsystem: Opening Asset editor for DestructibleMesh /Game/Nafi/Meshes/SM_Vase04_DM.SM_Vase04_DM
-[2020.10.19-14.13.15:049][702]LogAssetEditorSubsystem: Opening Asset editor for DestructibleMesh /Game/Théo/DestructibleMesh/SM_Plate01_DM.SM_Plate01_DM
-[2020.10.19-14.13.32:001][588]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2020.10.19-14.14.10:697][ 44]LogDestructible: Warning: MainMesh Tris: 2170
-[2020.10.19-14.14.12:222][ 44]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
-[2020.10.19-14.14.12:224][ 44]LogApexDestructibleAssetImport: Warning: Bones digested - 12  Depth of hierarchy - 2
-[2020.10.19-14.14.13:000][ 44]LogSkeletalMesh: Section 0: 26573 vertices, 11 active bones
-[2020.10.19-14.14.13:009][ 44]LogSkeletalMesh: Section 0: Material=0, 21795 triangles
-[2020.10.19-14.14.13:010][ 44]LogSkeletalMesh: Building Skeletal Mesh SM_Vase04_DM...
-[2020.10.19-14.14.13:058][ 44]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Nafi/Meshes/SM_Vase04_DM.SM_Vase04_DM
-[2020.10.19-14.15.04:324][349]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase04_DMA7F0BDC54EFC5011E2727086C79D858F.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Vase04_DM.uasset'
-[2020.10.19-14.15.04:741][349]AssetCheck: New page: Asset Save: SM_Vase04_DM
-[2020.10.19-14.15.04:741][349]LogContentValidation: Display: Validating DestructibleMesh /Game/Nafi/Meshes/SM_Vase04_DM.SM_Vase04_DM
-[2020.10.19-14.15.18:287][977]LogDestructible: Warning: MainMesh Tris: 2170
-[2020.10.19-14.15.19:810][977]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
-[2020.10.19-14.15.19:812][977]LogApexDestructibleAssetImport: Warning: Bones digested - 12  Depth of hierarchy - 2
-[2020.10.19-14.15.20:601][977]LogSkeletalMesh: Section 0: 26573 vertices, 11 active bones
-[2020.10.19-14.15.20:611][977]LogSkeletalMesh: Section 0: Material=0, 21795 triangles
-[2020.10.19-14.15.20:611][977]LogSkeletalMesh: Building Skeletal Mesh SM_Vase04_DM...
-[2020.10.19-14.15.20:660][977]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Nafi/Meshes/SM_Vase04_DM.SM_Vase04_DM
-[2020.10.19-14.15.36:842][861]LogDestructible: Warning: MainMesh Tris: 2170
-[2020.10.19-14.15.38:364][861]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
-[2020.10.19-14.15.38:366][861]LogApexDestructibleAssetImport: Warning: Bones digested - 12  Depth of hierarchy - 2
-[2020.10.19-14.15.39:150][861]LogSkeletalMesh: Section 0: 26573 vertices, 11 active bones
-[2020.10.19-14.15.39:159][861]LogSkeletalMesh: Section 0: Material=0, 21795 triangles
-[2020.10.19-14.15.39:160][861]LogSkeletalMesh: Building Skeletal Mesh SM_Vase04_DM...
-[2020.10.19-14.15.39:209][861]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Nafi/Meshes/SM_Vase04_DM.SM_Vase04_DM
-[2020.10.19-14.15.39:976][915]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase04_DM8D7E3E804E38E2ADE652A5BF17164AE9.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Vase04_DM.uasset'
-[2020.10.19-14.15.39:983][915]AssetCheck: New page: Asset Save: SM_Vase04_DM
-[2020.10.19-14.15.39:983][915]LogContentValidation: Display: Validating DestructibleMesh /Game/Nafi/Meshes/SM_Vase04_DM.SM_Vase04_DM
-[2020.10.19-14.16.39:441][596]LogDestructible: Warning: MainMesh Tris: 2226
-[2020.10.19-14.16.41:127][596]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
-[2020.10.19-14.16.41:130][596]LogApexDestructibleAssetImport: Warning: Bones digested - 12  Depth of hierarchy - 2
-[2020.10.19-14.16.42:965][596]LogSkeletalMesh: Section 0: 29090 vertices, 11 active bones
-[2020.10.19-14.16.42:974][596]LogSkeletalMesh: Section 0: Material=0, 26646 triangles
-[2020.10.19-14.16.42:975][596]LogSkeletalMesh: Building Skeletal Mesh SM_Vase03_DM...
-[2020.10.19-14.16.43:032][596]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Nafi/Meshes/SM_Vase03_DM.SM_Vase03_DM
-[2020.10.19-14.16.50:341][372]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase03_DMD486174B485CF9113BF7128734DE6E69.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Vase03_DM.uasset'
-[2020.10.19-14.16.50:787][372]AssetCheck: New page: Asset Save: SM_Vase03_DM
-[2020.10.19-14.16.50:787][372]LogContentValidation: Display: Validating DestructibleMesh /Game/Nafi/Meshes/SM_Vase03_DM.SM_Vase03_DM
-[2020.10.19-14.17.41:636][ 68]LogDestructible: Warning: MainMesh Tris: 2378
-[2020.10.19-14.17.43:577][ 68]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
-[2020.10.19-14.17.43:579][ 68]LogApexDestructibleAssetImport: Warning: Bones digested - 12  Depth of hierarchy - 2
-[2020.10.19-14.17.44:428][ 68]LogSkeletalMesh: Section 0: 30731 vertices, 11 active bones
-[2020.10.19-14.17.44:439][ 68]LogSkeletalMesh: Section 0: Material=0, 23017 triangles
-[2020.10.19-14.17.44:439][ 68]LogSkeletalMesh: Building Skeletal Mesh SM_Vase01_DM...
-[2020.10.19-14.17.44:495][ 68]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Nafi/Meshes/SM_Vase01_DM.SM_Vase01_DM
-[2020.10.19-14.17.52:299][893]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase01_DMF33FF65742855E5E90A8EE8D38D59B11.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Vase01_DM.uasset'
-[2020.10.19-14.17.52:835][893]AssetCheck: New page: Asset Save: SM_Vase01_DM
-[2020.10.19-14.17.52:835][893]LogContentValidation: Display: Validating DestructibleMesh /Game/Nafi/Meshes/SM_Vase01_DM.SM_Vase01_DM
-[2020.10.19-14.17.58:507][495]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Plate01_DM21BB93C84270595DCBEC728946C64219.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Plate01_DM.uasset'
-[2020.10.19-14.17.58:514][495]AssetCheck: New page: Asset Save: SM_Plate01_DM
-[2020.10.19-14.17.58:514][495]LogContentValidation: Display: Validating DestructibleMesh /Game/Théo/DestructibleMesh/SM_Plate01_DM.SM_Plate01_DM
-[2020.10.19-14.18.00:119][658]LogSlate: Window 'SM_Plate01_DM' being destroyed
-[2020.10.19-14.18.00:123][658]LogSlate: Window 'SM_Plate01_DM' being destroyed
-[2020.10.19-14.18.00:140][658]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.18.00:140][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.18.02:928][989]LogSlate: Window 'SM_Vase04_DM' being destroyed
-[2020.10.19-14.18.02:931][989]LogSlate: Window 'SM_Vase04_DM' being destroyed
-[2020.10.19-14.18.02:948][989]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.18.02:948][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.18.02:972][989]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.18.02:972][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.18.03:001][989]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.18.03:001][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.18.48:704][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Vase03)
-[2020.10.19-14.18.50:154][874]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Vase03_DM)
-[2020.10.19-14.19.12:790][173]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase04_DM17E607C2493ADC18250DE880CC1D875A.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase04_DM.uasset'
-[2020.10.19-14.19.13:203][173]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase04_DM27508BDA4BFD382D0849FAB9A0DFFD22.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Vase04_DM.uasset'
-[2020.10.19-14.19.13:391][173]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase03_DMD13728ED47322FFB0658CC9F237C3E06.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase03_DM.uasset'
-[2020.10.19-14.19.13:967][173]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase03_DM8AEB3D3B4C5DBF32B6C1FDB15901E295.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Vase03_DM.uasset'
-[2020.10.19-14.19.14:161][173]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase01_DM87CD33F544C2D03E39D032A9EEAAA28A.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase01_DM.uasset'
-[2020.10.19-14.19.14:701][173]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase01_DMDDD5499944AC761DD6604587F84FAF99.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/SM_Vase01_DM.uasset'
-[2020.10.19-14.19.15:954][173]AssetCheck: New page: Asset Save: multiple assets
-[2020.10.19-14.19.15:954][173]LogContentValidation: Display: Validating DestructibleMesh /Game/Théo/DestructibleMesh/SM_Vase04_DM.SM_Vase04_DM
-[2020.10.19-14.19.15:954][173]LogContentValidation: Display: Validating ObjectRedirector /Game/Nafi/Meshes/SM_Vase04_DM.SM_Vase04_DM
-[2020.10.19-14.19.15:954][173]LogContentValidation: Display: Validating DestructibleMesh /Game/Théo/DestructibleMesh/SM_Vase03_DM.SM_Vase03_DM
-[2020.10.19-14.19.15:954][173]LogContentValidation: Display: Validating ObjectRedirector /Game/Nafi/Meshes/SM_Vase03_DM.SM_Vase03_DM
-[2020.10.19-14.19.15:954][173]LogContentValidation: Display: Validating DestructibleMesh /Game/Théo/DestructibleMesh/SM_Vase01_DM.SM_Vase01_DM
-[2020.10.19-14.19.15:954][173]LogContentValidation: Display: Validating ObjectRedirector /Game/Nafi/Meshes/SM_Vase01_DM.SM_Vase01_DM
-[2020.10.19-14.19.27:729][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
-[2020.10.19-14.19.27:798][318]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Théo16CCED20474E17B900FCD2A31CF31515.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
-[2020.10.19-14.19.27:872][318]AssetCheck: New page: Asset Save: Théo
-[2020.10.19-14.19.27:872][318]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
-[2020.10.19-14.19.32:784][879]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Vase03_DM)
-[2020.10.19-14.19.35:962][200]LogTemp: Repeating last play command: Simulate
-[2020.10.19-14.19.35:995][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2020.10.19-14.19.36:005][200]PIE: New page: SIE session: Théo (19 Oct 2020, 18:19:35)
-[2020.10.19-14.19.36:015][200]LogOnline: OSS: Creating online subsystem instance for: NULL
-[2020.10.19-14.19.36:036][200]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
-[2020.10.19-14.19.36:036][200]LogPlayLevel: Creating play world package: /Game/Théo/UEDPIE_0_Théo
-[2020.10.19-14.19.36:056][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020083s)
-[2020.10.19-14.19.36:057][200]LogAIModule: Creating AISystem for world Théo
-[2020.10.19-14.19.36:057][200]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021A2481B600), frame # 101200
-[2020.10.19-14.19.36:057][200]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021ACE84F380), frame # 101200
-[2020.10.19-14.19.36:057][200]LogPlayLevel: PIE: World Init took: (0.000945s)
-[2020.10.19-14.19.36:058][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Théo/Théo.Théo to /Game/Théo/UEDPIE_0_Théo.Théo (0.021163s)
-[2020.10.19-14.19.36:066][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
-[2020.10.19-14.19.36:068][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2020.10.19-14.19.36:068][200]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2020.10.19-14.19.36:068][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2020.10.19-14.19.36:068][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2020.10.19-14.19.36:068][200]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2020.10.19-14.19.36:068][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2020.10.19-14.19.36:069][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2020.10.19-14.19.36:069][200]LogAudio: Display: AudioDevice MaxSources: 32
-[2020.10.19-14.19.36:069][200]LogAudio: Display: Using built-in audio occlusion.
-[2020.10.19-14.19.36:069][200]LogAudioMixer: Display: Initializing audio mixer.
-[2020.10.19-14.19.36:076][200]LogAudioMixer: Display: 0: FrontLeft
-[2020.10.19-14.19.36:076][200]LogAudioMixer: Display: 1: FrontRight
-[2020.10.19-14.19.36:099][200]LogAudioMixer: Display: Using Audio Device Casque (High Definition Audio Device)
-[2020.10.19-14.19.36:100][200]LogAudioMixer: Display: Initializing Sound Submixes...
-[2020.10.19-14.19.36:100][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2020.10.19-14.19.36:100][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2020.10.19-14.19.36:100][200]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2020.10.19-14.19.36:111][200]LogInit: FAudioDevice initialized.
-[2020.10.19-14.19.36:121][200]LogLoad: Game class is 'GameModeBase'
-[2020.10.19-14.19.36:451][200]LogWorld: Bringing World /Game/Théo/UEDPIE_0_Théo.Théo up for play (max tick rate 0) at 2020.10.19-16.19.36
-[2020.10.19-14.19.36:451][200]LogWorld: Bringing up level for play took: 0.291486
-[2020.10.19-14.19.36:451][200]LogOnline: OSS: Creating online subsystem instance for: :Context_11
-[2020.10.19-14.19.36:453][200]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2020.10.19-14.19.36:469][200]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
-[2020.10.19-14.19.36:551][200]PIE: Server logged in
-[2020.10.19-14.19.36:553][200]PIE: Play in editor total start time 0.573 seconds.
-[2020.10.19-14.19.44:105][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-14.19.44:105][998]LogWorld: BeginTearingDown for /Game/Théo/UEDPIE_0_Théo
-[2020.10.19-14.19.44:106][998]LogWorld: UWorld::CleanupWorld for Théo, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.19.44:106][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.19.44:116][998]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2020.10.19-14.19.44:118][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.19.44:140][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-14.19.44:155][998]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021ACE84F380), frame # 101998
-[2020.10.19-14.19.44:155][998]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021A2481B600), frame # 101998
-[2020.10.19-14.19.44:156][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
-[2020.10.19-14.19.44:183][999]LogPlayLevel: Display: Destroying online subsystem :Context_11
-[2020.10.19-14.19.45:112][110]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Vase04_DM)
-[2020.10.19-14.19.48:117][449]LogAssetEditorSubsystem: Opening Asset editor for DestructibleMesh /Game/Théo/DestructibleMesh/SM_Vase04_DM.SM_Vase04_DM
-[2020.10.19-14.19.50:695][713]LogSlate: Window 'SM_Vase04_DM' being destroyed
-[2020.10.19-14.19.50:700][713]LogSlate: Window 'SM_Vase04_DM' being destroyed
-[2020.10.19-14.19.50:717][713]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.19.50:717][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.19.52:546][892]LogAssetEditorSubsystem: Opening Asset editor for DestructibleMesh /Game/Théo/DestructibleMesh/SM_Vase04_DM.SM_Vase04_DM
-[2020.10.19-14.19.54:729][104]LogSlate: Window 'SM_Vase04_DM' being destroyed
-[2020.10.19-14.19.54:735][104]LogSlate: Window 'SM_Vase04_DM' being destroyed
-[2020.10.19-14.19.54:751][104]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.19.54:751][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.19.56:061][253]LogTemp: Repeating last play command: Simulate
-[2020.10.19-14.19.56:080][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2020.10.19-14.19.56:080][253]PIE: New page: SIE session: Théo (19 Oct 2020, 18:19:56)
-[2020.10.19-14.19.56:080][253]LogPlayLevel: Creating play world package: /Game/Théo/UEDPIE_0_Théo
-[2020.10.19-14.19.56:096][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015561s)
-[2020.10.19-14.19.56:096][253]LogAIModule: Creating AISystem for world Théo
-[2020.10.19-14.19.56:096][253]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021AB4601200), frame # 103253
-[2020.10.19-14.19.56:096][253]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021A13FADBC0), frame # 103253
-[2020.10.19-14.19.56:097][253]LogPlayLevel: PIE: World Init took: (0.000921s)
-[2020.10.19-14.19.56:097][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Théo/Théo.Théo to /Game/Théo/UEDPIE_0_Théo.Théo (0.016585s)
-[2020.10.19-14.19.56:107][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
-[2020.10.19-14.19.56:109][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2020.10.19-14.19.56:109][253]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2020.10.19-14.19.56:109][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2020.10.19-14.19.56:109][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2020.10.19-14.19.56:109][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2020.10.19-14.19.56:109][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2020.10.19-14.19.56:109][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2020.10.19-14.19.56:109][253]LogAudio: Display: AudioDevice MaxSources: 32
-[2020.10.19-14.19.56:109][253]LogAudio: Display: Using built-in audio occlusion.
-[2020.10.19-14.19.56:109][253]LogAudioMixer: Display: Initializing audio mixer.
-[2020.10.19-14.19.56:116][253]LogAudioMixer: Display: 0: FrontLeft
-[2020.10.19-14.19.56:116][253]LogAudioMixer: Display: 1: FrontRight
-[2020.10.19-14.19.56:136][253]LogAudioMixer: Display: Using Audio Device Casque (High Definition Audio Device)
-[2020.10.19-14.19.56:136][253]LogAudioMixer: Display: Initializing Sound Submixes...
-[2020.10.19-14.19.56:136][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2020.10.19-14.19.56:136][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2020.10.19-14.19.56:136][253]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2020.10.19-14.19.56:148][253]LogInit: FAudioDevice initialized.
-[2020.10.19-14.19.56:152][253]LogLoad: Game class is 'GameModeBase'
-[2020.10.19-14.19.56:159][253]LogWorld: Bringing World /Game/Théo/UEDPIE_0_Théo.Théo up for play (max tick rate 0) at 2020.10.19-16.19.56
-[2020.10.19-14.19.56:159][253]LogWorld: Bringing up level for play took: 0.005874
-[2020.10.19-14.19.56:159][253]LogOnline: OSS: Creating online subsystem instance for: :Context_14
-[2020.10.19-14.19.56:160][253]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2020.10.19-14.19.56:162][253]PIE: Server logged in
-[2020.10.19-14.19.56:163][253]PIE: Play in editor total start time 0.085 seconds.
-[2020.10.19-14.20.01:955][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-14.20.01:955][855]LogWorld: BeginTearingDown for /Game/Théo/UEDPIE_0_Théo
-[2020.10.19-14.20.01:956][855]LogWorld: UWorld::CleanupWorld for Théo, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.20.01:957][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.20.01:965][855]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2020.10.19-14.20.01:966][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.20.01:989][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-14.20.01:990][855]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021A13FADBC0), frame # 103855
-[2020.10.19-14.20.01:990][855]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021AB4601200), frame # 103855
-[2020.10.19-14.20.01:991][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
-[2020.10.19-14.20.02:021][856]LogPlayLevel: Display: Destroying online subsystem :Context_14
-[2020.10.19-14.20.04:764][181]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Vase02_DM)
-[2020.10.19-14.20.06:730][376]LogAssetEditorSubsystem: Opening Asset editor for DestructibleMesh /Game/Théo/DestructibleMesh/SM_Vase02_DM.SM_Vase02_DM
-[2020.10.19-14.20.12:758][ 24]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/SM_Vase02_DM7432D7724ABD9AEBD4D47EA392C53D04.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/DestructibleMesh/SM_Vase02_DM.uasset'
-[2020.10.19-14.20.12:768][ 24]AssetCheck: New page: Asset Save: SM_Vase02_DM
-[2020.10.19-14.20.12:768][ 24]LogContentValidation: Display: Validating DestructibleMesh /Game/Théo/DestructibleMesh/SM_Vase02_DM.SM_Vase02_DM
-[2020.10.19-14.20.13:706][132]LogSlate: Window 'SM_Vase02_DM' being destroyed
-[2020.10.19-14.20.13:711][132]LogSlate: Window 'SM_Vase02_DM' being destroyed
-[2020.10.19-14.20.13:728][132]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.20.13:728][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.20.16:412][429]LogTemp: Repeating last play command: Simulate
-[2020.10.19-14.20.16:431][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2020.10.19-14.20.16:431][429]PIE: New page: SIE session: Théo (19 Oct 2020, 18:20:16)
-[2020.10.19-14.20.16:431][429]LogPlayLevel: Creating play world package: /Game/Théo/UEDPIE_0_Théo
-[2020.10.19-14.20.16:446][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014728s)
-[2020.10.19-14.20.16:446][429]LogAIModule: Creating AISystem for world Théo
-[2020.10.19-14.20.16:446][429]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021A91E21800), frame # 105429
-[2020.10.19-14.20.16:446][429]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021A161ECCC0), frame # 105429
-[2020.10.19-14.20.16:446][429]LogPlayLevel: PIE: World Init took: (0.000870s)
-[2020.10.19-14.20.16:446][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Théo/Théo.Théo to /Game/Théo/UEDPIE_0_Théo.Théo (0.015707s)
-[2020.10.19-14.20.16:456][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2020.10.19-14.20.16:458][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2020.10.19-14.20.16:458][429]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2020.10.19-14.20.16:458][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2020.10.19-14.20.16:458][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2020.10.19-14.20.16:458][429]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2020.10.19-14.20.16:458][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2020.10.19-14.20.16:458][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2020.10.19-14.20.16:458][429]LogAudio: Display: AudioDevice MaxSources: 32
-[2020.10.19-14.20.16:458][429]LogAudio: Display: Using built-in audio occlusion.
-[2020.10.19-14.20.16:458][429]LogAudioMixer: Display: Initializing audio mixer.
-[2020.10.19-14.20.16:465][429]LogAudioMixer: Display: 0: FrontLeft
-[2020.10.19-14.20.16:465][429]LogAudioMixer: Display: 1: FrontRight
-[2020.10.19-14.20.16:486][429]LogAudioMixer: Display: Using Audio Device Casque (High Definition Audio Device)
-[2020.10.19-14.20.16:486][429]LogAudioMixer: Display: Initializing Sound Submixes...
-[2020.10.19-14.20.16:486][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2020.10.19-14.20.16:486][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2020.10.19-14.20.16:486][429]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2020.10.19-14.20.16:498][429]LogInit: FAudioDevice initialized.
-[2020.10.19-14.20.16:502][429]LogLoad: Game class is 'GameModeBase'
-[2020.10.19-14.20.16:509][429]LogWorld: Bringing World /Game/Théo/UEDPIE_0_Théo.Théo up for play (max tick rate 0) at 2020.10.19-16.20.16
-[2020.10.19-14.20.16:509][429]LogWorld: Bringing up level for play took: 0.006005
-[2020.10.19-14.20.16:509][429]LogOnline: OSS: Creating online subsystem instance for: :Context_16
-[2020.10.19-14.20.16:511][429]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2020.10.19-14.20.16:513][429]PIE: Server logged in
-[2020.10.19-14.20.16:514][429]PIE: Play in editor total start time 0.084 seconds.
-[2020.10.19-14.20.20:515][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-14.20.20:515][841]LogWorld: BeginTearingDown for /Game/Théo/UEDPIE_0_Théo
-[2020.10.19-14.20.20:515][841]LogWorld: UWorld::CleanupWorld for Théo, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.20.20:516][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.20.20:522][841]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2020.10.19-14.20.20:523][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.20.20:546][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-14.20.20:547][841]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021A161ECCC0), frame # 105841
-[2020.10.19-14.20.20:547][841]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021A91E21800), frame # 105841
-[2020.10.19-14.20.20:548][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
-[2020.10.19-14.20.20:575][842]LogPlayLevel: Display: Destroying online subsystem :Context_16
-[2020.10.19-14.20.21:693][976]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Vase02_DM)
-[2020.10.19-14.20.26:620][524]LogTemp: Repeating last play command: Simulate
-[2020.10.19-14.20.26:638][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2020.10.19-14.20.26:638][524]PIE: New page: SIE session: Théo (19 Oct 2020, 18:20:26)
-[2020.10.19-14.20.26:638][524]LogPlayLevel: Creating play world package: /Game/Théo/UEDPIE_0_Théo
-[2020.10.19-14.20.26:652][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014248s)
-[2020.10.19-14.20.26:653][524]LogAIModule: Creating AISystem for world Théo
-[2020.10.19-14.20.26:653][524]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021AA3FED600), frame # 106524
-[2020.10.19-14.20.26:653][524]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021A160DC400), frame # 106524
-[2020.10.19-14.20.26:653][524]LogPlayLevel: PIE: World Init took: (0.000863s)
-[2020.10.19-14.20.26:653][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Théo/Théo.Théo to /Game/Théo/UEDPIE_0_Théo.Théo (0.015215s)
-[2020.10.19-14.20.26:661][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
-[2020.10.19-14.20.26:663][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2020.10.19-14.20.26:663][524]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2020.10.19-14.20.26:663][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2020.10.19-14.20.26:663][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2020.10.19-14.20.26:663][524]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2020.10.19-14.20.26:663][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2020.10.19-14.20.26:663][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2020.10.19-14.20.26:663][524]LogAudio: Display: AudioDevice MaxSources: 32
-[2020.10.19-14.20.26:663][524]LogAudio: Display: Using built-in audio occlusion.
-[2020.10.19-14.20.26:663][524]LogAudioMixer: Display: Initializing audio mixer.
-[2020.10.19-14.20.26:670][524]LogAudioMixer: Display: 0: FrontLeft
-[2020.10.19-14.20.26:670][524]LogAudioMixer: Display: 1: FrontRight
-[2020.10.19-14.20.26:691][524]LogAudioMixer: Display: Using Audio Device Casque (High Definition Audio Device)
-[2020.10.19-14.20.26:691][524]LogAudioMixer: Display: Initializing Sound Submixes...
-[2020.10.19-14.20.26:691][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2020.10.19-14.20.26:691][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2020.10.19-14.20.26:691][524]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2020.10.19-14.20.26:703][524]LogInit: FAudioDevice initialized.
-[2020.10.19-14.20.26:710][524]LogLoad: Game class is 'GameModeBase'
-[2020.10.19-14.20.26:716][524]LogWorld: Bringing World /Game/Théo/UEDPIE_0_Théo.Théo up for play (max tick rate 0) at 2020.10.19-16.20.26
-[2020.10.19-14.20.26:717][524]LogWorld: Bringing up level for play took: 0.005821
-[2020.10.19-14.20.26:717][524]LogOnline: OSS: Creating online subsystem instance for: :Context_17
-[2020.10.19-14.20.26:718][524]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2020.10.19-14.20.26:720][524]PIE: Server logged in
-[2020.10.19-14.20.26:721][524]PIE: Play in editor total start time 0.084 seconds.
-[2020.10.19-14.20.29:482][843]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Vase03_DM)
-[2020.10.19-14.20.31:625][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-14.20.31:625][ 74]LogWorld: BeginTearingDown for /Game/Théo/UEDPIE_0_Théo
-[2020.10.19-14.20.31:626][ 74]LogWorld: UWorld::CleanupWorld for Théo, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.20.31:626][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.20.31:634][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2020.10.19-14.20.31:635][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.20.31:644][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-14.20.31:660][ 74]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021A160DC400), frame # 107074
-[2020.10.19-14.20.31:660][ 74]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021AA3FED600), frame # 107074
-[2020.10.19-14.20.31:661][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
-[2020.10.19-14.20.31:687][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_17
-[2020.10.19-14.20.33:607][305]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Vase01_DM)
-[2020.10.19-14.20.53:963][625]LogTemp: Repeating last play command: Simulate
-[2020.10.19-14.20.53:982][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2020.10.19-14.20.53:982][625]PIE: New page: SIE session: Théo (19 Oct 2020, 18:20:53)
-[2020.10.19-14.20.53:982][625]LogPlayLevel: Creating play world package: /Game/Théo/UEDPIE_0_Théo
-[2020.10.19-14.20.53:997][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014622s)
-[2020.10.19-14.20.53:998][625]LogAIModule: Creating AISystem for world Théo
-[2020.10.19-14.20.53:998][625]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021A16814E00), frame # 109625
-[2020.10.19-14.20.53:998][625]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021A608E91C0), frame # 109625
-[2020.10.19-14.20.53:998][625]LogPlayLevel: PIE: World Init took: (0.000856s)
-[2020.10.19-14.20.53:998][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Théo/Théo.Théo to /Game/Théo/UEDPIE_0_Théo.Théo (0.015581s)
-[2020.10.19-14.20.54:007][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
-[2020.10.19-14.20.54:008][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2020.10.19-14.20.54:009][625]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2020.10.19-14.20.54:009][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2020.10.19-14.20.54:009][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2020.10.19-14.20.54:009][625]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2020.10.19-14.20.54:009][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2020.10.19-14.20.54:009][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2020.10.19-14.20.54:009][625]LogAudio: Display: AudioDevice MaxSources: 32
-[2020.10.19-14.20.54:009][625]LogAudio: Display: Using built-in audio occlusion.
-[2020.10.19-14.20.54:009][625]LogAudioMixer: Display: Initializing audio mixer.
-[2020.10.19-14.20.54:016][625]LogAudioMixer: Display: 0: FrontLeft
-[2020.10.19-14.20.54:016][625]LogAudioMixer: Display: 1: FrontRight
-[2020.10.19-14.20.54:036][625]LogAudioMixer: Display: Using Audio Device Casque (High Definition Audio Device)
-[2020.10.19-14.20.54:036][625]LogAudioMixer: Display: Initializing Sound Submixes...
-[2020.10.19-14.20.54:036][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2020.10.19-14.20.54:036][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2020.10.19-14.20.54:037][625]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2020.10.19-14.20.54:048][625]LogInit: FAudioDevice initialized.
-[2020.10.19-14.20.54:053][625]LogLoad: Game class is 'GameModeBase'
-[2020.10.19-14.20.54:060][625]LogWorld: Bringing World /Game/Théo/UEDPIE_0_Théo.Théo up for play (max tick rate 0) at 2020.10.19-16.20.54
-[2020.10.19-14.20.54:060][625]LogWorld: Bringing up level for play took: 0.005833
-[2020.10.19-14.20.54:060][625]LogOnline: OSS: Creating online subsystem instance for: :Context_18
-[2020.10.19-14.20.54:061][625]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2020.10.19-14.20.54:064][625]PIE: Server logged in
-[2020.10.19-14.20.54:064][625]PIE: Play in editor total start time 0.083 seconds.
-[2020.10.19-14.20.56:829][929]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_Vase03_DM)
-[2020.10.19-14.20.59:515][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-14.20.59:515][198]LogWorld: BeginTearingDown for /Game/Théo/UEDPIE_0_Théo
-[2020.10.19-14.20.59:516][198]LogWorld: UWorld::CleanupWorld for Théo, bSessionEnded=true, bCleanupResources=true
-[2020.10.19-14.20.59:516][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.20.59:526][198]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2020.10.19-14.20.59:528][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.10.19-14.20.59:537][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.10.19-14.20.59:552][198]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021A608E91C0), frame # 110198
-[2020.10.19-14.20.59:552][198]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021A16814E00), frame # 110198
-[2020.10.19-14.20.59:553][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2020.10.19-14.20.59:579][199]LogPlayLevel: Display: Destroying online subsystem :Context_18
-[2020.10.19-14.21.06:680][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
-[2020.10.19-14.21.06:824][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
-[2020.10.19-14.21.06:885][ 14]LogSavePackage: Moving '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Saved/Théo1528FC524B572D2BD5A4779574AE2324.tmp' to '../../../../../../User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
-[2020.10.19-14.21.06:952][ 14]LogFileHelpers: Saving map 'Théo' took 0.137
-[2020.10.19-14.21.06:959][ 14]AssetCheck: New page: Asset Save: Théo
-[2020.10.19-14.21.06:959][ 14]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:560][255]SourceControl: fatal: D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Programs/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/User/Documents/Ecole Bellecour/GameDesign/2021/Project1Design-Burke/VRProject/Litterbox'
-[2020.10.19-14.21.09:715][255]EditorErrors: Warning: No assets to check in!
+[2020.10.19-14.55.35:434][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.19-14.55.35:434][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.19-14.55.35:434][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.19-14.55.35:435][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.19-14.55.35:435][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.19-14.55.35:435][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.19-14.55.35:437][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.19-14.55.35:437][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.19-14.55.35:438][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.19-14.55.35:438][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.19-14.55.35:438][  0]LogHAL: Display: Platform has ~ 32 GB [34274607104 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.19-14.55.35:438][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.19-14.55.35:438][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.19-14.55.35:438][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.19-14.55.35:439][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Config/Windows/Engine.ini]
+[2020.10.19-14.55.35:439][  0]LogInit: Computer: PC-GAME-DESIGN
+[2020.10.19-14.55.35:439][  0]LogInit: User: theoa
+[2020.10.19-14.55.35:439][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.10.19-14.55.35:439][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.19-14.55.35:439][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.10.19-14.55.35:439][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.19-14.55.35:439][  0]LogMemory: Process Physical Memory: 116.93 MB used, 116.93 MB peak
+[2020.10.19-14.55.35:439][  0]LogMemory: Process Virtual Memory: 96.09 MB used, 96.09 MB peak
+[2020.10.19-14.55.35:439][  0]LogMemory: Physical Memory: 13942.63 MB used,  18744.18 MB free, 32686.81 MB total
+[2020.10.19-14.55.35:440][  0]LogMemory: Virtual Memory: 5148.86 MB used,  134212576.00 MB free, 134217728.00 MB total
+[2020.10.19-14.55.35:779][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.19-14.55.35:812][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.19-14.55.35:812][  0]LogInit: Using OS detected language (fr-FR).
+[2020.10.19-14.55.35:812][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.10.19-14.55.35:814][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.10.19-14.55.35:814][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.10.19-14.55.35:814][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.10.19-14.55.35:814][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.10.19-14.55.35:814][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.10.19-14.55.35:814][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.10.19-14.55.35:814][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.10.19-14.55.35:814][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.10.19-14.55.35:815][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.19-14.55.35:839][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.19-14.55.35:839][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.19-14.55.35:995][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.19-14.55.35:995][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.19-14.55.35:995][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.19-14.55.35:995][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.19-14.55.36:059][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2020.10.19-14.55.36:059][  0]LogD3D11RHI:       8031/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.19-14.55.36:062][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.19-14.55.36:062][  0]LogD3D11RHI:       0/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.19-14.55.36:062][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.19-14.55.36:068][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.19-14.55.36:068][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.19-14.55.36:068][  0]LogWindows: EnumDisplayDevices:
+[2020.10.19-14.55.36:068][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2020.10.19-14.55.36:069][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.10.19-14.55.36:069][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.10.19-14.55.36:069][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.10.19-14.55.36:069][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.10.19-14.55.36:069][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2020.10.19-14.55.36:069][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.10.19-14.55.36:070][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.10.19-14.55.36:070][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.10.19-14.55.36:114][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.19-14.55.36:115][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.10.19-14.55.36:115][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.19-14.55.36:115][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.19-14.55.36:116][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2020.10.19-14.55.36:127][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.19-14.55.36:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.19-14.55.36:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.19-14.55.36:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.19-14.55.36:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.19-14.55.36:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.19-14.55.36:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.19-14.55.36:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.19-14.55.36:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.19-14.55.36:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.19-14.55.36:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.19-14.55.36:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.19-14.55.36:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.19-14.55.36:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.19-14.55.36:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.19-14.55.36:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.19-14.55.36:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.19-14.55.36:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.19-14.55.36:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.19-14.55.36:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.19-14.55.36:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.19-14.55.36:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.19-14.55.36:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.19-14.55.36:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.19-14.55.36:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.19-14.55.36:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.19-14.55.36:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.19-14.55.36:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.19-14.55.36:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.19-14.55.36:547][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.19-14.55.36:555][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.19-14.55.36:615][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Intermediate/Shaders/WorkingDirectory/28036/).
+[2020.10.19-14.55.36:615][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/theoa/AppData/Local/Temp/UnrealShaderWorkingDir/0240AE014D0FD8ACC5E8439E9DBA9F22/'.
+[2020.10.19-14.55.36:615][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.19-14.55.36:615][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.19-14.55.36:615][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.19-14.55.37:207][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.19-14.55.37:251][  0]LogDerivedDataCache: Loaded boot cache 0.04s 95MB C:/Users/theoa/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.19-14.55.37:251][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/theoa/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.19-14.55.37:251][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.19-14.55.37:251][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.19-14.55.37:251][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.19-14.55.37:251][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.19-14.55.37:259][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.19-14.55.37:259][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.19-14.55.37:259][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.19-14.55.37:260][  0]LogDerivedDataCache: Using Local data cache path C:/Users/theoa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.19-14.55.37:260][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.19-14.55.37:260][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.19-14.55.37:298][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.19-14.55.37:298][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.19-14.55.37:318][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.10.19-14.55.37:491][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.19-14.55.37:598][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.19-14.55.37:599][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.19-14.55.37:599][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.19-14.55.37:599][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.19-14.55.37:599][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.19-14.55.37:611][  0]LogNetVersion: Litterbox 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4287034506)
+[2020.10.19-14.55.37:911][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001B7A4045880), frame # 0
+[2020.10.19-14.55.37:911][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B7A4F91E40), frame # 0
+[2020.10.19-14.55.37:912][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B7A4FA3000), frame # 0
+[2020.10.19-14.55.37:966][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.049389 seconds
+[2020.10.19-14.55.37:969][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.19-14.55.37:969][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.19-14.55.37:969][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.19-14.55.38:322][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.19-14.55.38:326][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.19-14.55.38:428][  0]SourceControl: Source control is disabled
+[2020.10.19-14.55.38:429][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.10.19-14.55.38:429][  0]LogWindows: Warning: URL: D:/Programs/Git/bin/git.exe version
+[2020.10.19-14.55.38:433][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.10.19-14.55.38:433][  0]LogWindows: Warning: URL: D:/Programs/Git/bin/git.exe version
+[2020.10.19-14.55.38:437][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.10.19-14.55.38:437][  0]LogWindows: Warning: URL: D:/Programs/Git/bin/git.exe version
+[2020.10.19-14.55.38:446][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.10.19-14.55.38:446][  0]LogWindows: Warning: URL: D:/Programs/Git/bin/git.exe version
+[2020.10.19-14.55.38:715][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.19-14.55.38:738][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.19-14.55.38:738][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.19-14.55.38:784][  0]LogOcInput: OculusInput pre-init called
+[2020.10.19-14.55.38:793][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.19-14.55.38:793][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.19-14.55.38:846][  0]LogEngine: Initializing Engine...
+[2020.10.19-14.55.38:847][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.19-14.55.38:847][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.19-14.55.38:848][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.19-14.55.38:933][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.19-14.55.38:940][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.19-14.55.38:940][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B7A7EBFC00), frame # 0
+[2020.10.19-14.55.38:940][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B7A7EFE480), frame # 0
+[2020.10.19-14.55.38:950][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.19-14.55.38:950][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.19-14.55.38:950][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.19-14.55.38:950][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.19-14.55.38:950][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.19-14.55.38:950][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.19-14.55.38:950][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.19-14.55.38:950][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.19-14.55.38:950][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.19-14.55.38:950][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.19-14.55.40:136][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.19-14.55.40:136][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.19-14.55.40:136][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.19-14.55.40:136][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.19-14.55.40:136][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.10.19-14.55.40:136][  0]LogAudioMixer: Display: 5: BackRight
+[2020.10.19-14.55.40:136][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.10.19-14.55.40:136][  0]LogAudioMixer: Display: 7: SideRight
+[2020.10.19-14.55.40:558][  0]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (CORSAIR VOID PRO USB Gaming Headset)
+[2020.10.19-14.55.40:559][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.19-14.55.40:561][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.19-14.55.40:562][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.19-14.55.40:562][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.19-14.55.40:563][  0]LogInit: FAudioDevice initialized.
+[2020.10.19-14.55.40:564][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.19-14.55.40:607][  0]LogDerivedDataCache: Saved boot cache 0.04s 95MB C:/Users/theoa/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.19-14.55.40:609][  0]LogInit: Texture streaming: Enabled
+[2020.10.19-14.55.40:686][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.19-14.55.40:686][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.19-14.55.40:716][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.19-14.55.40:791][  0]LogInit: Transaction tracking system initialized
+[2020.10.19-14.55.40:882][  0]BlueprintLog: New page: Editor Load
+[2020.10.19-14.55.41:006][  0]LocalizationService: Localization service is disabled
+[2020.10.19-14.55.41:147][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.19-14.55.41:147][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.19-14.55.41:274][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/' took 0.01s
+[2020.10.19-14.55.41:433][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.10.19-14.55.41:433][  0]LogWindows: Warning: URL: D:/Programs/Git/bin/git.exe version
+[2020.10.19-14.55.41:433][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.404
+[2020.10.19-14.55.41:433][  0]Cmd: MAP LOAD FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.19-14.55.41:434][  0]LightingResults: New page: Lighting Build
+[2020.10.19-14.55.41:434][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-14.55.41:434][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.19-14.55.41:434][  0]MapCheck: New page: Map Check
+[2020.10.19-14.55.41:434][  0]LightingResults: New page: Lighting Build
+[2020.10.19-14.55.41:442][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B7A7EBFC00), frame # 0
+[2020.10.19-14.55.41:442][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B7A7EFE480), frame # 0
+[2020.10.19-14.55.41:442][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.19-14.55.41:458][  0]LogBlueprint: Warning: [Compiler PersistentLevel.StartupMap] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2020.10.19-14.55.41:459][  0]LogBlueprint: Error: [Compiler PersistentLevel.StartupMap] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2020.10.19-14.55.41:489][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.10.19-14.55.41:489][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B792686600), frame # 0
+[2020.10.19-14.55.41:489][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B7926FEC00), frame # 0
+[2020.10.19-14.55.41:493][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.19-14.55.41:502][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.10.19-14.55.41:502][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.19-14.55.41:502][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,155ms to complete.
+[2020.10.19-14.55.41:502][  0]LogFileHelpers: Loading map 'StartupMap' took 0.069
+[2020.10.19-14.55.41:503][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.474
+[2020.10.19-14.55.41:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-14.55.41:634][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-14.55.41:639][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-14.55.41:644][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-14.55.41:652][  0]LogCollectionManager: Loaded 0 collections in 0.000737 seconds
+[2020.10.19-14.55.41:662][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Collections/' took 0.00s
+[2020.10.19-14.55.41:662][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Developers/theoa/Collections/' took 0.00s
+[2020.10.19-14.55.41:662][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Collections/' took 0.00s
+[2020.10.19-14.55.41:662][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 3437 classes and 829 folders.
+[2020.10.19-14.55.41:663][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-14.55.41:722][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-14.55.41:723][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.10.19-14.55.41:752][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-14.55.41:752][  0]LogLoad: (Engine Initialization) Total time: 7.72 seconds
+[2020.10.19-14.55.41:752][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.19-14.55.41:786][  0]LogAssetRegistry: Asset discovery search completed in 4.4687 seconds
+[2020.10.19-14.55.41:789][  0]LogAutoSizeComments: Loaded auto size comments cache: ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/D65805B34DD66A0924D5B78CDA401DC1.json
+[2020.10.19-14.55.41:789][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2020.10.19-14.55.41:790][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.19-14.55.41:794][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.19-14.55.41:795][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.19-14.55.41:798][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.19-14.55.42:031][  1]LogRenderer: Reallocating scene render targets to support 784x744 Format 26 NumSamples 1 (Frame:1).
+[2020.10.19-14.55.42:031][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/' took 0.27s
+[2020.10.19-14.58.12:352][139]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.19-14.58.12:861][139]LogStaticMesh: Building static mesh SM_Vase04...
+[2020.10.19-14.58.12:898][139]LogStaticMesh: Built static mesh [0.04s] /Game/Nafi/Meshes/SM_Vase04.SM_Vase04
+[2020.10.19-14.58.12:903][139]LogSkeletalMesh: Building Skeletal Mesh SM_Vase04_DM...
+[2020.10.19-14.58.12:943][139]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Théo/DestructibleMesh/SM_Vase04_DM.SM_Vase04_DM
+[2020.10.19-14.58.12:944][139]LogStaticMesh: Building static mesh SM_Vase03...
+[2020.10.19-14.58.12:983][139]LogStaticMesh: Built static mesh [0.04s] /Game/Nafi/Meshes/SM_Vase03.SM_Vase03
+[2020.10.19-14.58.12:986][139]LogSkeletalMesh: Building Skeletal Mesh SM_Vase03_DM...
+[2020.10.19-14.58.13:033][139]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Théo/DestructibleMesh/SM_Vase03_DM.SM_Vase03_DM
+[2020.10.19-14.58.13:050][139]LogStaticMesh: Building static mesh SM_Vase01...
+[2020.10.19-14.58.13:089][139]LogStaticMesh: Built static mesh [0.04s] /Game/Nafi/Meshes/SM_Vase01.SM_Vase01
+[2020.10.19-14.58.13:111][139]LogSkeletalMesh: Building Skeletal Mesh SM_Vase01_DM...
+[2020.10.19-14.58.13:158][139]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Théo/DestructibleMesh/SM_Vase01_DM.SM_Vase01_DM
+[2020.10.19-14.58.13:234][139]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Théo/Théo.Théo
+[2020.10.19-14.58.13:244][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.19-14.58.13:245][139]Cmd: MAP LOAD FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.19-14.58.13:245][139]LightingResults: New page: Lighting Build
+[2020.10.19-14.58.13:245][139]LoadErrors: New page: Loading map: Théo.umap
+[2020.10.19-14.58.13:288][139]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-14.58.13:288][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.19-14.58.13:288][139]MapCheck: New page: Map Check
+[2020.10.19-14.58.13:288][139]LightingResults: New page: Lighting Build
+[2020.10.19-14.58.13:297][139]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B792686600), frame # 1139
+[2020.10.19-14.58.13:297][139]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B7926FEC00), frame # 1139
+[2020.10.19-14.58.13:298][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.10.19-14.58.13:310][139]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.19-14.58.13:310][139]LogAIModule: Creating AISystem for world Théo
+[2020.10.19-14.58.13:310][139]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B7BFF40A00), frame # 1139
+[2020.10.19-14.58.13:310][139]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B7AE2C9D00), frame # 1139
+[2020.10.19-14.58.13:321][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.10.19-14.58.13:354][139]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.19-14.58.13:354][139]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,141ms to complete.
+[2020.10.19-14.58.13:354][139]LogFileHelpers: Loading map 'Théo' took 0.108
+[2020.10.19-14.58.33:009][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Théo" FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.19-14.58.33:019][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2020.10.19-14.58.33:115][479]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Théo679994F94F550145B6A32DBD900A8FCA.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
+[2020.10.19-14.58.33:157][479]AssetCheck: New page: Asset Save: Théo
+[2020.10.19-14.58.33:157][479]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
