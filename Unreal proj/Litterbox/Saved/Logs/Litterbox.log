@@ -668,3 +668,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.19-15.42.54:281][662]LogAssetRegistry: Asset discovery search completed in 9.3533 seconds
 [2020.10.19-15.42.54:289][662]LogAutoSizeComments: Loaded auto size comments cache: ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/D65805B34DD66A0924D5B78CDA401DC1.json
 [2020.10.19-15.42.54:289][662]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.10.19-18.19.36:507][207]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9d328ff6-31b2-4da6-878c-f965f348d5c1}.
+[2020.10.19-18.19.36:507][207]LogTemp: Resetting audio stream to device id 
+[2020.10.19-18.19.36:605][207]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.19-18.19.36:605][207]LogAudioMixer: Display: 1: FrontRight
+[2020.10.19-20.23.27:128][382]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{67a02189-c2bc-4ebd-9048-702fb7f75e44}.
+[2020.10.19-20.23.27:129][382]LogTemp: Resetting audio stream to device id 
+[2020.10.19-20.23.27:150][382]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.19-20.23.27:150][382]LogAudioMixer: Display: 1: FrontRight
+[2020.10.19-20.24.43:815][611]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9d328ff6-31b2-4da6-878c-f965f348d5c1}.
+[2020.10.19-20.24.43:815][611]LogTemp: Resetting audio stream to device id 
+[2020.10.19-20.24.43:837][611]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.19-20.24.43:837][611]LogAudioMixer: Display: 1: FrontRight
+[2020.10.20-08.10.53:617][628]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.10.20-08.10.53:970][628]LogTemp: Resetting audio stream to device id 
+[2020.10.20-08.10.54:149][628]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.20-08.10.54:149][628]LogAudioMixer: Display: 1: FrontRight
+[2020.10.20-08.10.54:625][630]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{67a02189-c2bc-4ebd-9048-702fb7f75e44}.
+[2020.10.20-08.10.54:625][630]LogTemp: Resetting audio stream to device id 
+[2020.10.20-08.10.54:642][630]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.20-08.10.54:642][630]LogAudioMixer: Display: 1: FrontRight
+[2020.10.20-08.10.56:961][638]LogHttp: Warning: 000001E7F9F75D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BACCB6C67-4644-0B93-44CE-F2BBCC581F4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=f6487d15452391f8cf594fad70ccbcdc%7Cb444d354bc8946a1af9bd635ce9c79cf%7C04522510-2790-4dac-bfc9-c228bd1a9531&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.20-08.10.56:961][638]LogHttp: Warning: 000001E7F9F75D00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.10.20-08.10.56:961][638]LogHttp: Warning: 000001E7F9F75D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e7c5c8ff70 [can pipeline])
+[2020.10.20-08.10.56:961][638]LogHttp: Warning: 000001E7F9F75D00: libcurl info message cache 1 (Re-using existing connection! (#96) with host datarouter.ol.epicgames.com)
+[2020.10.20-08.10.56:961][638]LogHttp: Warning: 000001E7F9F75D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.197.49.47) port 443 (#96))
+[2020.10.20-08.10.56:961][638]LogHttp: Warning: 000001E7F9F75D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.10.20-08.10.56:961][638]LogHttp: Warning: 000001E7F9F75D00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.10.20-08.10.56:961][638]LogHttp: Warning: 000001E7F9F75D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.10.20-08.10.56:961][638]LogHttp: Warning: 000001E7F9F75D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.10.20-08.10.56:961][638]LogHttp: Warning: 000001E7F9F75D00: libcurl info message cache 7 (Closing connection 96)
+[2020.10.20-08.10.56:961][638]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BACCB6C67-4644-0B93-44CE-F2BBCC581F4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=f6487d15452391f8cf594fad70ccbcdc%7Cb444d354bc8946a1af9bd635ce9c79cf%7C04522510-2790-4dac-bfc9-c228bd1a9531&AppEnvironment=datacollector-source&UploadType=eteventstream
