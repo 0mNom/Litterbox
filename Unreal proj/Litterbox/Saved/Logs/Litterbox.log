@@ -1635,3 +1635,132 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.22-09.26.21:884][ 15]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EFB75D2000), frame # 174015
 [2020.10.22-09.26.21:886][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
 [2020.10.22-09.26.21:922][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.10.22-09.26.58:400][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:400][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:400][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:400][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:400][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:400][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:401][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:401][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:401][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:401][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:402][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:402][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:402][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:402][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:402][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:402][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:403][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:403][323]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap' failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:403][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:403][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:403][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:403][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:404][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:404][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:404][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:404][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:404][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:404][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:404][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:404][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:404][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:405][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:405][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:405][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:405][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:405][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:407][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:407][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:407][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:407][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:407][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:407][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:408][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:408][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:408][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:408][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:408][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:408][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:408][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:408][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:408][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:408][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:409][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:409][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:409][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:409][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:409][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:409][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:409][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:409][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:409][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:410][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:410][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:410][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:410][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:410][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:410][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:410][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:410][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:410][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:411][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:411][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/BP_Climbable': Can't find file.
+[2020.10.22-09.26.58:411][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:411][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:411][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:411][323]LogLinker: Warning: Failed to load '/Game/Courtney/Blueprints/MotionControllerPawnCourtney': Can't find file.
+[2020.10.22-09.26.58:415][323]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Courtney/Courtney.Courtney
+[2020.10.22-09.26.58:430][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.10.22-09.26.59:929][323]LogSlate: Window 'Save Content' being destroyed
+[2020.10.22-09.26.59:979][323]LogSavePackage: Moving '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Terrain33A40B5F4584DD63C8BF7D9A632BAE90.tmp' to '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/PN_LowpolyGras/Materials/Terrain.uasset'
+[2020.10.22-09.26.59:981][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Théo" FILE="../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.22-09.26.59:996][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.10.22-09.27.00:131][323]LogSavePackage: Moving '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Théo2C09D5D147AA841647BBF7ACBAF6530B.tmp' to '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo.umap'
+[2020.10.22-09.27.00:216][323]LogFileHelpers: Saving map 'Théo' took 0.236
+[2020.10.22-09.27.00:216][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Théo_BuiltData" FILE="../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo_BuiltData.uasset" SILENT=true
+[2020.10.22-09.27.00:454][323]LogSavePackage: Moving '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Théo_BuiltDataF03CB5EB4AD662028F5241BC7846E345.tmp' to '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Théo_BuiltData.uasset'
+[2020.10.22-09.27.00:456][323]Cmd: MAP LOAD FILE="../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Courtney.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.22-09.27.00:456][323]LightingResults: New page: Lighting Build
+[2020.10.22-09.27.00:456][323]LoadErrors: New page: Loading map: Courtney.umap
+[2020.10.22-09.27.00:487][323]LogWorld: UWorld::CleanupWorld for Théo, bSessionEnded=true, bCleanupResources=true
+[2020.10.22-09.27.00:488][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.22-09.27.00:488][323]MapCheck: New page: Map Check
+[2020.10.22-09.27.00:488][323]LightingResults: New page: Lighting Build
+[2020.10.22-09.27.00:507][323]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EF95F23EC0), frame # 175323
+[2020.10.22-09.27.00:507][323]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EFB72D1E00), frame # 175323
+[2020.10.22-09.27.00:511][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.10.22-09.27.00:517][323]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.22-09.27.00:517][323]LogAIModule: Creating AISystem for world Courtney
+[2020.10.22-09.27.00:517][323]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001EF8F301000), frame # 175323
+[2020.10.22-09.27.00:517][323]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EFB75311C0), frame # 175323
+[2020.10.22-09.27.00:533][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.10.22-09.27.00:601][323]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.22-09.27.00:602][323]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.245ms to complete.
+[2020.10.22-09.27.00:603][323]LogFileHelpers: Loading map 'Courtney' took 0.147
+[2020.10.22-09.27.00:694][323]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.22-09.27.00:694][323]LogContentValidation: Display: Validating Material /Game/PN_LowpolyGras/Materials/Terrain.Terrain
+[2020.10.22-09.27.00:694][323]LogContentValidation: Display: Validating World /Game/Théo/Théo.Théo
+[2020.10.22-09.27.00:756][323]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Théo/Théo_BuiltData.Théo_BuiltData
+[2020.10.22-09.27.00:756][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Camera': MotionControllerPawnCourtney_C /Game/Courtney/Courtney.Courtney:PersistentLevel.MotionControllerPawnCourtney_9
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable2
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable3
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable4
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable5
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable6
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable7
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable8
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable9
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable_2
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': MotionControllerPawnCourtney_C /Game/Courtney/Courtney.Courtney:PersistentLevel.MotionControllerPawnCourtney_9
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'VROrigin': MotionControllerPawnCourtney_C /Game/Courtney/Courtney.Courtney:PersistentLevel.MotionControllerPawnCourtney_9
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable2
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable3
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable4
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable5
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable6
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable7
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable8
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable9
+[2020.10.22-09.27.00:757][323]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': BP_Climbable_C /Game/Courtney/Courtney.Courtney:PersistentLevel.BP_Climbable_2
