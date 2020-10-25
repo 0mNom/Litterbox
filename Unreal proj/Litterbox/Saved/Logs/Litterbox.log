@@ -1061,3 +1061,494 @@ Would you like to regenerate the Skeleton from this mesh?
 [2020.10.25-13.37.17:998][889]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.25-13.37.17:998][889]LogContentValidation: Display: Validating World /Game/Courtney/Levels/Menu.Menu
 [2020.10.25-13.37.17:998][889]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Levels/Menu_BuiltData.Menu_BuiltData
+[2020.10.25-13.40.23:528][261]LogAnimation: Warning: AnimBP RightHand_AnimBP_C is incompatible with skeleton patoon_left_msh_Skeleton, removing AnimBP from actor.
+[2020.10.25-13.40.23:529][261]LogAnimation: Warning: AnimBP RightHand_AnimBP_C is incompatible with skeleton patoon_left_msh_Skeleton, removing AnimBP from actor.
+[2020.10.25-13.40.23:529][261]LogAnimation: Warning: AnimBP RightHand_AnimBP_C is incompatible with skeleton patoon_left_msh_Skeleton, removing AnimBP from actor.
+[2020.10.25-13.40.32:218][173]LogEditorTransaction: Undo Modify Component(s)
+[2020.10.25-13.40.54:103][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Rock_Observer_Body_Mat': Can't find file.
+[2020.10.25-13.40.54:103][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Rock_Observer_Body_Mat': Can't find file.
+[2020.10.25-13.40.54:103][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Rock_Observer_Rocks_Mat': Can't find file.
+[2020.10.25-13.40.54:103][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Rock_Observer_Rocks_Mat': Can't find file.
+[2020.10.25-13.40.54:103][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Observer_PhysicsAsset': Can't find file.
+[2020.10.25-13.40.54:103][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Observer_PhysicsAsset': Can't find file.
+[2020.10.25-13.40.54:104][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Observer_Skeleton': Can't find file.
+[2020.10.25-13.40.54:104][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Observer_Skeleton': Can't find file.
+[2020.10.25-13.40.54:104][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Rock_Observer_Body_Mat': Can't find file.
+[2020.10.25-13.40.54:104][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Rock_Observer_Body_Mat': Can't find file.
+[2020.10.25-13.40.54:104][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Rock_Observer_Rocks_Mat': Can't find file.
+[2020.10.25-13.40.54:104][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Rock_Observer_Rocks_Mat': Can't find file.
+[2020.10.25-13.40.54:104][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Observer_PhysicsAsset': Can't find file.
+[2020.10.25-13.40.54:105][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Observer_PhysicsAsset': Can't find file.
+[2020.10.25-13.40.54:105][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Observer_Skeleton': Can't find file.
+[2020.10.25-13.40.54:105][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Observer_Skeleton': Can't find file.
+[2020.10.25-13.40.54:105][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Observer_Skeleton': Can't find file.
+[2020.10.25-13.40.54:105][480]LoadErrors: Failed to load /Game/Actors/Enemies/Observer_Skeleton.Observer_Skeleton Referenced by Observer
+[2020.10.25-13.40.54:105][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Observer_Skeleton': Can't find file.
+[2020.10.25-13.40.54:106][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Observer_PhysicsAsset': Can't find file.
+[2020.10.25-13.40.54:106][480]LoadErrors: Failed to load /Game/Actors/Enemies/Observer_PhysicsAsset.Observer_PhysicsAsset Referenced by Observer
+[2020.10.25-13.40.54:106][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Observer_PhysicsAsset': Can't find file.
+[2020.10.25-13.40.54:106][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Rock_Observer_Body_Mat': Can't find file.
+[2020.10.25-13.40.54:106][480]LoadErrors: Failed to load /Game/Actors/Enemies/Rock_Observer_Body_Mat.Rock_Observer_Body_Mat Referenced by Observer
+[2020.10.25-13.40.54:106][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Rock_Observer_Body_Mat': Can't find file.
+[2020.10.25-13.40.54:106][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Rock_Observer_Rocks_Mat': Can't find file.
+[2020.10.25-13.40.54:106][480]LoadErrors: Failed to load /Game/Actors/Enemies/Rock_Observer_Rocks_Mat.Rock_Observer_Rocks_Mat Referenced by Observer
+[2020.10.25-13.40.54:107][480]LogLinker: Warning: While loading '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Nafi/Meshes/MicePlaceHolde/Observer.uasset' failed to load '/Game/Actors/Enemies/Rock_Observer_Rocks_Mat': Can't find file.
+[2020.10.25-13.40.54:117][480]LogSkeletalMesh: Building Skeletal Mesh Observer...
+[2020.10.25-13.40.54:189][480]LogSkeletalMesh: Section 0: 972 vertices, 2 active bones
+[2020.10.25-13.40.54:189][480]LogSkeletalMesh: Section 1: 717 vertices, 2 active bones
+[2020.10.25-13.40.54:189][480]LogSkeletalMesh: Section 0: Material=0, 1462 triangles
+[2020.10.25-13.40.54:189][480]LogSkeletalMesh: Section 1: Material=1, 948 triangles
+[2020.10.25-13.40.54:199][480]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Nafi/Meshes/MicePlaceHolde/Observer.Observer
+[2020.10.25-13.40.54:201][480]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:203][480]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:203][480]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:226][481]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:236][482]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:246][483]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:255][484]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:265][485]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:275][486]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:284][487]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:294][488]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:303][489]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:313][490]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:323][491]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:332][492]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:342][493]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:352][494]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:361][495]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:371][496]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:380][497]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:390][498]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:400][499]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:409][500]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:419][501]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:428][502]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:437][503]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:446][504]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:455][505]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:464][506]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:472][507]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:481][508]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:490][509]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:499][510]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:508][511]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:517][512]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:526][513]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:535][514]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:543][515]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:552][516]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:561][517]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:570][518]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:579][519]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:587][520]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:596][521]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:605][522]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:614][523]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:622][524]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:631][525]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:640][526]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:649][527]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:657][528]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:666][529]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:675][530]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:684][531]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:693][532]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:702][533]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:711][534]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:722][535]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:730][536]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:739][537]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:748][538]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:757][539]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:765][540]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:774][541]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:783][542]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:792][543]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:801][544]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:811][545]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:851][546]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:861][547]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:870][548]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:881][549]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:890][550]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:899][551]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:908][552]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:917][553]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:925][554]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:934][555]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.54:943][556]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:784][769]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:793][770]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:802][771]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:811][772]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:821][773]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:834][774]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:852][775]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:861][776]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:870][777]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:879][778]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:888][779]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:896][780]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:905][781]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:914][782]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:923][783]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:932][784]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:941][785]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:950][786]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:959][787]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:968][788]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:977][789]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:985][790]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.56:994][791]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:004][792]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:013][793]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:022][794]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:032][795]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:041][796]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:051][797]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:061][798]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:070][799]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:079][800]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:088][801]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:097][802]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:106][803]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:115][804]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:124][805]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:133][806]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:142][807]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:151][808]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:160][809]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:169][810]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:178][811]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:187][812]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:196][813]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:205][814]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:214][815]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:223][816]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:232][817]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:241][818]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:250][819]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:259][820]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:269][821]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:278][822]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:286][823]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:296][824]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:305][825]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:314][826]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:323][827]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:332][828]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:340][829]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:349][830]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:358][831]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:367][832]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:375][833]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:384][834]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:394][835]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:403][836]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:411][837]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:420][838]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:429][839]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:438][840]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:446][841]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:455][842]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:464][843]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:472][844]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:481][845]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:490][846]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:498][847]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:507][848]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:516][849]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:526][850]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:551][851]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:561][852]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:571][853]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:581][854]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:590][855]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:600][856]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:610][857]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:620][858]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:629][859]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:639][860]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:648][861]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:658][862]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:667][863]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:686][865]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:695][866]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:704][867]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:714][868]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:723][869]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:732][870]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:742][871]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:751][872]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:760][873]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:769][874]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:778][875]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:787][876]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:796][877]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:805][878]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:813][879]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:822][880]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:831][881]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:840][882]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:850][883]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:859][884]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:867][885]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:876][886]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:886][887]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:895][888]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:905][889]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:915][890]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:924][891]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:934][892]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:943][893]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:953][894]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:963][895]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:972][896]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:982][897]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.57:991][898]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:000][899]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:009][900]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:018][901]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:027][902]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:036][903]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:046][904]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:055][905]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:063][906]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:074][907]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:083][908]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:092][909]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:101][910]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:111][911]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:122][912]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:131][913]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:141][914]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:152][915]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:161][916]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:170][917]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:179][918]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:188][919]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:196][920]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:205][921]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:214][922]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:225][923]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:255][924]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:265][925]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:275][926]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:284][927]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:293][928]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:303][929]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:312][930]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:402][940]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:411][941]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:421][942]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:455][943]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:466][944]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:477][945]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:505][946]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:519][947]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:528][948]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:537][949]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:546][950]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:554][951]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:563][952]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:572][953]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:581][954]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:590][955]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:599][956]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:608][957]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:617][958]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:625][959]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:634][960]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:643][961]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:652][962]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:661][963]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:670][964]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:682][965]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:702][966]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:711][967]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:722][968]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:735][969]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:744][970]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:753][971]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:762][972]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:771][973]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:780][974]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:789][975]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:798][976]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:807][977]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:818][978]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:835][979]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:844][980]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:854][981]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:863][982]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:873][983]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:882][984]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:891][985]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:901][986]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:910][987]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:919][988]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:928][989]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:937][990]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:946][991]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:956][992]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:966][993]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:976][994]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:986][995]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.58:995][996]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:005][997]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:015][998]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:025][999]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:034][  0]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:043][  1]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:052][  2]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:061][  3]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:070][  4]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:078][  5]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:087][  6]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:096][  7]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:105][  8]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:123][  9]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:138][ 10]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:140][ 10]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:150][ 11]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:160][ 12]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:169][ 13]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:177][ 14]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:186][ 15]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:195][ 16]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:203][ 17]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:212][ 18]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:220][ 19]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:228][ 20]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:237][ 21]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:245][ 22]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:254][ 23]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:263][ 24]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:272][ 25]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:412][ 36]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:493][ 40]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:556][ 44]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:621][ 48]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:659][ 52]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:696][ 56]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:723][ 59]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:750][ 62]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:779][ 65]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:808][ 68]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:838][ 71]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:866][ 74]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:894][ 77]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:921][ 80]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:949][ 83]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.40.59:976][ 86]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:003][ 89]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:031][ 92]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:058][ 95]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:085][ 98]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:112][101]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:139][104]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:167][107]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:194][110]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:221][113]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:248][116]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:275][119]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:302][122]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:329][125]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:356][128]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:383][131]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:411][134]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:442][137]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:471][140]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:500][143]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:529][146]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:560][149]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:589][152]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:651][155]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:679][158]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:707][161]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:735][164]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:763][167]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:792][170]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:820][173]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:847][176]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:874][179]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:901][182]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:928][185]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:955][188]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.00:982][191]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.01:009][194]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.01:036][197]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.01:063][200]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.01:093][203]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.01:120][206]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.01:147][209]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.01:174][212]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.01:201][215]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.01:329][216]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.10.25-13.41.01:373][216]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 98
+[2020.10.25-13.41.01:373][216]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 89
+[2020.10.25-13.41.01:373][216]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 80
+[2020.10.25-13.41.01:373][216]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 71
+[2020.10.25-13.41.01:373][216]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 62
+[2020.10.25-13.41.01:373][216]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 53
+[2020.10.25-13.41.01:373][216]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 44
+[2020.10.25-13.41.01:373][216]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 35
+[2020.10.25-13.41.01:373][216]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 26
+[2020.10.25-13.41.01:373][216]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2020.10.25-13.41.01:373][216]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2020.10.25-13.41.01:373][216]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.10.25-13.41.01:403][216]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2020.10.25-13.41.01:439][216]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/PN_LowpolyGras/UE4_ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.10.25-13.41.01:448][216]LogAnimation: Warning: AnimBP RightHand_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2020.10.25-13.41.01:451][216]LogAnimation: Warning: AnimBP RightHand_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2020.10.25-13.41.01:485][217]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 98
+[2020.10.25-13.41.03:361][277]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.03:588][285]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 89
+[2020.10.25-13.41.03:616][286]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 81
+[2020.10.25-13.41.03:745][291]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.03:783][292]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 74
+[2020.10.25-13.41.03:870][294]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.03:890][295]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 67
+[2020.10.25-13.41.03:942][297]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.04:012][300]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 61
+[2020.10.25-13.41.04:013][300]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.04:071][303]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 55
+[2020.10.25-13.41.04:072][303]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.04:148][306]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.04:213][309]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 50
+[2020.10.25-13.41.04:214][309]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.04:272][312]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.04:347][315]LogAnimation: Warning: SkeletalMesh Observer has no skeleton. This needs to fixed before an animation can be set
+[2020.10.25-13.41.04:477][318]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 45
+[2020.10.25-13.41.04:477][318]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 41
+[2020.10.25-13.41.04:769][329]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 37
+[2020.10.25-13.41.04:789][330]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 33
+[2020.10.25-13.41.04:828][331]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 30
+[2020.10.25-13.41.05:125][341]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 27
+[2020.10.25-13.41.05:398][353]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 24
+[2020.10.25-13.41.05:513][357]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2020.10.25-13.41.05:537][358]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2020.10.25-13.41.05:537][358]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2020.10.25-13.41.05:561][359]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2020.10.25-13.41.05:580][360]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 13
+[2020.10.25-13.41.05:623][362]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2020.10.25-13.41.05:896][372]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2020.10.25-13.41.05:943][374]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2020.10.25-13.41.06:043][378]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2020.10.25-13.41.06:097][380]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2020.10.25-13.41.06:117][381]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2020.10.25-13.41.06:117][381]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2020.10.25-13.41.06:223][386]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2020.10.25-13.41.06:269][388]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2020.10.25-13.41.06:296][389]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.10.25-13.41.06:341][391]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.10.25-13.44.02:052][545]BlueprintLog: New page: Compile BP_MotionController
+[2020.10.25-13.44.02:137][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.10.25-13.44.02:756][590]LogSavePackage: Moving '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/BP_MotionControllerC88A6F4343B20E63C763A69309C0E336.tmp' to '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2020.10.25-13.44.02:769][590]AssetCheck: New page: Asset Save: BP_MotionController
+[2020.10.25-13.44.02:769][590]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2020.10.25-13.44.04:877][795]LogSlate: Window 'BP_MotionController' being destroyed
+[2020.10.25-13.44.04:881][795]LogSlate: Window 'BP_MotionController' being destroyed
+[2020.10.25-13.44.04:889][795]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.25-13.44.04:889][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
