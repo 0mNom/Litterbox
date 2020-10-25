@@ -1055,3 +1055,9 @@ Would you like to regenerate the Skeleton from this mesh?
 [2020.10.25-13.36.09:108][679]LogSavePackage: Moving '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Menu_Auto279CFF69F4917F79FE8B513A37EF4ADC7.tmp' to '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Courtney/Levels/Menu_Auto2.umap'
 [2020.10.25-13.36.09:114][679]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Courtney/Levels/Menu' took 0.163
 [2020.10.25-13.36.09:114][679]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.163
+[2020.10.25-13.37.17:419][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.25-13.37.17:551][889]LogSavePackage: Moving '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/MenuB7C7503544E68C623A2F2CAA3FA1025A.tmp' to '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Levels/Menu.umap'
+[2020.10.25-13.37.17:982][889]LogSavePackage: Moving '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Menu_BuiltDataDB13E85D42D6F2F171802EA2DC203EFA.tmp' to '../../../../../../Users/Courtney/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Courtney/Levels/Menu_BuiltData.uasset'
+[2020.10.25-13.37.17:998][889]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.25-13.37.17:998][889]LogContentValidation: Display: Validating World /Game/Courtney/Levels/Menu.Menu
+[2020.10.25-13.37.17:998][889]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Courtney/Levels/Menu_BuiltData.Menu_BuiltData
