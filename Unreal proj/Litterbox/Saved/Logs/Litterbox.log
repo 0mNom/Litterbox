@@ -1890,3 +1890,136 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.10-14.24.56:410][574]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/MotionControllerPawnB445035A4A0F095D996DCBAC9A55610A.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
 [2020.11.10-14.24.56:420][574]AssetCheck: New page: Asset Save: MotionControllerPawn
 [2020.11.10-14.24.56:420][574]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.11.10-14.25.40:435][980]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-14.25.40:435][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-14.28.48:436][ 44]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Desk02)
+[2020.11.10-14.29.10:779][615]Cmd: EDIT COPY
+[2020.11.10-14.29.11:089][652]Cmd: EDIT PASTE
+[2020.11.10-14.29.13:634][906]Cmd: EDIT COPY
+[2020.11.10-14.29.13:889][936]Cmd: EDIT PASTE
+[2020.11.10-14.29.38:407][326]Cmd: EDIT COPY
+[2020.11.10-14.29.38:683][359]Cmd: EDIT PASTE
+[2020.11.10-14.29.40:485][573]Cmd: TRANSACTION UNDO
+[2020.11.10-14.29.40:485][573]LogEditorTransaction: Undo Paste
+[2020.11.10-14.29.50:234][630]Cmd: EDIT COPY
+[2020.11.10-14.29.50:522][661]Cmd: EDIT PASTE
+[2020.11.10-14.29.57:116][422]Cmd: EDIT COPY
+[2020.11.10-14.29.57:427][459]Cmd: EDIT PASTE
+[2020.11.10-14.30.01:194][895]Cmd: EDIT COPY
+[2020.11.10-14.30.01:466][919]Cmd: EDIT PASTE
+[2020.11.10-14.30.05:285][361]Cmd: EDIT COPY
+[2020.11.10-14.30.05:571][395]Cmd: EDIT PASTE
+[2020.11.10-14.30.05:580][395]Cmd: EDIT COPY
+[2020.11.10-14.30.11:022][ 22]Cmd: EDIT COPY
+[2020.11.10-14.30.11:284][ 53]Cmd: EDIT PASTE
+[2020.11.10-14.30.34:575][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table03)
+[2020.11.10-14.30.34:916][848]Cmd: EDIT COPY
+[2020.11.10-14.30.47:035][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa01)
+[2020.11.10-14.30.47:939][233]Cmd: DELETE
+[2020.11.10-14.30.47:939][233]Cmd: ACTOR DELETE
+[2020.11.10-14.30.47:943][233]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.30.47:966][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.11.10-14.30.47:975][233]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.11.10-14.30.49:033][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair4)
+[2020.11.10-14.30.49:666][431]Cmd: EDIT COPY
+[2020.11.10-14.30.49:951][465]Cmd: EDIT PASTE
+[2020.11.10-14.30.52:478][713]Cmd: TRANSACTION UNDO
+[2020.11.10-14.30.52:478][713]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.30.53:958][843]Cmd: TRANSACTION UNDO
+[2020.11.10-14.30.53:958][843]LogEditorTransaction: Undo Paste
+[2020.11.10-14.30.55:881][ 68]Cmd: TRANSACTION UNDO
+[2020.11.10-14.30.55:881][ 68]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.31.03:999][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table03)
+[2020.11.10-14.31.20:653][971]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Sink2)
+[2020.11.10-14.31.24:080][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Box10)
+[2020.11.10-14.31.30:676][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table03)
+[2020.11.10-14.31.41:707][328]LogActorFactory: Actor Factory created SM_Chair03
+[2020.11.10-14.31.43:969][586]LogActorFactory: Actor Factory created SM_Chair03
+[2020.11.10-14.31.47:459][999]Cmd: TRANSACTION UNDO
+[2020.11.10-14.31.47:459][999]LogEditorTransaction: Undo Scale Actors
+[2020.11.10-14.32.03:955][870]Cmd: TRANSACTION UNDO
+[2020.11.10-14.32.03:955][870]LogEditorTransaction: Undo Create Actors
+[2020.11.10-14.32.05:973][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair12)
+[2020.11.10-14.32.08:786][389]Cmd: DELETE
+[2020.11.10-14.32.08:786][389]Cmd: ACTOR DELETE
+[2020.11.10-14.32.08:790][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.32.08:807][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.11.10-14.32.08:814][389]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.11.10-14.32.22:173][956]Cmd: EDIT COPY
+[2020.11.10-14.32.22:631][ 10]Cmd: EDIT PASTE
+[2020.11.10-14.32.23:701][136]LogEditorViewport: Clicking on Actor (LMB): BP_ClimbableCube_C (BP_ClimbableCube12)
+[2020.11.10-14.32.26:593][479]LogEditorViewport: Clicking on Actor (context menu): BP_ClimbableCube_C (BP_ClimbableCube12)
+[2020.11.10-14.33.14:495][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.11.10-14.33.14:659][122]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Level_Auto28E2ED84B4A07BDCAD05536B7227A1A34.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Autosaves/Game/Théo/Level_Auto2.umap'
+[2020.11.10-14.33.14:664][122]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Théo/Level' took 0.185
+[2020.11.10-14.33.14:664][122]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2020.11.10-14.33.20:582][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table03)
+[2020.11.10-14.33.21:264][817]Cmd: DELETE
+[2020.11.10-14.33.21:264][817]Cmd: ACTOR DELETE
+[2020.11.10-14.33.21:268][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.33.21:281][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.11.10-14.33.21:283][817]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.10-14.33.22:441][948]LogActorFactory: Actor Factory created SM_Chair02
+[2020.11.10-14.33.23:201][ 33]LogActorFactory: Actor Factory created SM_Chair02
+[2020.11.10-14.33.40:683][ 45]Cmd: EDIT COPY
+[2020.11.10-14.33.40:936][ 75]Cmd: EDIT PASTE
+[2020.11.10-14.33.40:944][ 75]Cmd: EDIT COPY
+[2020.11.10-14.33.49:169][ 52]Cmd: EDIT COPY
+[2020.11.10-14.33.49:439][ 84]Cmd: EDIT PASTE
+[2020.11.10-14.34.20:047][639]Cmd: EDIT COPY
+[2020.11.10-14.34.20:420][671]Cmd: EDIT PASTE
+[2020.11.10-14.34.25:508][236]Cmd: EDIT COPY
+[2020.11.10-14.34.25:895][282]Cmd: EDIT PASTE
+[2020.11.10-14.34.36:408][495]Cmd: EDIT COPY
+[2020.11.10-14.34.36:740][534]Cmd: EDIT PASTE
+[2020.11.10-14.34.41:554][ 30]Cmd: EDIT COPY
+[2020.11.10-14.34.52:031][252]Cmd: EDIT COPY
+[2020.11.10-14.34.52:841][349]Cmd: EDIT PASTE
+[2020.11.10-14.35.01:727][373]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Chair11)
+[2020.11.10-14.35.01:847][382]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Chair11)
+[2020.11.10-14.35.07:875][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Level" FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.10-14.35.07:898][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.11.10-14.35.08:052][ 71]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/LevelFFEEFB4843B8C6E9312380B0985004CD.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap'
+[2020.11.10-14.35.08:112][ 71]AssetCheck: New page: Asset Save: Level
+[2020.11.10-14.35.08:112][ 71]LogContentValidation: Display: Validating World /Game/Théo/Level.Level
+[2020.11.10-14.35.55:383][267]Cmd: EDIT COPY
+[2020.11.10-14.35.55:711][306]Cmd: EDIT PASTE
+[2020.11.10-14.36.50:364][594]Cmd: EDIT COPY
+[2020.11.10-14.36.50:714][633]Cmd: EDIT PASTE
+[2020.11.10-14.36.50:744][634]Cmd: EDIT COPY
+[2020.11.10-14.37.04:759][299]LogEditorViewport: Clicking on Actor (LMB): BP_ClimbableCube_C (BP_ClimbableCube26)
+[2020.11.10-14.37.05:463][381]Cmd: EDIT COPY
+[2020.11.10-14.37.05:828][424]Cmd: EDIT PASTE
+[2020.11.10-14.37.19:830][ 49]Cmd: EDIT COPY
+[2020.11.10-14.37.20:191][ 92]Cmd: EDIT PASTE
+[2020.11.10-14.37.32:132][467]Cmd: DELETE
+[2020.11.10-14.37.32:132][467]Cmd: ACTOR DELETE
+[2020.11.10-14.37.32:137][467]LogEditorActor: Deleted Actor: BP_ClimbableCube_C
+[2020.11.10-14.37.32:158][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.11.10-14.37.32:166][467]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.11.10-14.37.33:525][630]LogEditorViewport: Clicking on Actor (LMB): BP_ClimbableCube_C (BP_ClimbableCube26)
+[2020.11.10-14.37.33:970][681]Cmd: EDIT COPY
+[2020.11.10-14.37.34:283][718]Cmd: EDIT PASTE
+[2020.11.10-14.37.51:726][792]Cmd: EDIT COPY
+[2020.11.10-14.37.51:954][819]Cmd: EDIT PASTE
+[2020.11.10-14.37.57:778][492]LogEditorViewport: Clicking on Actor (LMB): BP_ClimbableCube_C (BP_ClimbableCube29)
+[2020.11.10-14.38.02:259][ 16]LogEditorViewport: Clicking on Actor (LMB): BP_ClimbableCube_C (BP_ClimbableCube25)
+[2020.11.10-14.38.03:695][186]LogEditorViewport: Clicking on Actor (LMB): BP_ClimbableCube_C (BP_ClimbableCube31)
+[2020.11.10-14.38.03:914][210]Cmd: EDIT COPY
+[2020.11.10-14.38.04:367][264]Cmd: EDIT PASTE
+[2020.11.10-14.38.35:522][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Level" FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.10-14.38.35:539][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.11.10-14.38.35:702][888]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/LevelB3CDF5744E92DC921822F0B751EC85E4.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap'
+[2020.11.10-14.38.35:760][888]AssetCheck: New page: Asset Save: Level
+[2020.11.10-14.38.35:760][888]LogContentValidation: Display: Validating World /Game/Théo/Level.Level
+[2020.11.10-14.38.51:811][768]Cmd: EDIT COPY
+[2020.11.10-14.38.52:097][802]Cmd: EDIT PASTE
+[2020.11.10-14.38.57:640][325]Cmd: EDIT COPY
+[2020.11.10-14.38.57:894][355]Cmd: EDIT PASTE
+[2020.11.10-14.39.13:271][126]Cmd: EDIT COPY
+[2020.11.10-14.39.13:583][163]Cmd: EDIT PASTE
+[2020.11.10-14.39.31:222][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Level" FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.10-14.39.31:241][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.11.10-14.39.31:401][219]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Level4CC6A9EE4B9DD420ADF08FBB0261B11C.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap'
+[2020.11.10-14.39.31:458][219]AssetCheck: New page: Asset Save: Level
+[2020.11.10-14.39.31:458][219]LogContentValidation: Display: Validating World /Game/Théo/Level.Level
