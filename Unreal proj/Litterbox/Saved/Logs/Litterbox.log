@@ -2023,3 +2023,712 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.10-14.39.31:401][219]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Level4CC6A9EE4B9DD420ADF08FBB0261B11C.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap'
 [2020.11.10-14.39.31:458][219]AssetCheck: New page: Asset Save: Level
 [2020.11.10-14.39.31:458][219]LogContentValidation: Display: Validating World /Game/Théo/Level.Level
+[2020.11.10-14.43.46:534][400]LogActorFactory: Actor Factory created SM_CupShelf01
+[2020.11.10-14.43.47:182][471]LogActorFactory: Actor Factory created SM_CupShelf01
+[2020.11.10-14.43.47:479][503]Cmd: TRANSACTION UNDO
+[2020.11.10-14.43.47:479][503]LogEditorTransaction: Undo Create Actors
+[2020.11.10-14.43.49:891][708]LogActorFactory: Actor Factory created SM_Floor01
+[2020.11.10-14.43.51:466][861]LogActorFactory: Actor Factory created SM_Floor01
+[2020.11.10-14.43.53:518][ 92]Cmd: DELETE
+[2020.11.10-14.43.53:518][ 92]Cmd: ACTOR DELETE
+[2020.11.10-14.43.53:522][ 92]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.43.53:538][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.11.10-14.43.53:542][ 92]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.11.10-14.43.55:511][302]LogActorFactory: Actor Factory created SM_Floor01
+[2020.11.10-14.43.56:413][391]LogActorFactory: Actor Factory created SM_Floor01
+[2020.11.10-14.44.10:305][  4]Cmd: EDIT COPY
+[2020.11.10-14.44.10:647][ 44]Cmd: EDIT PASTE
+[2020.11.10-14.44.25:582][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor01)
+[2020.11.10-14.44.26:532][843]Cmd: EDIT COPY
+[2020.11.10-14.44.26:898][886]Cmd: EDIT PASTE
+[2020.11.10-14.44.32:960][605]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.11.10-14.44.41:591][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2020.11.10-14.44.42:023][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor01)
+[2020.11.10-14.44.42:935][746]Cmd: EDIT COPY
+[2020.11.10-14.44.43:278][787]Cmd: EDIT PASTE
+[2020.11.10-14.44.48:060][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2020.11.10-14.44.50:717][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4)
+[2020.11.10-14.44.54:183][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2020.11.10-14.44.56:277][264]Cmd: MODE GRID=0
+[2020.11.10-14.45.00:813][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4)
+[2020.11.10-14.45.05:719][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2020.11.10-14.45.06:215][417]Cmd: EDIT COPY
+[2020.11.10-14.45.06:517][453]Cmd: EDIT PASTE
+[2020.11.10-14.45.09:992][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2020.11.10-14.45.10:600][887]Cmd: EDIT COPY
+[2020.11.10-14.45.10:876][920]Cmd: EDIT PASTE
+[2020.11.10-14.45.20:696][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2)
+[2020.11.10-14.45.28:248][793]Cmd: TRANSACTION UNDO
+[2020.11.10-14.45.28:248][793]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.45.29:201][859]Cmd: EDIT COPY
+[2020.11.10-14.45.29:612][907]Cmd: EDIT PASTE
+[2020.11.10-14.45.38:458][897]Cmd: EDIT COPY
+[2020.11.10-14.45.38:878][947]Cmd: EDIT PASTE
+[2020.11.10-14.46.00:639][413]Cmd: TRANSACTION UNDO
+[2020.11.10-14.46.00:639][413]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.46.00:887][419]Cmd: TRANSACTION UNDO
+[2020.11.10-14.46.00:887][419]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.46.01:116][424]Cmd: TRANSACTION UNDO
+[2020.11.10-14.46.01:116][424]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.46.01:249][434]Cmd: TRANSACTION UNDO
+[2020.11.10-14.46.01:249][434]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.46.01:440][456]Cmd: TRANSACTION UNDO
+[2020.11.10-14.46.01:440][456]LogEditorTransaction: Undo Rotate Actors
+[2020.11.10-14.46.01:633][475]Cmd: TRANSACTION UNDO
+[2020.11.10-14.46.01:633][475]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.46.01:825][496]Cmd: TRANSACTION UNDO
+[2020.11.10-14.46.01:825][496]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.46.02:036][519]Cmd: TRANSACTION UNDO
+[2020.11.10-14.46.02:036][519]LogEditorTransaction: Undo Paste
+[2020.11.10-14.46.02:232][537]Cmd: TRANSACTION UNDO
+[2020.11.10-14.46.02:232][537]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.46.03:511][688]Cmd: TRANSACTION UNDO
+[2020.11.10-14.46.03:511][688]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.46.12:041][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor9)
+[2020.11.10-14.46.13:099][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor8)
+[2020.11.10-14.46.14:279][949]Cmd: DELETE
+[2020.11.10-14.46.14:279][949]Cmd: ACTOR DELETE
+[2020.11.10-14.46.14:283][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.46.14:297][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.11.10-14.46.14:305][949]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.11.10-14.46.15:290][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2)
+[2020.11.10-14.46.16:177][170]Cmd: DELETE
+[2020.11.10-14.46.16:177][170]Cmd: ACTOR DELETE
+[2020.11.10-14.46.16:181][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.46.16:195][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.11.10-14.46.16:197][170]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.10-14.46.17:013][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor9)
+[2020.11.10-14.46.18:268][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor12)
+[2020.11.10-14.46.18:588][450]Cmd: DELETE
+[2020.11.10-14.46.18:588][450]Cmd: ACTOR DELETE
+[2020.11.10-14.46.18:592][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.46.18:606][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.10-14.46.18:608][450]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.10-14.46.20:184][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor6)
+[2020.11.10-14.46.21:263][765]Cmd: DELETE
+[2020.11.10-14.46.21:263][765]Cmd: ACTOR DELETE
+[2020.11.10-14.46.21:267][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.46.21:281][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.11.10-14.46.21:282][765]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.10-14.46.22:174][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor9)
+[2020.11.10-14.46.23:311][  5]Cmd: DELETE
+[2020.11.10-14.46.23:311][  5]Cmd: ACTOR DELETE
+[2020.11.10-14.46.23:316][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.46.23:327][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.11.10-14.46.23:329][  5]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.11.10-14.46.23:971][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor11)
+[2020.11.10-14.46.24:200][106]Cmd: DELETE
+[2020.11.10-14.46.24:200][106]Cmd: ACTOR DELETE
+[2020.11.10-14.46.24:205][106]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.46.24:219][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.10-14.46.24:220][106]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.10-14.46.24:608][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor10)
+[2020.11.10-14.46.24:788][170]Cmd: DELETE
+[2020.11.10-14.46.24:788][170]Cmd: ACTOR DELETE
+[2020.11.10-14.46.24:792][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.46.24:806][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.10-14.46.24:807][170]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.10-14.46.25:452][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor01)
+[2020.11.10-14.46.25:631][265]Cmd: DELETE
+[2020.11.10-14.46.25:631][265]Cmd: ACTOR DELETE
+[2020.11.10-14.46.25:636][265]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.46.25:649][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.11.10-14.46.25:650][265]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.10-14.46.26:408][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor7)
+[2020.11.10-14.46.28:861][636]Cmd: EDIT COPY
+[2020.11.10-14.46.29:217][678]Cmd: EDIT PASTE
+[2020.11.10-14.46.32:934][ 70]Cmd: EDIT COPY
+[2020.11.10-14.46.33:281][111]Cmd: EDIT PASTE
+[2020.11.10-14.46.37:428][538]Cmd: EDIT COPY
+[2020.11.10-14.46.37:762][575]Cmd: EDIT PASTE
+[2020.11.10-14.46.41:149][916]Cmd: EDIT COPY
+[2020.11.10-14.46.41:570][955]Cmd: EDIT PASTE
+[2020.11.10-14.46.45:304][336]Cmd: EDIT COPY
+[2020.11.10-14.46.45:670][365]Cmd: EDIT PASTE
+[2020.11.10-14.46.49:574][777]Cmd: EDIT COPY
+[2020.11.10-14.46.49:579][777]Cmd: EDIT CUT
+[2020.11.10-14.46.49:587][777]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.46.49:587][777]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.46.49:587][777]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.46.49:588][777]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.46.49:602][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.11.10-14.46.49:607][777]LogEditorActor: Deleted 4 Actors (0.025 secs)
+[2020.11.10-14.46.52:101][ 75]Cmd: TRANSACTION UNDO
+[2020.11.10-14.46.52:101][ 75]LogEditorTransaction: Undo Cut
+[2020.11.10-14.46.53:056][141]Cmd: EDIT COPY
+[2020.11.10-14.46.53:416][184]Cmd: EDIT PASTE
+[2020.11.10-14.47.01:909][ 65]Cmd: EDIT COPY
+[2020.11.10-14.47.02:198][ 99]Cmd: EDIT PASTE
+[2020.11.10-14.47.08:998][778]Cmd: EDIT COPY
+[2020.11.10-14.47.09:320][816]Cmd: EDIT PASTE
+[2020.11.10-14.47.13:617][313]Cmd: EDIT COPY
+[2020.11.10-14.47.13:936][347]Cmd: EDIT PASTE
+[2020.11.10-14.47.23:265][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4)
+[2020.11.10-14.47.26:139][720]Cmd: EDIT COPY
+[2020.11.10-14.47.26:486][761]Cmd: EDIT PASTE
+[2020.11.10-14.47.32:367][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor9)
+[2020.11.10-14.47.32:847][468]Cmd: EDIT COPY
+[2020.11.10-14.47.33:186][508]Cmd: EDIT PASTE
+[2020.11.10-14.47.36:529][855]Cmd: EDIT COPY
+[2020.11.10-14.47.36:801][886]Cmd: EDIT PASTE
+[2020.11.10-14.47.40:512][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor46)
+[2020.11.10-14.47.42:795][537]Cmd: EDIT COPY
+[2020.11.10-14.47.43:093][572]Cmd: EDIT PASTE
+[2020.11.10-14.47.46:590][938]Cmd: TRANSACTION UNDO
+[2020.11.10-14.47.46:590][938]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.47.48:061][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor50)
+[2020.11.10-14.47.49:066][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor47)
+[2020.11.10-14.47.51:034][408]Cmd: EDIT COPY
+[2020.11.10-14.47.51:305][440]Cmd: EDIT PASTE
+[2020.11.10-14.47.57:433][114]Cmd: EDIT COPY
+[2020.11.10-14.47.57:745][144]Cmd: EDIT PASTE
+[2020.11.10-14.48.01:019][478]Cmd: EDIT COPY
+[2020.11.10-14.48.01:350][517]Cmd: EDIT PASTE
+[2020.11.10-14.48.05:458][  1]Cmd: TRANSACTION UNDO
+[2020.11.10-14.48.05:458][  1]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.48.06:734][106]Cmd: TRANSACTION UNDO
+[2020.11.10-14.48.06:734][106]LogEditorTransaction: Undo Paste
+[2020.11.10-14.48.13:225][861]Cmd: EDIT COPY
+[2020.11.10-14.48.14:672][ 34]Cmd: TRANSACTION UNDO
+[2020.11.10-14.48.14:672][ 34]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.48.14:936][ 41]Cmd: TRANSACTION UNDO
+[2020.11.10-14.48.14:936][ 41]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.48.15:210][ 51]Cmd: TRANSACTION UNDO
+[2020.11.10-14.48.15:210][ 51]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.48.15:465][ 81]Cmd: TRANSACTION UNDO
+[2020.11.10-14.48.15:465][ 81]LogEditorTransaction: Undo Paste
+[2020.11.10-14.48.15:805][116]Cmd: TRANSACTION UNDO
+[2020.11.10-14.48.15:805][116]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.48.18:233][399]Cmd: EDIT COPY
+[2020.11.10-14.48.18:541][435]Cmd: EDIT PASTE
+[2020.11.10-14.48.24:228][ 61]Cmd: EDIT COPY
+[2020.11.10-14.48.24:533][ 97]Cmd: EDIT PASTE
+[2020.11.10-14.48.29:324][616]Cmd: EDIT COPY
+[2020.11.10-14.48.29:651][648]Cmd: EDIT PASTE
+[2020.11.10-14.48.32:270][894]Cmd: EDIT COPY
+[2020.11.10-14.48.32:620][935]Cmd: EDIT PASTE
+[2020.11.10-14.48.40:000][794]Cmd: EDIT COPY
+[2020.11.10-14.48.40:314][831]Cmd: EDIT PASTE
+[2020.11.10-14.48.46:502][491]Cmd: EDIT COPY
+[2020.11.10-14.48.46:899][538]Cmd: EDIT PASTE
+[2020.11.10-14.48.49:727][823]Cmd: EDIT COPY
+[2020.11.10-14.48.50:092][866]Cmd: EDIT PASTE
+[2020.11.10-14.48.57:550][695]Cmd: TRANSACTION UNDO
+[2020.11.10-14.48.57:550][695]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.48.58:148][718]Cmd: TRANSACTION UNDO
+[2020.11.10-14.48.58:148][718]LogEditorTransaction: Undo Paste
+[2020.11.10-14.48.59:148][830]Cmd: TRANSACTION UNDO
+[2020.11.10-14.48.59:148][830]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.49.08:596][867]Cmd: EDIT COPY
+[2020.11.10-14.49.08:901][903]Cmd: EDIT PASTE
+[2020.11.10-14.49.14:875][559]Cmd: EDIT COPY
+[2020.11.10-14.49.19:474][ 89]Cmd: EDIT COPY
+[2020.11.10-14.49.19:819][129]Cmd: EDIT PASTE
+[2020.11.10-14.49.28:530][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor54)
+[2020.11.10-14.49.35:753][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor43)
+[2020.11.10-14.49.39:133][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor44)
+[2020.11.10-14.49.43:100][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor54)
+[2020.11.10-14.49.56:770][181]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor76)
+[2020.11.10-14.49.57:189][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor76)
+[2020.11.10-14.50.18:109][620]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor61)
+[2020.11.10-14.50.26:100][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor43)
+[2020.11.10-14.50.26:983][566]Cmd: DELETE
+[2020.11.10-14.50.26:983][566]Cmd: ACTOR DELETE
+[2020.11.10-14.50.26:987][566]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.50.27:003][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.11.10-14.50.27:010][566]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.11.10-14.50.28:212][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor5)
+[2020.11.10-14.50.29:186][819]Cmd: DELETE
+[2020.11.10-14.50.29:186][819]Cmd: ACTOR DELETE
+[2020.11.10-14.50.29:190][819]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.50.29:204][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.11.10-14.50.29:206][819]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.10-14.50.30:304][951]Cmd: TRANSACTION UNDO
+[2020.11.10-14.50.30:304][951]LogEditorTransaction: Undo Delete Actors
+[2020.11.10-14.50.33:904][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor50)
+[2020.11.10-14.50.43:508][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor5)
+[2020.11.10-14.50.45:684][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor51)
+[2020.11.10-14.50.47:256][883]Cmd: EDIT COPY
+[2020.11.10-14.50.47:524][913]Cmd: EDIT PASTE
+[2020.11.10-14.50.58:284][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor54)
+[2020.11.10-14.51.16:131][115]Cmd: EDIT COPY
+[2020.11.10-14.51.16:539][163]Cmd: EDIT PASTE
+[2020.11.10-14.51.32:745][ 35]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.32:745][ 35]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.32:904][ 39]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.32:904][ 39]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.33:024][ 41]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.33:024][ 41]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.33:191][ 44]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.33:191][ 44]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.33:291][ 46]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.33:291][ 46]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.33:438][ 60]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.33:438][ 60]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.33:553][ 71]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.33:553][ 71]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.33:684][ 84]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.33:684][ 84]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.33:815][ 97]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.33:815][ 97]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.33:946][110]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.33:946][110]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.34:062][121]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.34:062][121]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.35:084][241]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.35:084][241]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.35:331][268]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.35:331][268]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.35:470][282]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.35:470][282]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.35:609][296]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.35:609][296]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.35:747][310]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.35:747][310]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.35:845][319]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.35:845][319]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.36:225][361]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.36:225][361]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.36:363][375]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.36:363][375]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.36:492][388]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.36:492][388]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.36:605][399]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.36:606][399]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.36:726][411]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.36:726][411]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.36:858][425]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.36:858][425]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.36:993][436]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.36:993][436]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.37:126][447]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.37:126][447]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.37:256][460]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.37:256][460]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.37:373][472]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.37:373][472]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.37:510][485]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.37:510][485]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.37:627][499]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.37:627][499]LogEditorTransaction: Undo Delete Actors
+[2020.11.10-14.51.37:769][511]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.37:769][511]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.37:888][521]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.37:888][521]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.38:041][537]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.38:041][537]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.38:180][550]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.38:180][550]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.38:310][563]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.38:310][563]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.38:457][578]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.38:457][578]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.38:587][591]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.38:587][591]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.38:717][604]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.38:717][604]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.38:847][617]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.38:847][617]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.38:996][630]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.38:996][630]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.39:145][643]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.39:145][643]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.39:292][658]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.39:292][658]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.39:432][672]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.39:432][672]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.39:584][687]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.39:584][687]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.39:722][699]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.39:722][699]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.39:861][713]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.39:861][713]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.39:992][726]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.39:992][726]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.40:139][741]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.40:139][741]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.40:298][757]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.40:298][757]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.40:437][771]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.40:437][771]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.40:576][785]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.40:576][785]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.40:723][800]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.40:723][800]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.40:873][814]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.40:873][814]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.41:005][826]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.41:005][826]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.41:170][843]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.41:170][843]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.41:317][858]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.41:317][858]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.41:447][871]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.41:447][871]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.41:607][885]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.41:607][885]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.41:761][901]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.41:761][901]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.41:896][914]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.41:896][914]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.42:060][932]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.42:061][932]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.42:197][945]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.42:197][945]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.42:346][961]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.42:347][961]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.42:489][973]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.42:489][973]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.42:628][987]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.42:628][987]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.42:779][  3]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.42:780][  3]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.42:926][ 15]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.42:926][ 15]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.43:071][ 30]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.43:071][ 30]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.43:218][ 43]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.43:218][ 43]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.43:372][ 60]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.43:372][ 60]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.43:518][ 73]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.43:518][ 73]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.43:678][ 91]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.43:678][ 91]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.43:836][104]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.43:836][104]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.44:005][123]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.44:005][123]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.44:150][140]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.44:150][140]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.44:310][154]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.44:310][154]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.44:464][170]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.44:464][170]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.44:619][183]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.44:619][183]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.44:780][201]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.44:780][201]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.44:943][215]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.44:943][215]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.45:088][230]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.45:088][230]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.45:252][245]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.45:252][245]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.45:406][260]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.45:406][260]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.45:559][274]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.45:559][274]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.45:730][292]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.45:730][292]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.45:892][309]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.45:892][309]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.46:057][326]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.46:057][326]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.46:212][340]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.46:212][340]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.46:361][354]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.46:361][354]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.46:516][370]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.46:516][370]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.46:678][387]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.46:678][387]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.46:834][403]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.46:834][403]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.46:995][422]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.46:995][422]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.47:161][436]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.47:161][436]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.47:298][450]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.47:298][450]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.47:460][464]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.47:461][464]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.47:611][478]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.47:611][478]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.47:774][495]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.47:774][495]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.47:938][510]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.47:938][510]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.48:093][524]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.48:094][524]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.10-14.51.48:249][540]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.48:249][540]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.48:416][558]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.48:416][558]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.48:578][577]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.48:578][577]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.48:731][589]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.48:731][589]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.48:891][606]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.48:892][606]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.49:047][620]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.49:047][620]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.49:209][637]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.49:209][637]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.49:363][655]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.49:363][655]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.49:532][669]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.49:532][669]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.49:692][686]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.49:692][686]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.49:870][707]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.49:870][707]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.50:032][726]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.50:032][726]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.50:198][740]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.50:198][740]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.50:360][757]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.50:360][757]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.50:534][773]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.50:534][773]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.50:701][791]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.50:701][791]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.50:865][805]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.50:865][805]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.51:036][823]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.51:036][823]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.51:199][837]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.51:199][837]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.51:377][856]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.51:377][856]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.51:567][874]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.51:567][874]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.51.56:611][476]Cmd: TRANSACTION UNDO
+[2020.11.10-14.51.56:611][476]LogEditorTransaction: Undo Paste
+[2020.11.10-14.51.57:477][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor5)
+[2020.11.10-14.51.58:669][670]Cmd: DELETE
+[2020.11.10-14.51.58:669][670]Cmd: ACTOR DELETE
+[2020.11.10-14.51.58:674][670]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.10-14.51.58:688][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.10-14.51.58:695][670]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.11.10-14.51.59:928][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor7)
+[2020.11.10-14.52.03:403][176]Cmd: TRANSACTION UNDO
+[2020.11.10-14.52.03:403][176]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.52.04:250][229]Cmd: EDIT COPY
+[2020.11.10-14.52.04:603][270]Cmd: EDIT PASTE
+[2020.11.10-14.52.10:140][879]Cmd: TRANSACTION UNDO
+[2020.11.10-14.52.10:140][879]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.52.11:131][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor6)
+[2020.11.10-14.52.12:557][115]Cmd: EDIT COPY
+[2020.11.10-14.52.12:905][156]Cmd: EDIT PASTE
+[2020.11.10-14.52.15:621][429]Cmd: EDIT COPY
+[2020.11.10-14.52.16:151][491]Cmd: EDIT PASTE
+[2020.11.10-14.52.19:960][891]Cmd: EDIT COPY
+[2020.11.10-14.52.20:248][914]Cmd: EDIT PASTE
+[2020.11.10-14.52.22:787][164]Cmd: EDIT COPY
+[2020.11.10-14.52.23:126][204]Cmd: EDIT PASTE
+[2020.11.10-14.52.29:023][828]Cmd: EDIT COPY
+[2020.11.10-14.52.29:338][865]Cmd: EDIT PASTE
+[2020.11.10-14.52.32:820][274]Cmd: EDIT COPY
+[2020.11.10-14.52.33:134][311]Cmd: EDIT PASTE
+[2020.11.10-14.52.36:699][680]Cmd: EDIT COPY
+[2020.11.10-14.52.37:027][704]Cmd: EDIT PASTE
+[2020.11.10-14.52.41:793][191]Cmd: EDIT COPY
+[2020.11.10-14.52.42:092][226]Cmd: EDIT PASTE
+[2020.11.10-14.52.47:572][760]Cmd: EDIT COPY
+[2020.11.10-14.52.47:828][783]Cmd: EDIT PASTE
+[2020.11.10-14.52.51:741][172]Cmd: EDIT COPY
+[2020.11.10-14.52.52:011][194]Cmd: EDIT PASTE
+[2020.11.10-14.53.03:251][379]Cmd: EDIT COPY
+[2020.11.10-14.53.03:543][402]Cmd: EDIT PASTE
+[2020.11.10-14.53.06:891][740]Cmd: EDIT COPY
+[2020.11.10-14.53.07:320][789]Cmd: EDIT PASTE
+[2020.11.10-14.53.10:517][119]Cmd: EDIT COPY
+[2020.11.10-14.53.10:898][164]Cmd: EDIT PASTE
+[2020.11.10-14.53.29:677][301]Cmd: EDIT COPY
+[2020.11.10-14.53.30:073][347]Cmd: EDIT PASTE
+[2020.11.10-14.53.35:333][886]Cmd: EDIT COPY
+[2020.11.10-14.53.35:734][933]Cmd: EDIT PASTE
+[2020.11.10-14.53.41:443][498]Cmd: EDIT COPY
+[2020.11.10-14.53.41:771][529]Cmd: EDIT PASTE
+[2020.11.10-14.53.46:101][954]Cmd: EDIT COPY
+[2020.11.10-14.53.47:206][ 84]Cmd: EDIT PASTE
+[2020.11.10-14.54.59:354][276]EditorErrors: New page: Actor attachment
+[2020.11.10-14.55.03:980][745]Cmd: TRANSACTION UNDO
+[2020.11.10-14.55.03:980][745]LogEditorTransaction: Undo Move Actors
+[2020.11.10-14.55.16:976][170]Cmd: DELETE
+[2020.11.10-14.55.16:976][170]Cmd: ACTOR DELETE
+[2020.11.10-14.55.16:982][170]LogEditorActor: Deleted Actor: Brush
+[2020.11.10-14.55.16:999][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.11.10-14.55.17:011][170]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.11.10-14.55.28:139][477]LogTemp: Repeating last play command: Simulate
+[2020.11.10-14.55.28:152][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.10-14.55.28:152][477]PIE: New page: SIE session: Level (10 nov. 2020 à 16:55:28)
+[2020.11.10-14.55.28:152][477]LogPlayLevel: Creating play world package: /Game/Théo/UEDPIE_0_Level
+[2020.11.10-14.55.28:178][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026237s)
+[2020.11.10-14.55.28:179][477]LogAIModule: Creating AISystem for world Level
+[2020.11.10-14.55.28:179][477]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023CC91DF000), frame # 503477
+[2020.11.10-14.55.28:179][477]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023C152756C0), frame # 503477
+[2020.11.10-14.55.28:179][477]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2020.11.10-14.55.28:179][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Théo/Level.Level to /Game/Théo/UEDPIE_0_Level.Level (0.027253s)
+[2020.11.10-14.55.28:193][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.11.10-14.55.28:195][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-14.55.28:195][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-14.55.28:195][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-14.55.28:195][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-14.55.28:195][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-14.55.28:195][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-14.55.28:195][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-14.55.28:195][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-14.55.28:196][477]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-14.55.28:196][477]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-14.55.28:206][477]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-14.55.28:206][477]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-14.55.28:206][477]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.10-14.55.28:206][477]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.10-14.55.28:206][477]LogAudioMixer: Display: 4: BackLeft
+[2020.11.10-14.55.28:206][477]LogAudioMixer: Display: 5: BackRight
+[2020.11.10-14.55.28:206][477]LogAudioMixer: Display: 6: SideLeft
+[2020.11.10-14.55.28:206][477]LogAudioMixer: Display: 7: SideRight
+[2020.11.10-14.55.28:503][477]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (CORSAIR VOID PRO USB Gaming Headset)
+[2020.11.10-14.55.28:503][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-14.55.28:504][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-14.55.28:504][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-14.55.28:504][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-14.55.28:506][477]LogInit: FAudioDevice initialized.
+[2020.11.10-14.55.28:516][477]LogLoad: Game class is 'GameModeBase'
+[2020.11.10-14.55.28:524][477]LogWorld: Bringing World /Game/Théo/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2020.11.10-15.55.28
+[2020.11.10-14.55.28:525][477]LogWorld: Bringing up level for play took: 0.007826
+[2020.11.10-14.55.28:525][477]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.11.10-14.55.28:527][477]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.10-14.55.28:543][477]PIE: Server logged in
+[2020.11.10-14.55.28:543][477]PIE: Play in editor total start time 0,394 seconds.
+[2020.11.10-14.55.31:666][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-14.55.31:666][814]LogWorld: BeginTearingDown for /Game/Théo/UEDPIE_0_Level
+[2020.11.10-14.55.31:666][814]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-14.55.31:667][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-14.55.31:673][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.10-14.55.31:675][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-14.55.31:690][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-14.55.31:707][814]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023C152756C0), frame # 503814
+[2020.11.10-14.55.31:707][814]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023CC91DF000), frame # 503814
+[2020.11.10-14.55.31:709][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.11.10-14.55.31:733][815]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.11.10-14.55.32:470][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor79)
+[2020.11.10-14.55.55:130][559]LogTemp: Repeating last play command: Simulate
+[2020.11.10-14.55.55:143][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.10-14.55.55:144][559]PIE: New page: SIE session: Level (10 nov. 2020 à 16:55:55)
+[2020.11.10-14.55.55:144][559]LogPlayLevel: Creating play world package: /Game/Théo/UEDPIE_0_Level
+[2020.11.10-14.55.55:170][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026600s)
+[2020.11.10-14.55.55:171][559]LogAIModule: Creating AISystem for world Level
+[2020.11.10-14.55.55:171][559]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023C1408EE00), frame # 506559
+[2020.11.10-14.55.55:171][559]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023C9BD83600), frame # 506559
+[2020.11.10-14.55.55:171][559]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2020.11.10-14.55.55:171][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Théo/Level.Level to /Game/Théo/UEDPIE_0_Level.Level (0.027505s)
+[2020.11.10-14.55.55:185][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.11.10-14.55.55:190][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-14.55.55:190][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-14.55.55:190][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-14.55.55:190][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-14.55.55:190][559]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-14.55.55:190][559]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-14.55.55:190][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-14.55.55:190][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-14.55.55:190][559]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-14.55.55:190][559]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-14.55.55:199][559]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-14.55.55:199][559]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-14.55.55:199][559]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.10-14.55.55:199][559]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.10-14.55.55:199][559]LogAudioMixer: Display: 4: BackLeft
+[2020.11.10-14.55.55:199][559]LogAudioMixer: Display: 5: BackRight
+[2020.11.10-14.55.55:199][559]LogAudioMixer: Display: 6: SideLeft
+[2020.11.10-14.55.55:199][559]LogAudioMixer: Display: 7: SideRight
+[2020.11.10-14.55.55:490][559]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (CORSAIR VOID PRO USB Gaming Headset)
+[2020.11.10-14.55.55:490][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-14.55.55:490][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-14.55.55:490][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-14.55.55:490][559]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-14.55.55:492][559]LogInit: FAudioDevice initialized.
+[2020.11.10-14.55.55:500][559]LogLoad: Game class is 'GameModeBase'
+[2020.11.10-14.55.55:508][559]LogWorld: Bringing World /Game/Théo/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2020.11.10-15.55.55
+[2020.11.10-14.55.55:509][559]LogWorld: Bringing up level for play took: 0.007762
+[2020.11.10-14.55.55:509][559]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.11.10-14.55.55:511][559]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.10-14.55.55:513][559]PIE: Server logged in
+[2020.11.10-14.55.55:513][559]PIE: Play in editor total start time 0,372 seconds.
+[2020.11.10-14.56.00:806][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-14.56.00:806][170]LogWorld: BeginTearingDown for /Game/Théo/UEDPIE_0_Level
+[2020.11.10-14.56.00:806][170]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-14.56.00:807][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-14.56.00:817][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.10-14.56.00:819][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-14.56.00:834][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-14.56.00:849][170]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023C9BD83600), frame # 507170
+[2020.11.10-14.56.00:849][170]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023C1408EE00), frame # 507170
+[2020.11.10-14.56.00:851][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.11.10-14.56.00:874][171]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.11.10-14.56.08:175][ 24]LogTemp: Repeating last play command: Simulate
+[2020.11.10-14.56.08:187][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.10-14.56.08:187][ 24]PIE: New page: SIE session: Level (10 nov. 2020 à 16:56:08)
+[2020.11.10-14.56.08:214][ 24]LogPlayLevel: Creating play world package: /Game/Théo/UEDPIE_0_Level
+[2020.11.10-14.56.08:241][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027156s)
+[2020.11.10-14.56.08:242][ 24]LogAIModule: Creating AISystem for world Level
+[2020.11.10-14.56.08:242][ 24]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023C15240600), frame # 508024
+[2020.11.10-14.56.08:242][ 24]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023C15274F40), frame # 508024
+[2020.11.10-14.56.08:242][ 24]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2020.11.10-14.56.08:242][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Théo/Level.Level to /Game/Théo/UEDPIE_0_Level.Level (0.028165s)
+[2020.11.10-14.56.08:257][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.11.10-14.56.08:259][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-14.56.08:259][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-14.56.08:259][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-14.56.08:259][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-14.56.08:259][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-14.56.08:259][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-14.56.08:259][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-14.56.08:259][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-14.56.08:260][ 24]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-14.56.08:260][ 24]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-14.56.08:271][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-14.56.08:271][ 24]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-14.56.08:272][ 24]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.10-14.56.08:272][ 24]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.10-14.56.08:272][ 24]LogAudioMixer: Display: 4: BackLeft
+[2020.11.10-14.56.08:272][ 24]LogAudioMixer: Display: 5: BackRight
+[2020.11.10-14.56.08:272][ 24]LogAudioMixer: Display: 6: SideLeft
+[2020.11.10-14.56.08:272][ 24]LogAudioMixer: Display: 7: SideRight
+[2020.11.10-14.56.08:569][ 24]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (CORSAIR VOID PRO USB Gaming Headset)
+[2020.11.10-14.56.08:570][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-14.56.08:570][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-14.56.08:570][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-14.56.08:570][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-14.56.08:571][ 24]LogInit: FAudioDevice initialized.
+[2020.11.10-14.56.08:578][ 24]LogLoad: Game class is 'GameModeBase'
+[2020.11.10-14.56.08:586][ 24]LogWorld: Bringing World /Game/Théo/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2020.11.10-15.56.08
+[2020.11.10-14.56.08:586][ 24]LogWorld: Bringing up level for play took: 0.007704
+[2020.11.10-14.56.08:586][ 24]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.11.10-14.56.08:588][ 24]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.10-14.56.08:590][ 24]PIE: Server logged in
+[2020.11.10-14.56.08:591][ 24]PIE: Play in editor total start time 0,406 seconds.
+[2020.11.10-14.56.16:656][951]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor91)
+[2020.11.10-14.56.17:129][  1]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor64)
+[2020.11.10-14.56.24:638][786]LogMaterial: Display: Missing cached shader map for material T_Carpet06_Mat, compiling. 
+[2020.11.10-14.56.24:650][786]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.11.10-14.56.24:650][786]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.11.10-14.56.24:650][786]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.11.10-14.56.24:650][786]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.11.10-14.56.30:562][306]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Lamp06)
+[2020.11.10-14.56.41:668][548]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Box7)
+[2020.11.10-14.57.13:933][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Level" FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.10-14.57.13:950][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.11.10-14.57.14:147][180]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/LevelE5EE692C4A53B058431383A4F7117FB6.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap'
+[2020.11.10-14.57.14:200][180]AssetCheck: New page: Asset Save: Level
+[2020.11.10-14.57.14:200][180]LogContentValidation: Display: Validating World /Game/Théo/Level.Level
+[2020.11.10-14.57.16:717][434]Cmd: SELECT NONE
+[2020.11.10-14.57.17:259][494]Cmd: SELECT NONE
+[2020.11.10-14.57.18:226][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-14.57.18:226][588]LogWorld: BeginTearingDown for /Game/Théo/UEDPIE_0_Level
+[2020.11.10-14.57.18:226][588]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-14.57.18:228][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-14.57.18:237][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.10-14.57.18:239][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-14.57.18:253][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-14.57.18:270][588]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023C15274F40), frame # 515588
+[2020.11.10-14.57.18:271][588]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023C15240600), frame # 515588
+[2020.11.10-14.57.18:273][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.11.10-14.57.18:296][589]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.11.10-14.57.32:955][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Level" FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.10-14.57.32:974][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.11.10-14.57.33:163][257]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Level50BF69514E3450CE1BAC00BCFB71C782.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap'
+[2020.11.10-14.57.33:219][257]AssetCheck: New page: Asset Save: Level
+[2020.11.10-14.57.33:219][257]LogContentValidation: Display: Validating World /Game/Théo/Level.Level
