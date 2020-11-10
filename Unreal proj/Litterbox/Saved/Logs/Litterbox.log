@@ -2732,3 +2732,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.10-14.57.33:163][257]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Level50BF69514E3450CE1BAC00BCFB71C782.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap'
 [2020.11.10-14.57.33:219][257]AssetCheck: New page: Asset Save: Level
 [2020.11.10-14.57.33:219][257]LogContentValidation: Display: Validating World /Game/Théo/Level.Level
+[2020.11.10-14.57.54:448][741]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor85)
+[2020.11.10-15.02.38:368][966]Cmd: TRANSACTION UNDO
+[2020.11.10-15.02.38:368][966]LogEditorTransaction: Undo Create Actors
+[2020.11.10-15.02.38:369][966]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Théo/Level.Level:PersistentLevel.ModelComponent_14' invalid (536 verts, 0 indices).
+[2020.11.10-15.02.38:369][966]LogPhysics: Warning: Attempt to build physics data for /Game/Théo/Level.Level:PersistentLevel.ModelComponent_14.BodySetup_0 when we are unable to.
+[2020.11.10-15.02.40:544][171]Cmd: TRANSACTION UNDO
+[2020.11.10-15.02.40:544][171]LogEditorTransaction: Undo Create Actors
+[2020.11.10-15.02.40:551][171]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Théo/Level.Level:PersistentLevel.ModelComponent_14' invalid (536 verts, 0 indices).
+[2020.11.10-15.02.40:551][171]LogPhysics: Warning: Attempt to build physics data for /Game/Théo/Level.Level:PersistentLevel.ModelComponent_14.BodySetup_0 when we are unable to.
+[2020.11.10-15.02.43:941][557]Cmd: TRANSACTION UNDO
+[2020.11.10-15.02.43:941][557]LogEditorTransaction: Undo Create Actors
+[2020.11.10-15.02.43:949][557]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Théo/Level.Level:PersistentLevel.ModelComponent_14' invalid (536 verts, 0 indices).
+[2020.11.10-15.02.43:949][557]LogPhysics: Warning: Attempt to build physics data for /Game/Théo/Level.Level:PersistentLevel.ModelComponent_14.BodySetup_0 when we are unable to.
+[2020.11.10-15.02.44:186][564]Cmd: TRANSACTION UNDO
+[2020.11.10-15.02.44:186][564]LogEditorTransaction: Undo Create Actors
+[2020.11.10-15.02.44:437][571]Cmd: TRANSACTION UNDO
+[2020.11.10-15.02.44:437][571]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.11.10-15.02.48:789][ 86]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor56)
+[2020.11.10-15.02.49:940][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor59)
+[2020.11.10-15.03.13:865][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Level" FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.10-15.03.13:885][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.11.10-15.03.14:083][ 77]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/LevelBEED8A5840E735B1B8E345836BECCBB2.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap'
+[2020.11.10-15.03.14:141][ 77]AssetCheck: New page: Asset Save: Level
+[2020.11.10-15.03.14:141][ 77]LogContentValidation: Display: Validating World /Game/Théo/Level.Level
+[2020.11.10-15.03.29:922][219]LogEditorViewport: Clicking on Actor (LMB): BP_ClimbableCube_C (BP_ClimbableCube)
+[2020.11.10-15.07.05:782][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Théo/Level" FILE="C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.10-15.07.05:800][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.11.10-15.07.05:994][318]LogSavePackage: Moving 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Saved/Level02F83E344EB83F4C6A7C77A85F6F0A81.tmp' to 'C:/Users/theoa/OneDrive/Documents/GitHub/Litterbox/Unreal proj/Litterbox/Content/Théo/Level.umap'
+[2020.11.10-15.07.06:053][318]AssetCheck: New page: Asset Save: Level
+[2020.11.10-15.07.06:053][318]LogContentValidation: Display: Validating World /Game/Théo/Level.Level
